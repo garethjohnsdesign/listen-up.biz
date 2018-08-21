@@ -1,0 +1,100 @@
+---
+title: Listen Up Beta
+timezone: UTC
+collections:
+  clients:
+    title: Clients
+    output: false
+  posts:
+    title: Posts
+    output: true
+  services:
+    title: Services
+    output: true
+  team:
+    title: Team
+    output: false
+  uploads:
+    title: Uploads
+    output: false
+defaults:
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+- scope:
+    path: ''
+    type: clients
+  values:
+    image: 
+    is-client-featured: 
+    is-front: 
+    is-events-press-featured: 
+    is-daytime-radio-featured: 
+    is-artist-and-label-press-featured: 
+    is-specialist-radio-and-club-featured: 
+    is-streaming-promotion-featured: 
+    website: 
+    facebook: 
+    twitter: 
+    instagram: 
+    spotify: 
+    soundcloud: 
+    youtube: 
+    apple: 
+- scope:
+    path: ''
+    type: team
+  values:
+    image: 
+    job-title: 
+    is-featured: 
+    email: 
+url: https://www.listen-up.com
+description: Listen Up provides a bespoke 360 promotional service offering radio,
+  club, online and print campaigns in the UK and worldwide.
+permalink: pretty
+exclude:
+- bower.json
+- Gemfile.lock
+- package.json
+- config.codekit3
+- README*
+- LICENSE*
+- CHANGELOG*
+- node_modules
+- ".gitignore"
+- bower_components
+- assets/scss
+plugins:
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-feed
+- jekyll/imgix
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+company: Listen Up Online Promotions Ltd
+email: hello@listen-up.biz
+google_site_verification: Kx8OEQISNl9almmvWKiQXaeKUy4594ZKTdBHw3mYoy8
+analytics: UA-91478170-1
+logo: "/assets/img/logo.svg"
+per_page: 12
+date_format: "%b %d, %Y"
+future: true
+social:
+  facebook: https://www.facebook.com/listenupbiz
+  instagram: https://www.instagram.com/listenupbiz/
+  twitter: https://twitter.com/ListenUpbiz
+  linkedin: https://www.linkedin.com/company/listen-up-music-pr
+compress_html:
+  comments:
+  - "<!-- "
+  - " -->"
+  blanklines: true
+  profile: false
+imgix:
+  source: listen-up.imgix.net

@@ -1,0 +1,75 @@
+---
+layout: default
+---
+
+<!-- London Map -->
+<div class="grid-container padding-vertical-2">
+  <div class="grid-x grid-padding-x grid-padding-y">
+    <div class="small-12 medium-7 cell">
+      <div id="london_canvas" class="contact__location__map"></div>    
+    </div>
+    
+    <div class="small-12 medium-4 cell">
+        <h3 class="secondary-font">London</h3>
+        <p>Unit 7, Ground Floor<br>
+        21 Bonny Street<br>
+        London<br>
+        NW1 9PE<br>
+        United Kingdom</p>
+      
+        <a href="https://goo.gl/maps/VQfTBakak3B2">Directions</a>
+
+        <a href="tel:02035886200">+44 (0)20 3588 6200</a><br>
+
+    </div>
+  </div>
+</div>
+<!-- End London Map -->
+
+<!-- Los Angeles Map -->
+<div class="grid-container g">
+<div class="grid-x grid-padding-x grid-padding-y">
+  <div class="small-12 medium-7 cell">
+    <div id="la_canvas" class="contact__location__map"></div>    
+  </div>
+  
+  <div class="small-12 medium-4 cell">
+    <div class="contact__location__address">
+      <h3 class="secondary-font">Los Angeles</h3>
+      <p>6725 Sunset Blvd #270<br>
+        Los Angeles<br>
+        CA 90028<br>
+        United States of America</p>
+    </div>
+    
+
+      <a href="https://goo.gl/maps/dcz7Tsg59GC2">Directions</a>
+
+      <a href="tel:+13237856313">+1 (323) 785 6313</a><br>
+
+  </div>
+</div>
+</div>
+<!-- End Los Angeles Map -->
+
+<!-- Enquiries -->
+<div class="grid-container padding-vertical-3">
+  <div class="grid-x grid-padding-x grid-padding-y">
+    
+    <div class="small-12 medium-12 cell">
+      <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-2">
+        {% for enquiry in page.enquiries %}
+        <div class="cell contact__enquiry">
+          <h3 class="secondary-font">{{ enquiry.title }}</h4>
+          {{ enquiry.text | markdownify }}
+          <a href="mailto:{{ enquiry.contact }}">{{ enquiry.contact }}</a>
+        </div>
+        {% endfor %}
+      </div>
+    </div> 
+  
+  </div>
+</div>
+<!-- End Enquiries -->
+
+{% include map-script.html %} 
