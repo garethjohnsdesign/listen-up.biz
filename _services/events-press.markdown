@@ -1,7 +1,6 @@
 ---
 title: Events Press
-categories:
-- events-press
+service: events-press
 position: 1
 subtitle: Our team have experience running press campaigns for a broad range of events
   and venues, from underground club nights, world-renowned festivals through to high-end

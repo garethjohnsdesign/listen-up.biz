@@ -1,7 +1,6 @@
 ---
 title: Specialist Radio + Club
-categories:
-- specialist-radio-and-club
+service: specialist-radio-and-club
 position: 3
 subtitle: Here at Listen up we work very closely with all specialist radio presenters
   and producers across the globe from our UK office.

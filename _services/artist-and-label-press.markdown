@@ -1,7 +1,6 @@
 ---
 title: Artist + Label Press
-categories:
-- artist-and-label-press
+service: artist-and-label-press
 position: 0
 subtitle: 'Listen Up’s artist and label press department consists of a large team
   with extensive experience across print and online world wide campaigns. '
