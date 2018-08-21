@@ -1,7 +1,7 @@
 ---
 title: Daytime Radio
-service: daytime-radio
 position: 2
+service: daytime-radio
 subtitle: We aim to create campaigns tailored to each individual client’s need, whether
   building a track through key UK radio tastemakers, developing an artist towards
   a playlist push, or establishing promotional radio partnerships for festivals. We
