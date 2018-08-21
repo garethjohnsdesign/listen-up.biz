@@ -1,8 +1,11 @@
 ---
 title: Events Press
-category: events-press
+categories:
+- events-press
 position: 1
-subtitle: Our team have experience running press campaigns for a broad range of events and venues, from underground club nights, world-renowned festivals through to high-end venues, restaurants and hotels.
+subtitle: Our team have experience running press campaigns for a broad range of events
+  and venues, from underground club nights, world-renowned festivals through to high-end
+  venues, restaurants and hotels.
 excerpt: 
 layout: service-events-press
 ---

@@ -1,10 +1,13 @@
 ---
 title: Specialist Radio + Club
-category: specialist-radio-and-club
+categories:
+- specialist-radio-and-club
 position: 3
 subtitle: Here at Listen up we work very closely with all specialist radio presenters
   and producers across the globe from our UK office.
-excerpt: We have daily meetings across all stations and aim to gain exposure for your project on a global level. We work out strategic timelines for radio with targeted roll out plans, looking to confirm high level single and remix premieres.
+excerpt: We have daily meetings across all stations and aim to gain exposure for your
+  project on a global level. We work out strategic timelines for radio with targeted
+  roll out plans, looking to confirm high level single and remix premieres.
 layout: service-specialist-radio-and-club
 ---
 

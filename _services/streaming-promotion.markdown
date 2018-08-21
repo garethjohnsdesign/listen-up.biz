@@ -1,6 +1,7 @@
 ---
 title: Streaming Promotion
-category: streaming-promotion
+categories:
+- streaming-promotion
 position: 5
 layout: service-streaming-promotion
 ---

@@ -1,11 +1,11 @@
 ---
 title: Circoloco
-position: 173
-image: "/uploads/circoloco.jpg"
 categories:
 - artist-and-label-press
 tags:
 - artist
+position: 173
+image: "/uploads/circoloco.jpg"
 is-client-featured: false
 is-front: false
 is-events-press-featured: false
