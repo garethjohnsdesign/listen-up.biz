@@ -1,0 +1,39 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html class="no-js" lang="en" dir="ltr">
+
+<!-- Head -->
+{% include head.html %}
+<!-- End Head -->
+
+<body class="{{page.layout | slugify}}">
+
+<!-- Off Canvas Navigation -->
+<div class="off-canvas position-right" id="offCanvas" data-off-canvas data-transition="overlap" data-close-on-click="false" data-content-scroll="false">
+{% include offcanvas.html %}
+</div>
+<!-- End Off Canvas Navigation --> 
+
+<div class="off-canvas-content" data-off-canvas-content>
+<!-- Navigation -->
+{% unless page.layout == "home" %}
+<!-- Testimonials -->
+{% include navigation.html %}
+<!-- End Testimonials -->
+{% endunless %}
+<!-- End Navigation -->
+
+<!-- Content -->
+{{ content }}
+<!-- End Content -->
+
+<!-- Footer -->  
+{% include footer.html %}
+<!-- End Footer -->
+</div>
+</body>
+
+</html>

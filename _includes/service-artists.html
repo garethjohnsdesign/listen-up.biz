@@ -1,0 +1,24 @@
+<div class="grid-x grid-padding-x grid-padding-y padding-vertical-2">
+  
+  <div class="small-12 medium-3 cell">
+    <h3 class="secondary-font text-center medium-text-left">Artists</h3>
+  </div>
+  
+  <div class="small-12 medium-9 cell">
+    <div class="grid-x grid-padding-x small-up-2 medium-up-3"> 
+      {% assign category = page.category %}
+      {% assign clients = site.clients | sort: 'title' %}
+  
+      {% for client in clients %}
+      {% if client.categories contains category %}    
+        {% if client.tags contains 'artist' %}
+        <div class="small-12 cell">
+          {% include link.html %}
+        </div>
+        {% endif %}
+      {% endif %}
+      {% endfor %} 
+    </div>
+  </div>
+
+</div>

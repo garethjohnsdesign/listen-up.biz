@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<!-- Intro -->
+<div class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y align-center">
+    <div class="small-12 medium-9 cell text-center">
+      <h3>{{page.intro}}</h3>
+    </div>
+  </div>
+</div>
+<!-- End Intro -->
+
+<!-- People -->
+<div class="grid-container padding-vertical-2">
+  <div class="grid-x grid-padding-x grid-padding-y text-center medium-text-left">  
+    {% assign teams = site.team | sort: 'position' %}
+    {% for team in teams %}  
+    <div class="small-12 medium-6 cell">
+    <h3 class="secondary-font">{{team.title}}</h3>
+    <h5 class="primary-color">{{team.job-title}}</h5>
+    {{team.content}}
+    </div>
+    {% endfor %}
+  </div>
+</div>
+<!-- End People -->

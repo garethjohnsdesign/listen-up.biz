@@ -1,0 +1,8 @@
+{% if client.website %}
+<a href="{{ client.website }}" target="_blank">{{client.title}}</a>
+{% elsif client.facebook %}
+<a href="{{ client.facebook }}" target="_blank">{{client.title}}</a>
+{% elsif client.twitter %}
+<a href="{{ client.twitter }}" target="_blank">{{client.title}}</a>
+{% else %}{{client.title}}
+{% endif %}

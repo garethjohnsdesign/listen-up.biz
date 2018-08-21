@@ -1,0 +1,61 @@
+<!-- Service Intro -->
+<div class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y">
+    <div class="small-12 medium-10 cell text-center medium-text-left">
+      <h2 class="secondary-font margin-bottom-2">{{ page.title }}</h2>
+      <h3 class="margin-bottom-2">{{ page.subtitle }}</h3>
+      {{ page.content }}
+    </div>
+  </div>
+</div>
+<!-- End Service Intro -->
+
+<div class="grid-container">
+{% assign category = page.category %}
+{% if category == 'artist-and-label-press' %}
+  <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-3">   
+    {% assign clients = site.clients | sort: 'position' | where: "is-artist-and-label-featured", "true" %}
+    {% for client in clients %}     
+      <div class="cell">
+       {% include excerpt.html %}
+      </div>
+    {% endfor %}  
+  </div>
+{% elsif category == 'events-press' %}
+  <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-3">
+    {% assign clients = site.clients | sort: 'position' | where: "is-events-press-featured", "true" %}
+    {% for client in clients %}  
+      <div class="cell">
+       {% include excerpt.html %}
+      </div> 
+    {% endfor %}  
+  </div>
+{% elsif category == 'daytime-radio' %}
+  <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-3">
+    {% assign clients = site.clients | sort: 'position' | where: "is-daytime-radio-featured", "true" %}
+    {% for client in clients %}     
+      <div class="cell">
+       {% include excerpt.html %}
+      </div>
+    {% endfor %}  
+  </div>
+{% elsif category == 'specialist-radio-and-club' %}
+  <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-3">
+    {% assign clients = site.clients | sort: 'position' | where: "is-specialist-radio-and-club-featured", "true" %}
+    {% for client in clients %}    
+      <div class="cell">
+       {% include excerpt.html %}
+      </div>     
+    {% endfor %}  
+  </div>
+{% elsif category == 'streaming-promotion' %}
+  <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-3">
+    {% assign clients = site.clients | sort: 'position' | where: "is-streaming-promotion-featured", "true" %}
+    {% for client in clients %}       
+      <div class="cell">
+       {% include excerpt.html %}  
+      </div> 
+    {% endfor %}  
+  </div>
+{% endif %}
+</div>
