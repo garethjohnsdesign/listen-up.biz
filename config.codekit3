@@ -4477,22 +4477,11 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/videos\/video.jpg": {
-		"ft": 16384,
-		"iS": 5895,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/assets\/videos\/video.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/assets\/videos\/video.mp4": {
+	"\/assets\/videos\/video-dark.mp4": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/assets\/videos\/video.mp4",
+		"oAP": "\/assets\/videos\/video-dark.mp4",
 		"oF": 0
 		},
 	"\/bower.json": {
