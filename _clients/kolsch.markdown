@@ -4,7 +4,7 @@ categories:
 - specialist-radio-and-club
 tags:
 - artist
-position: 263
+position: 282
 image: "/uploads/kolsch.jpg"
 is-client-featured: true
 is-front: true

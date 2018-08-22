@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 297
+position: 295
 facebook: https://www.facebook.com/SonnyAlven/
 ---
 

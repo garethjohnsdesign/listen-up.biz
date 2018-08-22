@@ -4,7 +4,7 @@ categories:
 - specialist-radio-and-club
 tags:
 - labels
-position: 106
+position: 192
 website: http://www.innervisions.com/
 ---
 

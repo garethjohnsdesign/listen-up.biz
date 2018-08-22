@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 92
+position: 183
 facebook: https://www.facebook.com/detlefmusic/
 ---
 

@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 155
+position: 222
 image: "/uploads/coffee.jpg"
 is-client-featured: false
 is-front: true

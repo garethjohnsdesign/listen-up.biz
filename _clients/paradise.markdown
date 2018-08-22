@@ -4,7 +4,7 @@ categories:
 - events-press
 tags:
 - venue
-position: 216
+position: 256
 image: "/uploads/paradise.jpg"
 is-client-featured: true
 is-front: false

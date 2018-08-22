@@ -4,7 +4,7 @@ categories:
 - events-press
 tags:
 - festival
-position: 298
+position: 296
 image: "/uploads/sw4.jpg"
 is-client-featured: false
 is-front: true

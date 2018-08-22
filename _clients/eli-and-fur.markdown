@@ -5,7 +5,7 @@ categories:
 - specialist-radio-and-club
 tags:
 - artist
-position: 130
+position: 209
 image: "/uploads/elifur.jpg"
 is-client-featured: false
 is-front: false

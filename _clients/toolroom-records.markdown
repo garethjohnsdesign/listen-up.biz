@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - label
-position: 322
+position: 305
 facebook: https://www.facebook.com/toolroomrecords/
 ---
 

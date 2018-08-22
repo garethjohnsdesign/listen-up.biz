@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 213
+position: 254
 image: "/uploads/nicole.jpg"
 is-client-featured: true
 is-front: true

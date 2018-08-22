@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 26
+position: 132
 image: "/uploads/jonas-blue.jpg"
 is-client-featured: true
 is-front: true

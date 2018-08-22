@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 38
+position: 140
 image: "/uploads/oliver-heldens.jpg"
 facebook: https://www.facebook.com/OliverHeldens/
 ---

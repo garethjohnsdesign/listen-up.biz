@@ -5,6 +5,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
+position: 74
 image: "/uploads/lil-dicky.jpg"
 is-front: true
 ---

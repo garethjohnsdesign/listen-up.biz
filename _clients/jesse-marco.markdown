@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 256
+position: 276
 facebook: https://www.facebook.com/JesseMarco/
 ---
 

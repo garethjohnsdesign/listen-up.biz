@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 204
+position: 249
 facebook: https://www.facebook.com/lewisdelmar/
 ---
 

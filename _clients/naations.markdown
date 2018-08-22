@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 343
+position: 315
 image: "/uploads/naations.jpg"
 facebook: https://www.facebook.com/naationsofficial/
 ---

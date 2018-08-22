@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 337
+position: 313
 image: "/uploads/subfocus.jpg"
 is-client-featured: false
 is-front: false

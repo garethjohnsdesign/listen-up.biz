@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - label
-position: 328
+position: 309
 image: "/uploads/warner-records.jpg"
 is-front: true
 facebook: https://www.facebook.com/WarnerBrosRecords

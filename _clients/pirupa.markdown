@@ -2,7 +2,7 @@
 title: Pirupa
 tags:
 - artist
-position: 271
+position: 286
 facebook: https://www.facebook.com/Pirupaofficial/
 ---
 

@@ -4,7 +4,7 @@ categories:
 - daytime-radio
 tags:
 - artist
-position: 122
+position: 204
 image: "/uploads/dimension.jpg"
 is-front: false
 is-daytime-radio-featured: false

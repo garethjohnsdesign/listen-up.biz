@@ -7,7 +7,7 @@ categories:
 - streaming-promotion
 tags:
 - label
-position: 48
+position: 146
 image: "/uploads/sony.jpg"
 is-front: true
 is-artist-and-label-featured: true

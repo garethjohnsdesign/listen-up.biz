@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 160
+position: 226
 website: http://www.blacksunempire.com
 facebook: https://www.facebook.com/blacksunempire/
 twitter: https://twitter.com/_blacksunempire

@@ -4,7 +4,7 @@ categories:
 - events-press
 tags:
 - venue
-position: 168
+position: 231
 website: http://cavoparadiso.gr
 facebook: https://www.facebook.com/cavoparadiso
 twitter: https://twitter.com/Cavo_Paradiso

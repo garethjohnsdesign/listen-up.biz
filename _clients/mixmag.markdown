@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - publication
-position: 264
+position: 283
 website: https://www.facebook.com/MixmagMagazine/
 ---
 

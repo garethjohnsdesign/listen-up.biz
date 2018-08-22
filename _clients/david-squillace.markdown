@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 128
+position: 207
 facebook: https://www.facebook.com/davidesquillace
 twitter: https://twitter.com/DavideSquillace
 instagram: https://www.instagram.com/davidesquillace/

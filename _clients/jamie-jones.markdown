@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 116
+position: 200
 image: "/uploads/jamie-jones.jpg"
 is-client-featured: true
 is-front: true

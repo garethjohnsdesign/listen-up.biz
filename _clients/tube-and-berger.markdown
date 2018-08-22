@@ -5,7 +5,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 3
+position: 114
 facebook: https://www.facebook.com/tubeandbergerofficial/
 ---
 

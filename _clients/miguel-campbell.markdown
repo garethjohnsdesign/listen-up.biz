@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 190
+position: 243
 website: http://www.miguelcampbellofficial.com/
 ---
 

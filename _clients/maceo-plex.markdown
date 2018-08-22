@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 36
+position: 139
 image: "/uploads/maceo-plex.jpg"
 is-client-featured: false
 is-artist-and-label-featured: false

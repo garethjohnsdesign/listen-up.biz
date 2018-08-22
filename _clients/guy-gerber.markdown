@@ -5,7 +5,7 @@ categories:
 - specialist-radio-and-club
 tags:
 - artist
-position: 244
+position: 271
 image: "/uploads/gerber.jpg"
 is-client-featured: false
 is-front: false

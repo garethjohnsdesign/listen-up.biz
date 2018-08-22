@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 14
+position: 124
 image: "/uploads/duke.jpg"
 ---
 

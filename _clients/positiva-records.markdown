@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - label
-position: 229
+position: 261
 facebook: https://www.facebook.com/PositivaRecords
 ---
 

@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - label
-position: 144
+position: 216
 website: http://axtone.com
 facebook: https://www.facebook.com/axtone
 twitter: http://twitter.com/axtone

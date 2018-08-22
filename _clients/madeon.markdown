@@ -2,7 +2,7 @@
 title: Madeon
 tags:
 - artist
-position: 196
+position: 245
 facebook: https://www.facebook.com/itsmadeon/
 ---
 

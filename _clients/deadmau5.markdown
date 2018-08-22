@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 117
+position: 201
 image: "/uploads/deadmau5.jpg"
 is-client-featured: true
 is-front: true

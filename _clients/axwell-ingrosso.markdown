@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 145
+position: 217
 website: https://axwellingrosso.com
 facebook: https://www.facebook.com/axwellingrosso/
 twitter: http://twitter.com/axtone

@@ -2,7 +2,7 @@
 title: Neon Records
 tags:
 - label
-position: 210
+position: 252
 facebook: https://www.facebook.com/neonrecords
 ---
 

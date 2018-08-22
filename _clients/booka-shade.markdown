@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 163
+position: 228
 website: https://www.bookashade.com
 facebook: https://facebook.com/bookashade
 twitter: https://twitter.com/bookashade

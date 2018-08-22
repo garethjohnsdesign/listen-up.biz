@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 164
+position: 229
 is-artist-and-label-featured: false
 website: http://www.brobotrecords.com
 facebook: https://www.facebook.com/brobotrecords/

@@ -4,7 +4,7 @@ categories:
 - events-press
 tags:
 - festival
-position: 135
+position: 213
 facebook: https://www.facebook.com/ExtremaOutdoor.Belgium/
 ---
 

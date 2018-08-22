@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 232
+position: 264
 image: "/uploads/eats.jpg"
 is-front: true
 website: https://eatseverything.com

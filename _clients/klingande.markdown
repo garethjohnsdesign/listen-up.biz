@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 260
+position: 279
 facebook: https://www.facebook.com/Klingande/
 ---
 

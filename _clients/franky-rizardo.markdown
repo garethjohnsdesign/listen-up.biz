@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 239
+position: 268
 facebook: https://www.facebook.com/FrankyRizardo/
 ---
 

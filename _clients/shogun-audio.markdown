@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - label
-position: 288
+position: 291
 facebook: https://www.facebook.com/shogunaudio
 ---
 

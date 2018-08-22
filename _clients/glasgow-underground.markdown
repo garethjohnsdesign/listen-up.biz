@@ -4,7 +4,7 @@ categories:
 - specialist-radio-and-club
 tags:
 - label
-position: 62
+position: 157
 facebook: https://www.facebook.com/glasgowunderground/
 ---
 

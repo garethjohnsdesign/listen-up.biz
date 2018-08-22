@@ -5,7 +5,7 @@ categories:
 - specialist-radio-and-club
 tags:
 - artist
-position: 202
+position: 248
 image: "/uploads/locodice.jpg"
 is-client-featured: false
 is-front: true

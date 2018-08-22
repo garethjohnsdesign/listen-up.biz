@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - label
-position: 113
+position: 197
 image: "/uploads/universal.jpg"
 is-client-featured: true
 is-front: true

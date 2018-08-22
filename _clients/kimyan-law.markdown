@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 259
+position: 278
 facebook: https://www.facebook.com/kimyanlawmusic/
 ---
 

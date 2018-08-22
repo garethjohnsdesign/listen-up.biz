@@ -4,7 +4,7 @@ categories:
 - specialist-radio-and-club
 tags:
 - artist
-position: 19
+position: 126
 facebook: https://www.facebook.com/zombiedisco/
 ---
 

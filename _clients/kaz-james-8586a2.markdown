@@ -5,7 +5,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 11
+position: 121
 facebook: https://www.facebook.com/kazjames/
 ---
 
