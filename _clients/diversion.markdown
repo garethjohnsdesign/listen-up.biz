@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 175
+position: 235
 website: http://www.diversionla.com
 facebook: https://www.facebook.com/DiversionLA/
 twitter: https://twitter.com/diversionca

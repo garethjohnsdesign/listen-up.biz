@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 173
+position: 234
 image: "/uploads/circoloco.jpg"
 is-client-featured: false
 is-front: false

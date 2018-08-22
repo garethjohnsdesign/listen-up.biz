@@ -2,7 +2,7 @@
 title: R3hab
 tags:
 - artist
-position: 230
+position: 262
 website: http://www.djr3hab.com/
 facebook: https://www.facebook.com/r3hab
 twitter: https://twitter.com/r3hab

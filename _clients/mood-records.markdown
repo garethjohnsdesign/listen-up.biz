@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 339
+position: 314
 image: "/uploads/mood.jpg"
 ---
 

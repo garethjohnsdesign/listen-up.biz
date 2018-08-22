@@ -4,7 +4,7 @@ categories:
 - specialist-radio-and-club
 tags:
 - label
-position: 86
+position: 179
 facebook: https://www.facebook.com/KompaktRecords/
 ---
 

@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 307
+position: 301
 facebook: https://www.facebook.com/SvenVaethOfficial/
 ---
 

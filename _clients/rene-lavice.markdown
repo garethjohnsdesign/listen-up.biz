@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 276
+position: 288
 website: http://www.renelavice.com/
 ---
 

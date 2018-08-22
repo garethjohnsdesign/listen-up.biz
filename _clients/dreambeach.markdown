@@ -4,7 +4,7 @@ categories:
 - events-press
 tags:
 - festival
-position: 176
+position: 236
 website: http://www.dreambeach.es
 facebook: https://www.facebook.com/DreambeachFestVillaricos
 twitter: https://twitter.com/DreambeachFest

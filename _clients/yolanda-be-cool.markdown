@@ -2,7 +2,7 @@
 title: Yolanda Be Cool
 tags:
 - artist
-position: 331
+position: 310
 facebook: https://www.facebook.com/yolandabecool/
 ---
 

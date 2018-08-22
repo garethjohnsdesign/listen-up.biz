@@ -5,7 +5,7 @@ categories:
 - streaming-promotion
 tags:
 - label
-position: 57
+position: 154
 image: "/uploads/bmg-music.jpg"
 is-streaming-promotion-featured: true
 ---

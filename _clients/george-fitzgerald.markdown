@@ -4,7 +4,7 @@ categories:
 - specialist-radio-and-club
 tags:
 - artist
-position: 242
+position: 270
 facebook: https://www.facebook.com/GeorgeFitzGeraldOfficial/
 ---
 

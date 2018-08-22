@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 121
+position: 203
 facebook: https://www.facebook.com/DieMantle/
 twitter: https://twitter.com/DieMantle
 instagram: https://www.instagram.com/diemantle/

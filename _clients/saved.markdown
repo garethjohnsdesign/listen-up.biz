@@ -5,7 +5,7 @@ categories:
 - streaming-promotion
 tags:
 - label
-position: 6
+position: 117
 image: "/uploads/saved.jpg"
 is-streaming-promotion-featured: true
 website: http://www.savedrecords.com/

@@ -4,7 +4,7 @@ categories:
 - events-press
 tags:
 - venue
-position: 134
+position: 212
 image: "/uploads/esvive.jpg"
 is-events-press-featured: true
 facebook: https://www.facebook.com/esvive

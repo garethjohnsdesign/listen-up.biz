@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - label
-position: 158
+position: 224
 website: http://www.wearebigbeat.com
 facebook: https://www.facebook.com/wearebigbeat
 twitter: https://twitter.com/wearebigbeat

@@ -5,7 +5,7 @@ categories:
 - daytime-radio
 tags:
 - artist
-position: 124
+position: 206
 image: "/uploads/disciples.jpg"
 is-front: true
 is-daytime-radio-featured: true

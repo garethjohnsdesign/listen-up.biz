@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - label
-position: 140
+position: 215
 website: https://www.anjunabeats.com/
 facebook: https://www.facebook.com/anjunabeats
 twitter: https://twitter.com/anjunabeats

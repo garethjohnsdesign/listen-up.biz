@@ -6,7 +6,7 @@ categories:
 tags:
 - label
 - labels
-position: 325
+position: 307
 image: "/uploads/ultra.jpg"
 is-front: true
 facebook: https://www.facebook.com/ultramusic

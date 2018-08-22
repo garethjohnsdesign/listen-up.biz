@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 179
+position: 238
 website: http://quackisback.com
 facebook: https://www.facebook.com/ducksaucenyc
 twitter: https://twitter.com/ducksaucenyc

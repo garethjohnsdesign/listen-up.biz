@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 172
+position: 233
 website: http://www.chris-lake.com
 facebook: https://www.facebook.com/chrislake
 twitter: https://twitter.com/chrislake

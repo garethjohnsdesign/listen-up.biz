@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 166
+position: 230
 facebook: https://www.facebook.com/CamelPhat/
 twitter: https://twitter.com/CamelPhat
 instagram: https://www.instagram.com/camelphatmusic/

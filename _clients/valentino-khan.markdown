@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 22
+position: 129
 facebook: https://www.facebook.com/ValentinoKhan/
 ---
 

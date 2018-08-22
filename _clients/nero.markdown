@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 211
+position: 253
 facebook: https://www.facebook.com/nero
 ---
 

@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 169
+position: 232
 website: http://cedricgervais.com
 facebook: http://www.facebook.com/cedgerv/
 twitter: http://twitter.com/CedricGervais

@@ -4,7 +4,7 @@ categories:
 - specialist-radio-and-club
 tags:
 - artist
-position: 50
+position: 148
 facebook: https://www.facebook.com/officialrobertdietz/
 ---
 

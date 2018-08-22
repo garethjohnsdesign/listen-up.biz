@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 123
+position: 205
 website: http://dirtysouth.com
 facebook: http://facebook.com/dirtysouth
 twitter: http://twitter.com/dirtysouth

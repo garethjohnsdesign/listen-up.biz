@@ -5,7 +5,7 @@ categories:
 - specialist-radio-and-club
 tags:
 - artist
-position: 87
+position: 180
 image: "/uploads/danny-howard.jpg"
 is-front: true
 facebook: https://www.facebook.com/dannyhowarddj/

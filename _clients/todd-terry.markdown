@@ -4,7 +4,7 @@ categories:
 - specialist-radio-and-club
 tags:
 - artist
-position: 12
+position: 122
 facebook: https://www.facebook.com/djtoddterry/
 ---
 

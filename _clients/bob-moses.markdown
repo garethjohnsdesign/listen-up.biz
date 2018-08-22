@@ -4,7 +4,7 @@ categories:
 - specialist-radio-and-club
 tags:
 - artist
-position: 162
+position: 227
 website: http://bobmosesmusic.com
 facebook: https://www.facebook.com/bobmosesmusic
 twitter: https://twitter.com/bobmosesmusic

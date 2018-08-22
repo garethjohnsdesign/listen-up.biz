@@ -5,7 +5,7 @@ categories:
 - specialist-radio-and-club
 tags:
 - artist
-position: 258
+position: 277
 facebook: https://www.facebook.com/kaskade/
 ---
 

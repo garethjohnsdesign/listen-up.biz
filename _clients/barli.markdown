@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 146
+position: 218
 facebook: https://www.facebook.com/iamBarli/
 twitter: https://twitter.com/iambarli
 instagram: https://www.instagram.com/iambarli/

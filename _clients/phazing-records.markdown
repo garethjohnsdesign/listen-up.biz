@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - label
-position: 269
+position: 285
 facebook: https://www.facebook.com/phazingrecords
 ---
 

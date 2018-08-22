@@ -4,6 +4,6 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 20
+position: 127
 ---
 

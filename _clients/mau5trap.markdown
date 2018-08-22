@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - label
-position: 193
+position: 244
 facebook: https://www.facebook.com/mau5trap/
 ---
 

@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 336
+position: 312
 image: "/uploads/patrick-topping.jpg"
 is-client-featured: false
 is-front: false

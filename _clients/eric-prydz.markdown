@@ -5,7 +5,7 @@ categories:
 - specialist-radio-and-club
 tags:
 - artist
-position: 132
+position: 210
 image: "/uploads/eric-prydz.jpg"
 is-client-featured: false
 is-front: true

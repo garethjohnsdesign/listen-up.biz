@@ -5,7 +5,7 @@ categories:
 - specialist-radio-and-club
 tags:
 - artist
-position: 139
+position: 214
 image: "/uploads/andrea.jpg"
 is-front: false
 is-daytime-radio-featured: false

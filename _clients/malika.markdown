@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 198
+position: 246
 facebook: https://www.facebook.com/hernameismalika
 ---
 

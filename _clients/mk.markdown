@@ -5,7 +5,7 @@ categories:
 - daytime-radio
 tags:
 - artist
-position: 266
+position: 284
 image: "/uploads/mk.jpg"
 is-client-featured: true
 is-front: true

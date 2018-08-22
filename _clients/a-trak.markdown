@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 112
+position: 196
 image: "/uploads/atrak.jpg"
 is-client-featured: false
 is-front: false

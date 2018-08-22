@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 178
+position: 237
 website: http://thedjfresh.com
 facebook: http://www.facebook.com/djfresh
 twitter: http://www.twitter.com/djfreshuk

@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 312
+position: 303
 facebook: https://www.facebook.com/themagicianmusic/
 ---
 

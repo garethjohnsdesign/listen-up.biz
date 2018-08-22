@@ -2,7 +2,7 @@
 title: Maya Jane Coles
 tags:
 - artist
-position: 189
+position: 242
 facebook: https://www.facebook.com/mjcofficial
 ---
 

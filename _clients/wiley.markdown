@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 114
+position: 198
 image: "/uploads/wiley.jpg"
 is-client-featured: true
 is-front: true

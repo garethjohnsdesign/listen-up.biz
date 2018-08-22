@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 182
+position: 239
 image: "/uploads/solveig.jpg"
 is-front: true
 is-daytime-radio-featured: false

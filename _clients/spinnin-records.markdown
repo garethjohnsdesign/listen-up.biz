@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - label
-position: 299
+position: 297
 image: "/uploads/spinnin.jpg"
 is-client-featured: false
 is-front: true

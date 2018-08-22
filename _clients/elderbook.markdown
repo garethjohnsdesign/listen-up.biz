@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-position: 233
+position: 265
 facebook: https://www.facebook.com/Elderbrookmusic/
 ---
 

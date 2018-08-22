@@ -4,7 +4,7 @@ categories:
 - specialist-radio-and-club
 tags:
 - label
-position: 302
+position: 298
 image: "/uploads/strictly.jpg"
 is-front: false
 is-specialist-radio-and-club-featured: true
