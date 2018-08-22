@@ -2480,6 +2480,12 @@
 		"oAP": "\/_services\/streaming-promotion.markdown",
 		"oF": 0
 		},
+	"\/_site": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/_site",
+		"oF": 0
+		},
 	"\/_team\/carina-low.markdown": {
 		"cB": 0,
 		"ft": 8192,
