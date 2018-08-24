@@ -3,7 +3,7 @@ title: Polydor
 categories:
 - daytime-radio
 tags:
-- labels
+- label
 position: 155
 ---
 

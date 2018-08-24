@@ -3,7 +3,7 @@ title: Openers
 categories:
 - specialist-radio-and-club
 tags:
-- labels
+- label
 position: 194
 ---
 

@@ -1,8 +1,9 @@
 ---
 title: Tough Love
+categories:
+- artist-and-label-press
 tags:
 - artist
-- daytime-radio
 position: 306
 facebook: https://www.facebook.com/toughlovemusic/
 ---

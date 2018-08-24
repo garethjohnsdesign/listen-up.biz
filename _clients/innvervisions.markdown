@@ -3,7 +3,7 @@ title: Innvervisions
 categories:
 - specialist-radio-and-club
 tags:
-- labels
+- label
 position: 192
 website: http://www.innervisions.com/
 ---

@@ -45,6 +45,13 @@ defaults:
     apple: 
 - scope:
     path: ''
+    type: services
+  values:
+    service: 
+    subtitle: 
+    excerpt: 
+- scope:
+    path: ''
     type: team
   values:
     image: 
