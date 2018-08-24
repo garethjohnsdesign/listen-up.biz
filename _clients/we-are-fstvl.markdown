@@ -11,7 +11,7 @@ is-client-featured: true
 is-home-featured: true
 is-events-press-featured: true
 is-daytime-radio-featured: false
-is-artist-and-label-featured: false
+is-artist-and-label-press-featured: false
 facebook: https://www.facebook.com/wearefstvl
 ---
 

@@ -9,7 +9,7 @@ image: "/uploads/jamie-jones.jpg"
 is-client-featured: true
 is-home-featured: true
 is-digital-featured: false
-is-artist-and-label-featured: true
+is-artist-and-label-press-featured: true
 website: http://hotcreations.com
 facebook: https://www.facebook.com/jamiejonesmusic/
 twitter: https://twitter.com/JamieJonesMusic
