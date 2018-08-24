@@ -2,7 +2,6 @@
 title: Martin Solveig
 categories:
 - daytime-radio
-- artist
 tags:
 - artist
 position: 239

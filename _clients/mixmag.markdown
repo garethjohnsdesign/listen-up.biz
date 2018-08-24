@@ -4,7 +4,7 @@ categories:
 - daytime-radio
 - artist
 tags:
-- publication
+- label
 position: 283
 website: https://www.facebook.com/MixmagMagazine/
 ---

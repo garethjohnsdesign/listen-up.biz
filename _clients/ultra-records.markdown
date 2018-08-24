@@ -5,7 +5,7 @@ categories:
 - daytime-radio
 tags:
 - label
-- labels
+- label
 position: 307
 image: "/uploads/ultra.jpg"
 is-home-featured: true

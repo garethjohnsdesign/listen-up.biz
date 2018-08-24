@@ -4,7 +4,7 @@ categories:
 - artist-and-label-press
 tags:
 - label
-- labels
+- label
 position: 251
 facebook: https://www.facebook.com/owsla
 ---
