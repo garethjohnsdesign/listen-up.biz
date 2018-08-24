@@ -7558,9 +7558,6 @@ footer {
   .excerpt:hover .excerpt__title {
     opacity: 0; }
 
-.excerpt img {
-  filter: grayscale(1); }
-
 .excerpt__title {
   position: absolute;
   width: 100%;
