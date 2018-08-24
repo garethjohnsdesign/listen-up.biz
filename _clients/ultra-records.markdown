@@ -8,7 +8,7 @@ tags:
 - labels
 position: 307
 image: "/uploads/ultra.jpg"
-is-front: true
+is-home-featured: true
 facebook: https://www.facebook.com/ultramusic
 ---
 

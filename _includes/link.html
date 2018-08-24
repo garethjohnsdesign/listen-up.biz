@@ -1,5 +1,7 @@
 {% if client.website %}
 <a href="{{ client.website }}" target="_blank">{{client.title}}</a>
+{% elsif client.instagram %}
+<a href="{{ client.instagram }}" target="_blank">{{client.title}}</a>
 {% elsif client.facebook %}
 <a href="{{ client.facebook }}" target="_blank">{{client.title}}</a>
 {% elsif client.twitter %}

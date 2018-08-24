@@ -7,7 +7,7 @@ tags:
 position: 312
 image: "/uploads/patrick-topping.jpg"
 is-client-featured: false
-is-front: false
+is-home-featured: false
 facebook: https://www.facebook.com/patricktoppingdj/
 twitter: https://twitter.com/Patrick_Topping
 instagram: https://www.instagram.com/patricktopping/

@@ -7,7 +7,7 @@ tags:
 position: 222
 image: "/uploads/coffee.jpg"
 is-client-featured: false
-is-front: true
+is-home-featured: true
 website: http://www.blackcoffee.dj
 facebook: https://www.facebook.com/realblackcoffee
 twitter: https://twitter.com/RealBlackCoffee

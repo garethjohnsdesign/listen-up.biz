@@ -8,7 +8,7 @@ tags:
 position: 210
 image: "/uploads/eric-prydz.jpg"
 is-client-featured: false
-is-front: true
+is-home-featured: true
 is-specialist-radio-and-club-featured: true
 facebook: https://www.facebook.com/EricPrydzOfficial
 ---

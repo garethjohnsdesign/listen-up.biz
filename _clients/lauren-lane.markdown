@@ -6,7 +6,7 @@ tags:
 - artist
 position: 260
 image: "/uploads/lauren.jpg"
-is-front: false
+is-home-featured: false
 facebook: https://www.facebook.com/laurenlanemusic/
 ---
 

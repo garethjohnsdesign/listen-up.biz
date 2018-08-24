@@ -8,7 +8,7 @@ tags:
 position: 189
 image: "/uploads/mello.jpg"
 is-client-featured: false
-is-front: true
+is-home-featured: true
 is-daytime-radio-featured: true
 is-artist-and-label-featured: true
 website: http://www.marshmellomusic.com/

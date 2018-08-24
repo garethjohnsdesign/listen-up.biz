@@ -7,7 +7,7 @@ tags:
 position: 313
 image: "/uploads/subfocus.jpg"
 is-client-featured: false
-is-front: false
+is-home-featured: false
 facebook: https://www.facebook.com/subfocus/
 deezer: 
 ---

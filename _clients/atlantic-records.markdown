@@ -6,6 +6,6 @@ tags:
 - label
 position: 142
 image: "/uploads/atlantic-records.jpg"
-is-front: true
+is-home-featured: true
 ---
 

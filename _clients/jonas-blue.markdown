@@ -7,6 +7,6 @@ tags:
 position: 132
 image: "/uploads/jonas-blue.jpg"
 is-client-featured: true
-is-front: true
+is-home-featured: true
 ---
 

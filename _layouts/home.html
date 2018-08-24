@@ -39,7 +39,7 @@ layout: default
 <!-- Front Clients -->
 <div class="grid-container">
 <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-3">
-  {% assign clients = site.clients | sort: 'position' | where: "is-front", "true" | sample:9 %}
+  {% assign clients = site.clients | sort: 'position' | where: "is-home-featured", "true" | sample:9 %}
   {% for client in clients %}
     <div class="cell">
     {% include excerpt.html %}

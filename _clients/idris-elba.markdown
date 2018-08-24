@@ -7,6 +7,6 @@ tags:
 position: 50
 image: "/uploads/idris.jpg"
 is-client-featured: true
-is-front: true
+is-home-featured: true
 ---
 

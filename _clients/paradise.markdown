@@ -7,7 +7,7 @@ tags:
 position: 256
 image: "/uploads/paradise.jpg"
 is-client-featured: true
-is-front: false
+is-home-featured: false
 is-events-press-featured: true
 is-digital-featured: false
 facebook: https://www.facebook.com/ParadiseInParadise/

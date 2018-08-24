@@ -7,7 +7,7 @@ tags:
 position: 83
 image: "/uploads/waka-flocka-flame.jpg"
 is-client-featured: true
-is-front: true
+is-home-featured: true
 is-artist-and-label-featured: true
 ---
 

@@ -7,6 +7,6 @@ tags:
 - artist
 position: 74
 image: "/uploads/lil-dicky.jpg"
-is-front: true
+is-home-featured: true
 ---
 

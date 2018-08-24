@@ -7,7 +7,7 @@ tags:
 position: 201
 image: "/uploads/deadmau5.jpg"
 is-client-featured: true
-is-front: true
+is-home-featured: true
 is-artist-and-label-featured: true
 website: http://live.deadmau5.com
 facebook: https://www.facebook.com/deadmau5

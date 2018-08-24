@@ -7,7 +7,7 @@ tags:
 - artist
 position: 272
 image: "/uploads/icarus.jpg"
-is-front: false
+is-home-featured: false
 is-specialist-radio-and-club-featured: true
 facebook: https://www.facebook.com/thisisicarus
 ---

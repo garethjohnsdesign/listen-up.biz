@@ -8,7 +8,7 @@ tags:
 position: 220
 image: "/uploads/we-are-fstvl.jpg"
 is-client-featured: true
-is-front: true
+is-home-featured: true
 is-events-press-featured: true
 is-daytime-radio-featured: false
 is-artist-and-label-featured: false

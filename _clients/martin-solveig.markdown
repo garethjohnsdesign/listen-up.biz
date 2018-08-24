@@ -7,7 +7,7 @@ tags:
 - artist
 position: 239
 image: "/uploads/solveig.jpg"
-is-front: true
+is-home-featured: true
 is-daytime-radio-featured: false
 is-artist-and-label-featured: false
 website: http://www.martinsolveig.com

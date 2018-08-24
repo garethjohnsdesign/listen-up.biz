@@ -7,7 +7,7 @@ tags:
 position: 198
 image: "/uploads/wiley.jpg"
 is-client-featured: true
-is-front: true
+is-home-featured: true
 is-daytime-radio-featured: false
 is-artist-and-label-featured: true
 ---
