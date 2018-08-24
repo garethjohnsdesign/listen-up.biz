@@ -7,7 +7,7 @@ tags:
 position: 196
 image: "/uploads/atrak.jpg"
 is-client-featured: false
-is-front: false
+is-home-featured: false
 website: http://atrak.com
 facebook: https://www.facebook.com/atrak
 twitter: https://twitter.com/atrak

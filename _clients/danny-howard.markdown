@@ -7,7 +7,7 @@ tags:
 - artist
 position: 180
 image: "/uploads/danny-howard.jpg"
-is-front: true
+is-home-featured: true
 facebook: https://www.facebook.com/dannyhowarddj/
 ---
 

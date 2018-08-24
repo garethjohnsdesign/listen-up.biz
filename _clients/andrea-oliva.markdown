@@ -7,7 +7,7 @@ tags:
 - artist
 position: 214
 image: "/uploads/andrea.jpg"
-is-front: false
+is-home-featured: false
 is-daytime-radio-featured: false
 website: https://www.andreaolivamusic.com
 facebook: http://www.facebook.com/andreaolivaofficial

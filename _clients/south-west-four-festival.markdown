@@ -7,7 +7,7 @@ tags:
 position: 296
 image: "/uploads/sw4.jpg"
 is-client-featured: false
-is-front: true
+is-home-featured: true
 is-events-press-featured: true
 facebook: https://www.facebook.com/southwestfour
 ---

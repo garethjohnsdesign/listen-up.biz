@@ -28,13 +28,13 @@ defaults:
     type: clients
   values:
     image: 
-    is-client-featured: 
-    is-front: 
+    is-home-featured: 
+    is-artist-and-label-press-featured: 
     is-events-press-featured: 
     is-daytime-radio-featured: 
-    is-artist-and-label-press-featured: 
     is-specialist-radio-and-club-featured: 
     is-streaming-promotion-featured: 
+    is-client-featured: 
     website: 
     facebook: 
     twitter: 

@@ -2,7 +2,6 @@
 title: Listen Up
 position: 0
 image: "/assets/img/og-image.png"
-hero: Without promotion nothing happens
 layout: home
 ---
 

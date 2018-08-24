@@ -7,7 +7,7 @@ tags:
 - artist
 position: 206
 image: "/uploads/disciples.jpg"
-is-front: true
+is-home-featured: true
 is-daytime-radio-featured: true
 website: http://disciplesldn.com
 facebook: https://www.facebook.com/DisciplesLDN

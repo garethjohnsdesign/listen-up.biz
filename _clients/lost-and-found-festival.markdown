@@ -7,7 +7,7 @@ tags:
 position: 225
 image: "/uploads/lost-found.jpg"
 is-client-featured: false
-is-front: false
+is-home-featured: false
 is-events-press-featured: true
 website: http://www.lostandfoundfestival.com
 facebook: https://www.facebook.com/lostandfoundfestival/

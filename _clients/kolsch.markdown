@@ -7,7 +7,7 @@ tags:
 position: 282
 image: "/uploads/kolsch.jpg"
 is-client-featured: true
-is-front: true
+is-home-featured: true
 is-specialist-radio-and-club-featured: true
 facebook: https://www.facebook.com/kolschofficial
 ---

@@ -8,7 +8,7 @@ tags:
 position: 248
 image: "/uploads/locodice.jpg"
 is-client-featured: false
-is-front: true
+is-home-featured: true
 facebook: https://www.facebook.com/locodiceofc
 ---
 

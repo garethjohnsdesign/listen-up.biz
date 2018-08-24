@@ -6,7 +6,7 @@ tags:
 - artist
 position: 204
 image: "/uploads/dimension.jpg"
-is-front: false
+is-home-featured: false
 is-daytime-radio-featured: false
 website: http://thisisdimension.com
 facebook: https://www.facebook.com/Dimension/

@@ -7,7 +7,7 @@ tags:
 position: 199
 image: "/uploads/naass.jpg"
 is-client-featured: false
-is-front: false
+is-home-featured: false
 is-digital-featured: true
 website: http://www.nassfestival.com/
 facebook: http://www.facebook.com/

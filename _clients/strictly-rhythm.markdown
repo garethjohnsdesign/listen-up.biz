@@ -6,7 +6,7 @@ tags:
 - label
 position: 298
 image: "/uploads/strictly.jpg"
-is-front: false
+is-home-featured: false
 is-specialist-radio-and-club-featured: true
 facebook: https://www.facebook.com/strictlyrhythm
 ---

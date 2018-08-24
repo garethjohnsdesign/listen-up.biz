@@ -8,7 +8,7 @@ tags:
 position: 257
 image: "/uploads/parklife.jpg"
 is-client-featured: true
-is-front: true
+is-home-featured: true
 is-events-press-featured: true
 is-daytime-radio-featured: true
 is-artist-and-label-featured: false

@@ -8,7 +8,7 @@ tags:
 position: 284
 image: "/uploads/mk.jpg"
 is-client-featured: true
-is-front: true
+is-home-featured: true
 is-daytime-radio-featured: true
 is-artist-and-label-featured: false
 facebook: https://www.facebook.com/theofficialMK

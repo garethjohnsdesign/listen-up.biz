@@ -8,7 +8,7 @@ tags:
 position: 271
 image: "/uploads/gerber.jpg"
 is-client-featured: false
-is-front: false
+is-home-featured: false
 is-specialist-radio-and-club-featured: true
 facebook: https://www.facebook.com/guygerber
 ---

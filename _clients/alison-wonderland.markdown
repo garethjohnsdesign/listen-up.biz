@@ -8,7 +8,7 @@ tags:
 position: 223
 image: "/uploads/alison-wonderland.jpg"
 is-client-featured: true
-is-front: true
+is-home-featured: true
 website: http://www.alisonwonderland.com.au
 facebook: https://www.facebook.com/awonderdj
 twitter: https://twitter.com/awonderdj

@@ -7,7 +7,7 @@ tags:
 position: 297
 image: "/uploads/spinnin.jpg"
 is-client-featured: false
-is-front: true
+is-home-featured: true
 facebook: https://www.facebook.com/SpinninRecords
 ---
 

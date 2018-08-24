@@ -6,6 +6,6 @@ tags:
 - artist
 position: 125
 image: "/uploads/gorgon-city.jpg"
-is-front: true
+is-home-featured: true
 ---
 

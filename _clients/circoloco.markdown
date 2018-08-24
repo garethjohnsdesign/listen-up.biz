@@ -7,7 +7,7 @@ tags:
 position: 234
 image: "/uploads/circoloco.jpg"
 is-client-featured: false
-is-front: false
+is-home-featured: false
 is-events-press-featured: false
 website: http://www.circolocoibiza.com
 facebook: https://www.facebook.com/circolocoibiza/
