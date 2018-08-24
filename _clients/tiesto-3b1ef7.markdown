@@ -7,6 +7,7 @@ tags:
 - artist
 image: "/uploads/tiesto.png"
 is-home-featured: true
+is-artist-and-label-press-featured: true
 website: https://www.tiesto.com
 ---
 
