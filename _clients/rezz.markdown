@@ -6,7 +6,7 @@ categories:
 tags:
 - artist
 image: "/uploads/rezz.jpg"
-is-artist-and-label-press-featured: true
+is-artist-and-label-press-featured: false
 website: http://officialrezz.com
 ---
 
