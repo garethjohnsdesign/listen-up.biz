@@ -47,9 +47,9 @@ defaults:
     path: ''
     type: services
   values:
-    service:
-    subtitle:
-    excerpt:
+    service: 
+    subtitle: 
+    excerpt: 
 - scope:
     path: ''
     type: team

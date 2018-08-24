@@ -4,7 +4,6 @@ categories:
 - artist-and-label-press
 tags:
 - label
-- label
 position: 250
 facebook: https://www.facebook.com/nothingelsemattersNEM/
 ---
