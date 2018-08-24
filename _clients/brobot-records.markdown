@@ -5,7 +5,7 @@ categories:
 tags:
 - artist
 position: 229
-is-artist-and-label-featured: false
+is-artist-and-label-press-featured: false
 website: http://www.brobotrecords.com
 facebook: https://www.facebook.com/brobotrecords/
 twitter: https://twitter.com/Brobot

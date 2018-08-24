@@ -14,7 +14,7 @@
 {% assign category = page.service %}
 {% if category == 'artist-and-label-press' %}
   <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-3">   
-    {% assign clients = site.clients | sort: 'position' | where: "is-artist-and-label-featured", "true" %}
+    {% assign clients = site.clients | sort: 'position' | where: "is-artist-and-label-press-featured", "true" %}
     {% for client in clients %}     
       <div class="cell">
        {% include excerpt.html %}

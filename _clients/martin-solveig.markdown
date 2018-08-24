@@ -9,7 +9,7 @@ position: 239
 image: "/uploads/solveig.jpg"
 is-home-featured: true
 is-daytime-radio-featured: false
-is-artist-and-label-featured: false
+is-artist-and-label-press-featured: false
 website: http://www.martinsolveig.com
 facebook: http://www.facebook.com/MartinSolveig
 twitter: http://twitter.com/martinsolveig
