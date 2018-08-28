@@ -7,6 +7,7 @@ tags:
 - artist
 image: "/uploads/dj-snake.jpg"
 is-home-featured: true
+is-artist-and-label-press-featured: true
 is-client-featured: true
 twitter: https://twitter.com/djsnake
 ---
