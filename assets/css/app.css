@@ -7560,7 +7560,7 @@ footer {
 .excerpt {
   position: relative; }
   .excerpt:hover .excerpt__title {
-    background: linear-gradient(rgba(227, 32, 23, 0.8), rgba(227, 32, 23, 0.8)); }
+    background: linear-gradient(rgba(227, 32, 23, 0.75), rgba(227, 32, 23, 0.75)); }
 
 .excerpt__title {
   position: absolute;
