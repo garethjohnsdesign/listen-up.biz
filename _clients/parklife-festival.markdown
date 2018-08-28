@@ -7,11 +7,11 @@ tags:
 - festival
 position: 257
 image: "/uploads/parklife.jpg"
-is-client-featured: true
-is-home-featured: true
-is-events-press-featured: true
-is-daytime-radio-featured: true
+is-home-featured: false
 is-artist-and-label-press-featured: false
+is-events-press-featured: false
+is-daytime-radio-featured: false
+is-client-featured: false
 facebook: https://www.facebook.com/parklifefestival
 ---
 
