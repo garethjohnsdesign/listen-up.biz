@@ -6,7 +6,8 @@ tags:
 - artist
 position: 50
 image: "/uploads/idris.jpg"
-is-client-featured: true
 is-home-featured: true
+is-client-featured: true
+twitter: https://twitter.com/idriselba
 ---
 
