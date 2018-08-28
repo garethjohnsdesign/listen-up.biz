@@ -118,17 +118,18 @@ p a {
 // -------------
 
 .navigation {
+  background-color: $primary-color;
   .cell {
 	z-index: 17; 
   }
-  @include links ($primary-color, $black)
+  @include links ($white, $black)
 }
 
 .hamburger-inner {
   &,
   &::before,
   &::after {
-    background-color: $black;
+    background-color: $white;
   }
 }
 
@@ -160,9 +161,6 @@ p a {
   }
 }
 
-.home .is-dropdown-submenu {
-  background-color: transparent;
-}
 
 
 // 16. Footer
@@ -206,7 +204,9 @@ footer {
 .excerpt {
   position:relative;
   &:hover .excerpt__title {
-  opacity: 0;
+  background: linear-gradient(
+                     rgba(227, 32, 23, .8),  
+                     rgba(227, 32, 23, .8),)
   }
 }
 
@@ -232,7 +232,7 @@ footer {
   background-size: cover;
   background-position: center center;
   height: 100vh;
-  @include links ($white, $primary-color)
+  @include links ($white, $black)
 }
 
 .hero__arrow {
@@ -245,16 +245,17 @@ footer {
   left: 0;
   z-index: 1;
   width: 100%;
-}
-
-.home .hero {
   @include links ($primary-color, $white)
 }
 
+/*
 .home .hero .menu {
   @include links ($white, $primary-color)
 }
+*/
 
+/*
 .home .hero .menu .icon-social {
-  @include links ($primary-color, $white)
+  @include links ($white, $white)
 }
+*/

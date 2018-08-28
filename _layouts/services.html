@@ -15,7 +15,7 @@ layout: default
       {% assign services = site.services | sort: 'position' %}
       {% for service in services %}
       <div class="margin-bottom-2">
-      <h3 class="secondary-font">{{ service.title }}</h3>
+      <h3>{{ service.title }}</h3>
       <h4 class="secondary-color">{{ service.subtitle }}</h4>
       <p>{{ service.content }}</p>
       <a href="{{ service.url }}" class="plus">More</a>

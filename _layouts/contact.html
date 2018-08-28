@@ -10,7 +10,7 @@ layout: default
     </div>
     
     <div class="small-12 medium-4 cell">
-        <h3 class="secondary-font">London</h3>
+        <h3>London</h3>
         <p>Unit 7, Ground Floor<br>
         21 Bonny Street<br>
         London<br>
@@ -34,7 +34,7 @@ layout: default
   
   <div class="small-12 medium-4 cell">
     <div class="contact__location__address">
-      <h3 class="secondary-font">Los Angeles</h3>
+      <h3>Los Angeles</h3>
       <p>6725 Sunset Blvd #270<br>
         Los Angeles<br>
         CA 90028<br>
@@ -57,7 +57,7 @@ layout: default
       <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-2">
         {% for enquiry in page.enquiries %}
         <div class="cell contact__enquiry">
-          <h3 class="secondary-font">{{ enquiry.title }}</h4>
+          <h3>{{ enquiry.title }}</h4>
           {{ enquiry.text | markdownify }}
           <a href="mailto:{{ enquiry.contact }}" class="underline">{{ enquiry.contact }}</a>
         </div>
