@@ -2,6 +2,9 @@
 title: Listen Up
 timezone: UTC
 collections:
+  categories:
+    title: Categories
+    output: true
   clients:
     title: Clients
     output: false
