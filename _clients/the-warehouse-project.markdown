@@ -7,6 +7,7 @@ tags:
 - venue
 image: "/uploads/the-warehouse-project.jpg"
 is-events-press-featured: true
+is-client-featured: true
 website: https://www.thewarehouseproject.com
 ---
 
