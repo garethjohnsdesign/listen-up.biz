@@ -26,7 +26,7 @@ layout: default
 
 
 <!-- Intro -->
-<div class="grid-container padding-vertical-2" id="home-intro">
+<div class="grid-container padding-vertical-3" id="home-intro">
   <div class="grid-x grid-padding-x grid-padding-y align-center">
     <div class="small-12 medium-10 cell text-center">
       <h3>{{page.content}}</h3>
@@ -37,15 +37,13 @@ layout: default
 
 
 <!-- Front Clients -->
-<div class="grid-container">
-<div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-3">
-  {% assign clients = site.clients | sort: 'position' | where: "is-home-featured", "true" | sample:9 %}
-  {% for client in clients %}
+<div class="grid-x padding-bottom-3 small-up-1 medium-up-2 large-up-3 xxlarge-up-4">
+  {% assign front-clients = site.clients | sort: 'position' | where: "is-home-featured", "true" | sample:24 %}
+  {% for client in front-clients %}
     <div class="cell">
     {% include excerpt.html %}
     </div>
   {% endfor %}
-</div>
 </div>
 <!-- End Front Clients -->
 
