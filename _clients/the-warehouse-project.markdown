@@ -5,6 +5,8 @@ categories:
 - events-press
 tags:
 - venue
+image: "/uploads/the-warehouse-project.jpg"
+is-events-press-featured: true
 website: https://www.thewarehouseproject.com
 ---
 
