@@ -59,7 +59,8 @@ defaults:
     is-featured: 
     email: 
 url: https://www.listen-up.biz
-description: Listen Up provides a bespoke 360 promotional service offering radio, club, streaming promotion and press campaigns globally
+description: Listen Up provides a bespoke 360 promotional service offering radio,
+  club, streaming promotion and press campaigns globally
 permalink: pretty
 exclude:
 - bower.json
