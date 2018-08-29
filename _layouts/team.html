@@ -18,7 +18,7 @@ layout: default
     {% assign teams = site.team | sort: 'position' %}
     {% for team in teams %}  
     <div class="small-12 medium-6 cell">
-    <h3 class="secondary-font">{{team.title}}</h3>
+    <h3>{{team.title}}</h3>
     <h5 class="primary-color">{{team.job-title}}</h5>
     {{team.content}}
     </div>
