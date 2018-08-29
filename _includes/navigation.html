@@ -1,7 +1,7 @@
 {% for entry in site.data.navigation %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
  
 <!-- Navigation -->
-<div class="grid-x grid-padding-x grid-padding-y align-justify navigation align-middle" id="top">
+<div class="grid-x grid-padding-x padding-vertical-1 margin-bottom-2 align-justify navigation align-middle" id="top">
   
   <div class="auto cell">
     <a href="/"><svg class="icon icon-logo"><use xlink:href="/assets/icons/symbol-defs.svg#icon-logo"></use></svg></a>

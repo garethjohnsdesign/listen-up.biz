@@ -60,7 +60,7 @@ defaults:
     email: 
 url: https://www.listen-up.biz
 description: Listen Up provides a bespoke 360 promotional service offering radio,
-  club, online and print campaigns in the UK and worldwide.
+  club, streaming promotion and press campaigns globally
 permalink: pretty
 exclude:
 - bower.json
