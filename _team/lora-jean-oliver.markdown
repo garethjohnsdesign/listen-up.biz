@@ -1,5 +1,5 @@
 ---
-title: Lora-Jean Oliver
+title: Lora-Jean Collier
 date: 2017-03-17 14:49:00 Z
 position: 14
 job-title: Press Manager
