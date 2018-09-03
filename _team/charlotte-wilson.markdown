@@ -1,6 +1,6 @@
 ---
 title: Charlotte Wilson
-position: 7
+position: 6
 job-title: Head of Press, North America
 is-featured: true
 email: charlotte.wilson@listen-up.biz
