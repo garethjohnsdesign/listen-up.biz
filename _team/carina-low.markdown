@@ -1,6 +1,6 @@
 ---
 title: Carina Low
-position: 6
+position: 5
 job-title: Head of Festival & Event Press
 is-featured: true
 email: carina.low@listen-up.biz

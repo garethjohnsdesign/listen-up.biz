@@ -1,6 +1,6 @@
 ---
 title: Olivia Warnford-Davis
-position: 10
+position: 9
 job-title: Senior Press Manager
 is-featured: true
 email: olivia.warnforddavis@listen-up.biz

@@ -1,7 +1,7 @@
 ---
 title: Lora-Jean Oliver
 date: 2017-03-17 14:49:00 Z
-position: 15
+position: 14
 job-title: Press Manager
 is-featured: true
 ---
