@@ -1,5 +1,5 @@
 ---
-title: Forbidden Forest
+title: Forbidden Forest Festival
 categories:
 - events-press
 tags:
