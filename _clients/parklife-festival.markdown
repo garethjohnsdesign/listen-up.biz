@@ -7,7 +7,7 @@ tags:
 - festival
 position: 257
 image: "/uploads/parklife.jpg"
-is-home-featured: false
+is-home-featured: true
 is-artist-and-label-press-featured: false
 is-events-press-featured: false
 is-daytime-radio-featured: false

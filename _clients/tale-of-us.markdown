@@ -6,6 +6,6 @@ tags:
 - artist
 position: 99
 image: "/uploads/tale-of-us.jpg"
-is-home-featured: true
+is-home-featured: false
 ---
 
