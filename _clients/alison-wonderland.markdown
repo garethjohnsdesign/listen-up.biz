@@ -7,8 +7,9 @@ tags:
 - artist
 position: 223
 image: "/uploads/alison-wonderland.jpg"
-is-client-featured: true
 is-home-featured: true
+is-artist-and-label-press-featured: true
+is-client-featured: true
 website: http://www.alisonwonderland.com.au
 facebook: https://www.facebook.com/awonderdj
 twitter: https://twitter.com/awonderdj
