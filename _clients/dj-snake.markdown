@@ -6,7 +6,7 @@ categories:
 tags:
 - artist
 image: "/uploads/dj-snake.jpg"
-is-home-featured: true
+is-home-featured: false
 is-artist-and-label-press-featured: true
 is-daytime-radio-featured: true
 is-client-featured: false
