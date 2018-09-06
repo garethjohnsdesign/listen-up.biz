@@ -6,6 +6,6 @@ tags:
 - artist
 position: 34
 image: "/uploads/djds.jpg"
-is-home-featured: true
+is-home-featured: false
 ---
 
