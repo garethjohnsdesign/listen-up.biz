@@ -6,10 +6,10 @@ tags:
 - artist
 position: 254
 image: "/uploads/nicole.jpg"
-is-client-featured: true
 is-home-featured: true
-is-digital-featured: false
-is-artist-and-label-press-featured: true
+is-artist-and-label-press-featured: false
+is-client-featured: true
 facebook: https://www.facebook.com/officialpage/
+is-digital-featured: false
 ---
 
