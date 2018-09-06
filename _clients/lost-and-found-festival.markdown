@@ -6,9 +6,9 @@ tags:
 - festival
 position: 225
 image: "/uploads/lost-found.jpg"
-is-client-featured: false
-is-home-featured: false
+is-home-featured: true
 is-events-press-featured: true
+is-client-featured: false
 website: http://www.lostandfoundfestival.com
 facebook: https://www.facebook.com/lostandfoundfestival/
 twitter: https://twitter.com/AMPlostandfound
