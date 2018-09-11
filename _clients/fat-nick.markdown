@@ -6,6 +6,6 @@ tags:
 - artist
 position: 30
 image: "/uploads/fat-nick.jpg"
-is-home-featured: true
+is-home-featured: false
 ---
 
