@@ -5,5 +5,8 @@ categories:
 tags:
 - artist
 position: 21
+image: "/uploads/Chad-Hugo.jpeg"
+is-home-featured: true
+is-artist-and-label-press-featured: true
 ---
 
