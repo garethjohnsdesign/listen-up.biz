@@ -6,5 +6,7 @@ categories:
 tags:
 - artist
 position: 93
+image: "/uploads/Virtual-Self.jpg"
+is-home-featured: true
 ---
 
