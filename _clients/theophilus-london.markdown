@@ -5,6 +5,9 @@ categories:
 - artist-and-label-press
 tags:
 - artist
+image: "/uploads/Theophilus-London.jpeg"
+is-home-featured: true
+is-artist-and-label-press-featured: true
 spotify: https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE?autoplay=true&v=A
 ---
 
