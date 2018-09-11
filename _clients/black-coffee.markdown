@@ -5,9 +5,9 @@ categories:
 tags:
 - artist
 position: 222
-image: "/uploads/coffee.jpg"
-is-client-featured: false
+image: "/uploads/Black-Coffee.jpeg"
 is-home-featured: true
+is-client-featured: false
 website: http://www.blackcoffee.dj
 facebook: https://www.facebook.com/realblackcoffee
 twitter: https://twitter.com/RealBlackCoffee
