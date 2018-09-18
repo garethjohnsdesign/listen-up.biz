@@ -5,6 +5,8 @@ categories:
 - daytime-radio
 tags:
 - artist
+image: "/uploads/ALESSO_2018_9316.jpg"
+is-daytime-radio-featured: true
 website: https://www.facebook.com/AlessoOfficial/
 ---
 
