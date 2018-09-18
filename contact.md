@@ -1,7 +1,7 @@
 ---
 title: Contact
 position: 3
-intro: Please find ddetails to get in touch with the relevant team
+intro: Please find details to get in touch with the relevant team.
 enquiries:
 - title: New Business
   text: We always enjoy meeting new people and building new relationships. At the
