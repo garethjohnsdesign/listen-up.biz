@@ -2,6 +2,7 @@
 title: Warner Music
 categories:
 - streaming-promotion
+- artist-and-label-press
 tags:
 - label
 position: 80
