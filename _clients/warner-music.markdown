@@ -2,7 +2,7 @@
 title: Warner Music
 categories:
 - streaming-promotion
-- artist-and-label-press
+- daytime-radio
 tags:
 - label
 position: 80
