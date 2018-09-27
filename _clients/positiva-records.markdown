@@ -1,7 +1,8 @@
 ---
 title: Positiva Records
 categories:
-- artist-and-label-press
+- daytime-radio
+- streaming-promotion
 tags:
 - label
 position: 261
