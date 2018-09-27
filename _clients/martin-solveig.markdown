@@ -2,13 +2,14 @@
 title: Martin Solveig
 categories:
 - daytime-radio
+- streaming-promotion
 tags:
 - artist
 position: 239
-image: "/uploads/solveig.jpg"
+image: "/uploads/martin-solveig.jpg"
 is-home-featured: true
-is-daytime-radio-featured: false
 is-artist-and-label-press-featured: false
+is-daytime-radio-featured: false
 website: http://www.martinsolveig.com
 facebook: http://www.facebook.com/MartinSolveig
 twitter: http://twitter.com/martinsolveig
