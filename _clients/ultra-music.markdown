@@ -6,6 +6,7 @@ categories:
 tags:
 - label
 image: "/uploads/ultra-music.jpg"
+is-streaming-promotion-featured: true
 website: https://www.ultramusic.com/
 ---
 
