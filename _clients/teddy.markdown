@@ -5,6 +5,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-twitter: https://twitter.com/TeddyMusicUK
+image: "/uploads/Teddy.jpg"
+is-home-featured: true
 ---
 
