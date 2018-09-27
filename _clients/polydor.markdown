@@ -6,5 +6,7 @@ categories:
 tags:
 - label
 position: 155
+image: "/uploads/polydor.jpg"
+is-streaming-promotion-featured: true
 ---
 
