@@ -10,6 +10,7 @@ image: "/uploads/martin-solveig.jpg"
 is-home-featured: true
 is-artist-and-label-press-featured: false
 is-daytime-radio-featured: false
+is-streaming-promotion-featured: true
 website: http://www.martinsolveig.com
 facebook: http://www.facebook.com/MartinSolveig
 twitter: http://twitter.com/martinsolveig
