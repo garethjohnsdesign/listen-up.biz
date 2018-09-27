@@ -7,6 +7,8 @@ categories:
 - streaming-promotion
 tags:
 - artist
+image: "/uploads/james-hype.jpg"
+is-streaming-promotion-featured: true
 website: https://www.jameshype.com/
 ---
 
