@@ -7,5 +7,6 @@ tags:
 - artist
 image: "/uploads/the-prodigy.jpg"
 is-streaming-promotion-featured: true
+website: http://theprodigy.com/
 ---
 
