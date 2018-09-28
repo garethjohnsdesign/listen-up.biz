@@ -6,7 +6,7 @@ categories:
 tags:
 - artist
 position: 239
-image: "/uploads/martin-solveig.jpg"
+image: "/uploads/Martin%20Solveig%20copy.jpg"
 is-home-featured: true
 is-artist-and-label-press-featured: false
 is-daytime-radio-featured: false
