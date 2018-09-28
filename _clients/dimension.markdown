@@ -2,6 +2,7 @@
 title: Dimension
 categories:
 - daytime-radio
+- streaming-promotion
 tags:
 - artist
 position: 204
