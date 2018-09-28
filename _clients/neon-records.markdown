@@ -1,5 +1,7 @@
 ---
 title: Neon Records
+categories:
+- streaming-promotion
 tags:
 - label
 position: 252
