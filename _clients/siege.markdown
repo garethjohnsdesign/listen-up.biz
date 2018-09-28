@@ -2,6 +2,7 @@
 title: Siege
 categories:
 - specialist-radio-and-club
+- streaming-promotion
 tags:
 - artist
 position: 177
