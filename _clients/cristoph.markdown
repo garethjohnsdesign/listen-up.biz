@@ -2,6 +2,7 @@
 title: Cristoph
 categories:
 - specialist-radio-and-club
+- streaming-promotion
 tags:
 - artist
 position: 134
