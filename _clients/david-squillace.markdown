@@ -2,6 +2,7 @@
 title: David Squillace
 categories:
 - artist-and-label-press
+- streaming-promotion
 tags:
 - artist
 position: 207
