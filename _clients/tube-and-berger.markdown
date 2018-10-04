@@ -1,11 +1,12 @@
 ---
-title: Tube & Berger
+title: Tiga
 categories:
 - specialist-radio-and-club
-- artist-and-label-press
 tags:
 - artist
 position: 114
-facebook: https://www.facebook.com/tubeandbergerofficial/
+image: "/uploads/tiga-a3930e.jpg"
+is-specialist-radio-and-club-featured: true
+website: http://tiga.ca/
 ---
 
