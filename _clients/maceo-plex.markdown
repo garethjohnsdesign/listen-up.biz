@@ -6,9 +6,9 @@ tags:
 - artist
 position: 139
 image: "/uploads/maceo-plex.jpg"
-is-client-featured: false
 is-artist-and-label-press-featured: false
-is-specialist-radio-and-club-featured: true
+is-specialist-radio-and-club-featured: false
+is-client-featured: false
 website: https://www.facebook.com/MaceoPlex/
 ---
 
