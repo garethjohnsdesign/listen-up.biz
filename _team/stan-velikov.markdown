@@ -1,7 +1,7 @@
 ---
 title: Stan Velikov
 date: 2017-05-30 14:49:00 Z
-position: 32
+position: 33
 job-title: Bookkeeper/Financial Controller
 ---
 
