@@ -5,7 +5,7 @@ categories:
 - events-press
 tags:
 - festival
-image: "/uploads/malta2.jpg"
+image: "/uploads/malta2-d14016.jpg"
 is-events-press-featured: true
 website: https://www.visitmalta.com/en/home
 ---
