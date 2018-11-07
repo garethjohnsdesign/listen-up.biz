@@ -2,6 +2,7 @@
 title: Fisher
 categories:
 - artist-and-label-press
+- daytime-radio
 tags:
 - artist
 position: 26
