@@ -8,7 +8,7 @@ tags:
 position: 206
 image: "/uploads/disciples.jpg"
 is-home-featured: true
-is-daytime-radio-featured: true
+is-daytime-radio-featured: false
 website: http://disciplesldn.com
 facebook: https://www.facebook.com/DisciplesLDN
 twitter: https://twitter.com/Disciples
