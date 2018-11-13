@@ -5,6 +5,8 @@ categories:
 - daytime-radio
 tags:
 - artist
+image: "/uploads/mayajane.jpg"
+is-daytime-radio-featured: true
 website: http://mayajanecoles.com/
 ---
 
