@@ -9,7 +9,7 @@ image: "/uploads/nicole.jpg"
 is-home-featured: true
 is-artist-and-label-press-featured: false
 is-client-featured: true
-facebook: https://www.facebook.com/officialpage/
+website: http://nicolemoudaber.com/
 is-digital-featured: false
 ---
 
