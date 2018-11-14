@@ -6,6 +6,7 @@ categories:
 tags:
 - artist
 image: "/uploads/maya.jpg"
+is-daytime-radio-featured: true
 website: http://mayajanecoles.com/
 ---
 
