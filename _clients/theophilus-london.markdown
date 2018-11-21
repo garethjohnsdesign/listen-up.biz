@@ -10,6 +10,7 @@ image: "/uploads/Theophilus-London.jpeg"
 is-home-featured: true
 is-artist-and-label-press-featured: true
 is-daytime-radio-featured: true
+is-client-featured: true
 spotify: https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE?autoplay=true&v=A
 ---
 
