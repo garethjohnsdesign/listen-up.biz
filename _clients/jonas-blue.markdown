@@ -6,7 +6,8 @@ tags:
 - artist
 position: 132
 image: "/uploads/jonas-blue.jpg"
-is-client-featured: true
 is-home-featured: true
+is-client-featured: true
+website: https://www.jonasblue.com/
 ---
 
