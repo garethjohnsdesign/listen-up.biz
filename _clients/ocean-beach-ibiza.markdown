@@ -9,5 +9,6 @@ image: "/uploads/ocean-beach-ibiza.jpg"
 is-home-featured: true
 is-events-press-featured: true
 is-client-featured: true
+website: https://www.obeachibiza.com/
 ---
 
