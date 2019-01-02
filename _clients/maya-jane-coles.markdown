@@ -5,7 +5,7 @@ categories:
 - daytime-radio
 tags:
 - artist
-image: "/uploads/maya.jpg"
+image: "/uploads/maya-jane-coles.jpg"
 is-daytime-radio-featured: true
 website: http://mayajanecoles.com/
 ---
