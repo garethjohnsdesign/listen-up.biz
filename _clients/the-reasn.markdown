@@ -1,5 +1,5 @@
 ---
-title: The REASN
+title: The Reasn
 date: 2018-11-21 11:17:00 Z
 categories:
 - artist-and-label-press
