@@ -6,7 +6,7 @@ tags:
 - venue
 position: 212
 image: "/uploads/esvive.jpg"
-is-events-press-featured: true
+is-events-press-featured: false
 facebook: https://www.facebook.com/esvive
 ---
 
