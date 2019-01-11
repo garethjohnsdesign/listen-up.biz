@@ -9,7 +9,7 @@ position: 189
 image: "/uploads/mello.jpg"
 is-home-featured: true
 is-artist-and-label-press-featured: true
-is-daytime-radio-featured: true
+is-daytime-radio-featured: false
 is-client-featured: true
 website: http://www.marshmellomusic.com/
 facebook: https://www.facebook.com/marshmellomusic/
