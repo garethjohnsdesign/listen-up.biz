@@ -5,6 +5,8 @@ categories:
 - artist-and-label-press
 tags:
 - artist
+image: "/uploads/blithe.jpg"
+is-daytime-radio-featured: true
 facebook: https://www.facebook.com/BlitheSaxonMusic
 ---
 
