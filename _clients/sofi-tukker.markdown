@@ -6,6 +6,7 @@ categories:
 tags:
 - artist
 image: "/uploads/sofi.jpg"
+is-daytime-radio-featured: true
 twitter: https://twitter.com/sofitukker
 ---
 
