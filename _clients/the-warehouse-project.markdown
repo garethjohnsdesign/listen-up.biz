@@ -6,7 +6,7 @@ categories:
 tags:
 - festival
 image: "/uploads/WarehouseProject.jpg"
-is-daytime-radio-featured: true
+is-daytime-radio-featured: false
 website: https://www.thewarehouseproject.com/
 ---
 
