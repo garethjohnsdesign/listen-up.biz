@@ -1,0 +1,12 @@
+---
+title: Sofi Tukker
+date: 2019-01-18 10:04:00 Z
+categories:
+- daytime-radio
+tags:
+- artist
+image: "/uploads/sofi-4788f3.jpg"
+is-daytime-radio-featured: true
+website: http://www.sofitukker.com/
+---
+
