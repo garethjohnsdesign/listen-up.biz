@@ -1,10 +1,9 @@
 ---
-title: Ministry of Sound
+title: Good Company
+date: 2019-02-08 11:37:00 Z
 categories:
-- daytime-radio
 - streaming-promotion
 tags:
 - label
-position: 71
 ---
 
