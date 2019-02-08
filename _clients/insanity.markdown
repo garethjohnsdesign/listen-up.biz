@@ -6,7 +6,7 @@ categories:
 tags:
 - label
 position: 64
-image: "/uploads/insanity.jpg"
+image: "/uploads/insanity-19c8d7.jpg"
 is-streaming-promotion-featured: true
 ---
 
