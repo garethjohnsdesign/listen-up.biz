@@ -10,6 +10,7 @@ image: "/uploads/dj-snake.jpg"
 is-home-featured: false
 is-artist-and-label-press-featured: false
 is-daytime-radio-featured: true
+is-streaming-promotion-featured: true
 is-client-featured: false
 twitter: https://twitter.com/djsnake
 ---
