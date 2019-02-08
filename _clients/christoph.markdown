@@ -5,7 +5,8 @@ categories:
 tags:
 - artist
 position: 18
-image: "/uploads/christoph-rev.jpg"
+image: "/uploads/cristoph.jpg"
 is-specialist-radio-and-club-featured: true
+is-streaming-promotion-featured: true
 ---
 
