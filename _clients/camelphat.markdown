@@ -5,7 +5,7 @@ categories:
 - streaming-promotion
 tags:
 - artist
-image: "/uploads/Camelphat.jpg"
+image: "/uploads/camelphat-72d324.jpg"
 twitter: https://twitter.com/CamelPhat
 ---
 
