@@ -5,5 +5,7 @@ categories:
 - streaming-promotion
 tags:
 - artist
+image: "/uploads/mercer.jpg"
+is-streaming-promotion-featured: true
 ---
 
