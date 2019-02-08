@@ -7,6 +7,7 @@ tags:
 - artist
 position: 26
 image: "/uploads/fisher.jpg"
+is-home-featured: true
 is-daytime-radio-featured: true
 facebook: https://www.facebook.com/www.followthefishtv.tv/
 ---
