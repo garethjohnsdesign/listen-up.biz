@@ -7,5 +7,6 @@ tags:
 - artist
 image: "/uploads/camelphat-9b0f17.jpg"
 is-streaming-promotion-featured: true
+twitter: https://twitter.com/CamelPhat
 ---
 
