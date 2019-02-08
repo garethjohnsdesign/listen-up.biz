@@ -6,8 +6,8 @@ tags:
 - label
 position: 297
 image: "/uploads/spinnin.jpg"
+is-home-featured: false
 is-client-featured: false
-is-home-featured: true
 facebook: https://www.facebook.com/SpinninRecords
 ---
 
