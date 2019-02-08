@@ -7,7 +7,7 @@ tags:
 - label
 position: 117
 image: "/uploads/saved.jpg"
-is-streaming-promotion-featured: true
+is-streaming-promotion-featured: false
 website: http://www.savedrecords.com/
 ---
 
