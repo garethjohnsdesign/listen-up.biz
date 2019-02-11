@@ -6,8 +6,8 @@ categories:
 tags:
 - label
 position: 241
-image: "/uploads/pryda.jpg"
-is-streaming-promotion-featured: false
+image: "/uploads/pryda-0e2416.jpg"
+is-streaming-promotion-featured: true
 twitter: https://twitter.com/PrydaRecordings
 ---
 
