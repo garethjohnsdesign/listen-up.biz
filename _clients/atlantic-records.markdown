@@ -7,5 +7,6 @@ tags:
 position: 142
 image: "/uploads/atlantic-records.jpg"
 is-home-featured: true
+website: http://www.atlanticrecords.com/
 ---
 
