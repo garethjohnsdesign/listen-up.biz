@@ -5,5 +5,6 @@ categories:
 - streaming-promotion
 tags:
 - label
+instagram: https://www.instagram.com/goodcompanyrecords/
 ---
 
