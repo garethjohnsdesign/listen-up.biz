@@ -7,6 +7,6 @@ tags:
 - label
 position: 154
 image: "/uploads/bmg-music.jpg"
-is-streaming-promotion-featured: true
+is-streaming-promotion-featured: false
 ---
 

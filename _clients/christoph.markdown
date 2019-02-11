@@ -1,5 +1,5 @@
 ---
-title: Christoph
+title: Cristoph
 categories:
 - specialist-radio-and-club
 tags:
