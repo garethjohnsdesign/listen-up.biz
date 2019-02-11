@@ -9,6 +9,6 @@ image: "/uploads/waka-flocka-flame.jpg"
 is-home-featured: true
 is-artist-and-label-press-featured: true
 is-client-featured: true
-website: http://www.wakaflocka.com/
+twitter: https://twitter.com/WakaFlocka
 ---
 

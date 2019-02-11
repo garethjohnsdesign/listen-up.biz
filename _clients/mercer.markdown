@@ -7,5 +7,6 @@ tags:
 - artist
 image: "/uploads/mercer.jpg"
 is-streaming-promotion-featured: true
+twitter: https://twitter.com/Mercer_Music
 ---
 
