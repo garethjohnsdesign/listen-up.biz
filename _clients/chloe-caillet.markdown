@@ -5,5 +5,6 @@ categories:
 tags:
 - artist
 position: 20
+instagram: https://www.instagram.com/chloecaillet
 ---
 
