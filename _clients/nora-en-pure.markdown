@@ -5,5 +5,6 @@ categories:
 tags:
 - artist
 position: 72
+twitter: https://twitter.com/noraenpure
 ---
 
