@@ -1,7 +1,7 @@
 ---
 title: Chanel Kadir
 date: 2017-05-30 14:54:00 Z
-position: 27
+position: 28
 job-title: Press Coordinator
 is-featured: true
 ---
