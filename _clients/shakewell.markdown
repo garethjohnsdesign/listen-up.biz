@@ -5,6 +5,6 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-spotify: https://open.spotify.com/artist/4IcQIRXyyE6Ve9kUA4ZaoQ?autoplay=true&v=A
+soundcloud: https://soundcloud.com/shakewell818
 ---
 

@@ -5,5 +5,6 @@ categories:
 tags:
 - artist
 position: 90
+twitter: https://twitter.com/toddedwards3000
 ---
 
