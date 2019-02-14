@@ -5,5 +5,6 @@ categories:
 tags:
 - artist
 position: 55
+soundcloud: https://soundcloud.com/kevinmckay
 ---
 
