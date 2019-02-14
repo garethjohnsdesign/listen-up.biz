@@ -5,5 +5,6 @@ categories:
 tags:
 - artist
 position: 40
+instagram: https://www.instagram.com/djcarlbee/
 ---
 
