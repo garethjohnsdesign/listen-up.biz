@@ -7,5 +7,6 @@ tags:
 - artist
 image: "/uploads/alan-walker.jpg"
 is-home-featured: true
+website: " https://alanwalker.no/"
 ---
 
