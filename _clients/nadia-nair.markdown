@@ -7,5 +7,6 @@ tags:
 position: 68
 image: "/uploads/nadia-nair.jpg"
 is-daytime-radio-featured: false
+twitter: https://twitter.com/xnadianairx
 ---
 
