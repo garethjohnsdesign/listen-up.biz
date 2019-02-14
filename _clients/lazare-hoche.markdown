@@ -5,6 +5,7 @@ categories:
 - artist-and-label-press
 tags:
 - artist
+facebook: 'https://www.facebook.com/ItsLazareHoche/ '
 soundcloud: https://soundcloud.com/lazare-hoche
 ---
 
