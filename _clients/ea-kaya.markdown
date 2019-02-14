@@ -5,5 +5,6 @@ categories:
 tags:
 - artist
 position: 31
+twitter: https://twitter.com/eakayamusic
 ---
 
