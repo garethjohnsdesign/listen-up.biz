@@ -7,5 +7,6 @@ tags:
 position: 30
 image: "/uploads/fat-nick.jpg"
 is-home-featured: false
+twitter: https://twitter.com/_fatnick
 ---
 
