@@ -5,5 +5,6 @@ categories:
 tags:
 - artist
 position: 19
+twitter: https://twitter.com/chrisliebing
 ---
 
