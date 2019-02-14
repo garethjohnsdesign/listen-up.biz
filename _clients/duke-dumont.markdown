@@ -6,5 +6,6 @@ tags:
 - artist
 position: 124
 image: "/uploads/duke.jpg"
+website: https://dukedumont.com/
 ---
 
