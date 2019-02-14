@@ -5,5 +5,6 @@ categories:
 - streaming-promotion
 tags:
 - artist
+twitter: https://twitter.com/georgekwali
 ---
 
