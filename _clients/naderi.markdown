@@ -5,6 +5,6 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-soundcloud: https://soundcloud.com/itsnaderi
+website: https://soundcloud.com/itsnaderi
 ---
 
