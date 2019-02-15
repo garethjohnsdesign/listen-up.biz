@@ -10,7 +10,7 @@ image: "/uploads/PARKLIFE-2018-FANATIC-Carolina%20Faruolo-180609222913%20%5BWeb%
 is-home-featured: true
 is-artist-and-label-press-featured: false
 is-events-press-featured: true
-is-daytime-radio-featured: false
+is-daytime-radio-featured: true
 is-client-featured: false
 facebook: https://www.facebook.com/parklifefestival
 ---
