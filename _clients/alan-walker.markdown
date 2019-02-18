@@ -6,7 +6,7 @@ categories:
 tags:
 - artist
 image: "/uploads/alan-walker.jpg"
-is-home-featured: true
+is-home-featured: false
 website: " https://alanwalker.no/"
 ---
 
