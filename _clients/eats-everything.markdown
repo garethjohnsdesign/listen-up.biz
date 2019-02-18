@@ -6,7 +6,7 @@ tags:
 - artist
 position: 264
 image: "/uploads/eats.jpg"
-is-home-featured: true
+is-home-featured: false
 website: https://eatseverything.com
 facebook: https://www.facebook.com/MrEatsEverything
 twitter: https://twitter.com/eats_everything
