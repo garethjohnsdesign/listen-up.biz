@@ -6,7 +6,7 @@ tags:
 - artist
 position: 294
 image: "/uploads/snakehips.jpg"
-is-home-featured: true
+is-home-featured: false
 facebook: https://www.facebook.com/Snakehipsuk
 ---
 
