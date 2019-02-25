@@ -6,7 +6,7 @@ tags:
 - artist
 position: 88
 image: "/uploads/pendulum.jpg"
-is-home-featured: true
+is-home-featured: false
 is-artist-and-label-press-featured: true
 website: http://pendulum.com/
 ---
