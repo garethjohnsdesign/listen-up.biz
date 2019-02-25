@@ -6,6 +6,7 @@ categories:
 tags:
 - artist
 image: "/uploads/doja-cat.jpg"
+is-home-featured: true
 is-artist-and-label-press-featured: true
 website: https://www.dojacat.com/
 ---
