@@ -1,7 +1,7 @@
 ---
 title: Jake Gable
 date: 2018-01-19 11:09:00 Z
-position: 27
+position: 28
 job-title: Copywriter
 ---
 
