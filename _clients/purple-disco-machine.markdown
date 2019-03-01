@@ -2,12 +2,13 @@
 title: Purple Disco Machine
 categories:
 - specialist-radio-and-club
+- daytime-radio
 tags:
 - artist
 position: 120
 image: "/uploads/purple-disco-machine.jpg"
-is-client-featured: false
 is-specialist-radio-and-club-featured: true
+is-client-featured: false
 website: https://www.purplediscomachine.com/
 ---
 
