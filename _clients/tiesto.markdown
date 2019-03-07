@@ -8,7 +8,7 @@ tags:
 image: "/uploads/tiesto-d730f7.jpg"
 is-home-featured: false
 is-artist-and-label-press-featured: false
-is-daytime-radio-featured: true
+is-daytime-radio-featured: false
 is-client-featured: false
 website: https://www.tiesto.com
 ---
