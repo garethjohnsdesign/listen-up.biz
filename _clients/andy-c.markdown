@@ -5,6 +5,8 @@ categories:
 - daytime-radio
 tags:
 - artist
+image: "/uploads/andy-c.jpg"
+is-daytime-radio-featured: true
 website: https://andyc.cc/
 ---
 
