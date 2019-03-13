@@ -9,11 +9,11 @@ enquiries:
     approach is just as important as being creative. If you would like to know more
     about working with Listen Up or wish to find out more about our approach, please
     contact us.
-  contact: newmusic@listen-up.biz
+  contact: newmusic[at]listen-up.biz
 - title: Careers
   text: 'We’re growing and winning new clients. We want to hear from confident and
     pro-active individuals with a passion for music and promotion. '
-  contact: recruitment@listen-up.biz
+  contact: recruitment[at]listen-up.biz
 layout: contact
 ---
 
