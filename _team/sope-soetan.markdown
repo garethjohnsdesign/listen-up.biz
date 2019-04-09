@@ -1,7 +1,7 @@
 ---
 title: Sope Soetan
 date: 2018-09-03 10:30:00 Z
-position: 32
+position: 30
 job-title: 'Press Coordinator '
 ---
 
