@@ -1,7 +1,7 @@
 ---
 title: Lauren Chester
 date: 2017-05-30 14:52:00 Z
-position: 13
+position: 15
 job-title: Festival & Event Press Manager
 ---
 
