@@ -7,7 +7,7 @@ tags:
 - artist
 image: "/uploads/sofi-4788f3.jpg"
 is-home-featured: true
-is-daytime-radio-featured: true
+is-daytime-radio-featured: false
 website: http://www.sofitukker.com/
 ---
 
