@@ -2,7 +2,7 @@
 title: Victoria McCall
 date: 2017-02-16 14:14:00 Z
 position: 12
-job-title: Senior Radio Promotions Manager
+job-title: Senior National Radio Promotions Manager
 is-featured: true
 ---
 
