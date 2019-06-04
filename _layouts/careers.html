@@ -2,6 +2,19 @@
 layout: default
 ---
 
+{% assign psize = site.careers | size %}
+{% if psize == 0 %} 
+  
+<div class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y align-center">
+    <div class="small-12 medium-9 cell text-center">
+      <h3>{{page.intro-no-jobs}}</h3>
+    </div>
+  </div>
+</div>
+
+{% else %}
+
 <!-- Intro -->
 <div class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y align-center">
@@ -27,3 +40,5 @@ layout: default
   </div>
 </div>
 <!-- End People -->
+
+{% endif %}
