@@ -1,10 +1,7 @@
 ---
 title: Careers
 position: 1
-intro: Listen Up provides a bespoke 360 promotional service offering radio, club,
-  digital marketing, online and print press campaigns worldwide, consistently delivering
-  results to clients in a diverse range of musical genres. Our clients include world
-  class artists and DJs to global festival brands.
+intro: We’re continuously growing and winning new clients. If you're a confident and pro-active individual with a passion for music and promotion, then we want to hear from you.
 layout: careers
 ---
 
