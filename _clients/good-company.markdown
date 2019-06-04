@@ -7,6 +7,6 @@ tags:
 - label
 image: "/uploads/goodcompany.jpg"
 is-home-featured: true
-instagram: https://www.instagram.com/goodcompanyrecords/
+website: https://www.instagram.com/alwaysbegoodcompany/
 ---
 
