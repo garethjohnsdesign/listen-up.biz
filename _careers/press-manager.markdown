@@ -3,16 +3,16 @@ title: Press Manager
 position: 0
 email: recruitment@listen-up.biz
 about-description: Established in 2009 Listen Up offer a tailored range of bespoke
-  radio, club, digital marketing, online and print promotion campaigns globally through
-  our LA and London offices. In 2014 after recognizing a gap in the market we moved
-  our services stateside and opened an additional arm of the business in LA. Specializing
-  in various music genres and events, we place our clients directly in the spotlight
-  with the experience and knowhow to oversee thoughtful, effective and engaging campaigns.
+  radio, club, streaming, online and print promotion campaigns globally through our
+  LA and London offices. In 2014 after recognising a gap in the market we moved our
+  services stateside and opened an additional arm of the business in LA. Specialising
+  in electronic music and events, we place our clients directly in the spotlight with
+  the experience and knowhow to oversee thoughtful, effective and engaging campaigns.
   With a client roster boasting the likes of MK, Snakehips, Jonas Blue, Gorgon City,
   Black Coffee, Theophilus London, Snakehips, Marshmello, and Samm Henshaw, Listen
-  Up are now recognized as one of the market leaders in the world of music promotion
-  services. We have grown massively over the last 7 years with offices in the UK,
-  US, and Asia alongside 6 companies working under our Listen Up umbrella.
+  Up are now recognised as one of the market leaders in the world of music promotion
+  services. We have grown massively over the last 10 years with offices in both the
+  UK and US, and 3 companies working under our Listen Up umbrella.
 job-description: "Title — Press Manager \nSalary — Based on experience  \nHours —
   9.00am – 5.00pm (Monday – Friday)  \nLocation — Sunset Blvd, Hollywood \n\nThe Press
   Manager is responsible for raising the awareness, profile and sales for clients
