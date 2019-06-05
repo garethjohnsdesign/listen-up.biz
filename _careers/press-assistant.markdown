@@ -3,62 +3,38 @@ title: Press Manager
 position: 0
 location: Los Angeles, North America
 is-featured: true
-email: tom.smart@listen-up.biz
-job-description: |-
-  - Ensuring you have all assets for a campaign (MP3s, Press Shots, Artwork, Biographies etc) to create press packs on Egnyte.
-  - Setting up private streams and MP3 links for press managers to pitch with.
-  - Reaching out to tour promoters to discuss press opportunities around dates.
-  - Facilitate artist interviews with journalist and when appropriate directly conducts interviews with artists on behalf of journalists.
-  - Transcribing interviews and drafting interview questions.
-  - Writing press releases.
-  - Keeping the Listen Up socials (FB, Twitter and Instagram) updated with any clients news/features that have gone live that day/week.
-  - Keeping the gig guide and release schedule tabs on the Listen Up Google doc updated.
-  - Keeping the International Festival Doc updated as new press lists come through.
-  - Collecting post each week.
-  - Taking notes during press meets and sending to press team afterwards.
-  - Handling master database ensuring that all contacts are up to date and new ones are added as they come through.
-  - Auditing for news posts and features.
-  - Scanning and sending round magazine and newspapers clippings.
-  - Sending round meeting reminders.
-  - Create reports for press managers and coordinators.
-  - Setting up Press Releases for Press Managers in Mailchimp.
-  - Attends artists’ events to enhance relationship in addition to raising the profile of yourself and Listen Up.
-  - On-going listening to and reviewing of music.
-  - Ensures all online copy is correct and organises for amends when necessary.
-  - Keeps fully up to date on artist tour schedules.
-  - Attends artists’ events to enhance relationship in addition to raising the profile of yourself and Listen Up.
-  - Ensures consistent communication of Listen Up’s brand image both internally and in the industry.
-  - Minimal amounts of general office management tasks.
-skills-description: "- Minimum 1 years’ experience in a similar role.\n- Demonstrated
-  and strong interpersonal skills across all levels.\n- Active and outgoing contributor.\n-
-  Industry experience. "
-focus-description: |-
-  - Effectively communicating throughout the business.
-  - Auditing for news posts and features.
-  - Assisting with press releases when needed.
-  - Facilitate artist interviews with journalist and when appropriate directly conducts interviews with artists on behalf of journalists.
-  - Ensuring you have all assets for a campaign (MP3s, Press Shots, Artwork, Biographies etc) to create press packs on Egnyte.
-  - Keeping the Listen Up socials (FB, Twitter and Instagram) updated with any clients news/features that have gone live that day/week.
-competencies-description: "- Competent and creative copywriter.\n- Acts with discretion,
-  integrity and professionalism at all times.\n- Demonstrates strong interpersonal
-  skills across all levels of people in and outside of Listen Up staff.\n- Develops
-  and maintains strong relationship with colleagues, clients and external suppliers.\n-
-  Effective verbal and written communication skills.\n- Ensure all reports, data and
-  written work are proofread before submitting.\n- Be a cooperative team player willing
-  to resolve issues for the good of all.\n- Actively participates and seeks continual
-  professional development.\n- Keeps up to date with contemporary trends and news
-  within music, media and entertainment. \n- Proactively takes on the challenge of
-  unfamiliar tasks.\n- Has a collaborative approach to teamwork.\n- Positive attitude.\n-
-  Conscientious worker with a self-motivating attitude.\n- Knows how to handle themselves
-  under pressure and ability to bounces back from setbacks.\n- Ability to take constructive
-  criticism with grace and humility.\n- Fully proficient level of competency of all
-  mainstream software packages relevant to role (Microsoft Word, Excel, Office, Google
-  Docs).\n- Shows initiative and adopts a proactive approach.\n- Identifies issues
-  and resolves promptly.\n- Manages and prioritising workload effectively.\n- Successfully
-  handles multiple tasks."
-expectations-description: "##### Title — Press Assistant  \n##### Salary — Based on
-  experience  \n##### Hours — 9.00am – 5.00pm (Monday – Friday)  \n##### Location
-  — Sunset Blvd, Hollywood \n\nWe value and listen to our staff whilst maintaining
+email: recruitment@listen-up.biz
+job-description: 
+skills-description: |-
+  • 1-2 years' experience within a similar environment
+  • A proven track record of working within a similar industry
+  • Up to date knowledge of Electronic music and trends
+  • Strong existing relationships with music journalists and contacts
+  • Can hit the ground running with the roster given
+  • A well-organized individual with the ability to prioritize workload and juggle a variety of different tasks
+  • Keen interest in rising through the ranks within the company
+  • Proven well written press releases
+  • Confidence in pitching for new business
+  • Exceptional Management skills
+  • Positive attitude and brings solutions to problems
+  • Must be able to work well under pressure within a fast paced environment, dealing with Directors & colleagues both in the US and UK
+  • Adaptable to different methods of working
+  • A real team player - lending a hand to ensure deadlines are met
+focus-description: 
+competencies-description: 
+expectations-description: "Title — Press Manager \nSalary — Based on experience  \nHours
+  — 9.00am – 5.00pm (Monday – Friday)  \nLocation — Sunset Blvd, Hollywood \n\nEstablished
+  in 2009, Listen Up offer a tailored range of bespoke radio, club, streaming, online
+  and print promotion campaigns globally through our LA and London offices. In 2014
+  after recognising a gap in the market we moved our services stateside and opened
+  an additional arm of the business in LA. Specialising in electronic music and events,
+  we place our clients directly in the spotlight with the experience and knowhow to
+  oversee thoughtful, effective and engaging campaigns. With a client roster boasting
+  the likes of MK, Snakehips, Jonas Blue, Gorgon City, Black Coffee, Theophilus London,
+  Snakehips, Marshmello, and Samm Henshaw, Listen Up are now recognised as one of
+  the market leaders in the world of music promotion services. We have grown massively
+  over the last 10 years with offices in both the UK and US, and 3 companies working
+  under our Listen Up umbrella.\n\nWe value and listen to our staff whilst maintaining
   a fun collabrative environment, encourage new ideas and offer career progression.
   Our staff events are legendary and you will be joining our well established team
   where you will be given genuine care and support from your colleagues and Directors.
@@ -74,4 +50,4 @@ apply-description: If this sounds like the role for you, please send your email 
 layout: job
 ---
 
-We are currently recruiting for a motivated Press Assistant with a passion for electronic, pop and urban music and industry relevant experience to join our rapidly growing team. The Press Assistant is responsible for supporting the Press Managers with the organisation and coordination of artists’ campaigns.
+We are currently recruiting for an experienced, well organized individual to join the Press team. You will be based in our fantastic Sunset Blvd offices with the added bonus of free parking! You must have 1-2 years' experience working within a similar environment with a keen interest in electronic music. If you are looking for a hands on role that gives you the opportunity to be involved in all aspects of music PR, we could be what you are looking for.
