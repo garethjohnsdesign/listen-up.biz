@@ -248,14 +248,21 @@ footer {
   @include links ($primary-color, $white)
 }
 
-/*
-.home .hero .menu {
-  @include links ($white, $primary-color)
-}
-*/
 
-/*
-.home .hero .menu .icon-social {
-  @include links ($white, $white)
+.off-canvas-wrapper {
+    overflow: visible;
 }
-*/
+
+.off-canvas-content {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+header, nav, footer {
+    flex-shrink: 0;
+}
+
+main {
+    flex: 1 0 auto; /* Use 1 0 auto instead of just 1 for backwards compatibility with other browsers */
+}

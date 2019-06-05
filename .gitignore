@@ -1,7 +1,26 @@
-.DS_Store
-.sass-cache
+# Gareth Johns Design + Development .gitignore
+#
+# Example .gitignore file for Jekyll projects
+#
+# @author    garethjohnsdesign
+# @copyright Copyright (c) 2019 Gareth Johns Design + Development
+# @link      https://www.garethjohnsdesign.com
+# @package   garethjohnsdesign/
+# @since     1.0.0
+# @license   MIT
+
+
+# JEKYLL ENVIRONMENT
 Gemfile.lock
+
+# BUILD FILES
+/bower_components/*
+/node_modules/*
+/build/*
+/yarn-error.log
+/npm-debug.log
 _site/
-node_modules/
-.DS_Store
+
+# MISC FILES
+.cache
 .DS_Store
