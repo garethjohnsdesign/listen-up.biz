@@ -6,8 +6,9 @@ tags:
 - artist
 position: 83
 image: "/uploads/waka-flocka-flame.jpg"
-is-client-featured: true
 is-home-featured: true
 is-artist-and-label-press-featured: true
+is-client-featured: true
+twitter: https://twitter.com/WakaFlocka
 ---
 

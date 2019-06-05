@@ -5,5 +5,6 @@ categories:
 - streaming-promotion
 tags:
 - artist
+instagram: https://www.instagram.com/bcase_official/
 ---
 

@@ -12,5 +12,6 @@ image: "/uploads/sony.jpg"
 is-home-featured: true
 is-artist-and-label-press-featured: true
 is-streaming-promotion-featured: true
+website: https://www.sonymusic.co.uk/
 ---
 

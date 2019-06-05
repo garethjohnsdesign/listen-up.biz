@@ -5,5 +5,8 @@ categories:
 - streaming-promotion
 tags:
 - artist
+image: "/uploads/alan-walker.jpg"
+is-home-featured: false
+website: " https://alanwalker.no/"
 ---
 

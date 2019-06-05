@@ -1,12 +1,10 @@
 ---
 title: Alesso
-date: 2018-09-18 10:36:00 Z
+date: 2019-01-18 10:07:00 Z
 categories:
 - daytime-radio
 tags:
 - artist
-image: "/uploads/ALESSO_2018_9316.jpg"
-is-daytime-radio-featured: true
-website: https://www.facebook.com/AlessoOfficial/
+twitter: https://twitter.com/Alesso
 ---
 

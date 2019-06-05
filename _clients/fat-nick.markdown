@@ -6,6 +6,7 @@ tags:
 - artist
 position: 30
 image: "/uploads/fat-nick.jpg"
-is-home-featured: false
+is-home-featured: true
+twitter: https://twitter.com/_fatnick
 ---
 

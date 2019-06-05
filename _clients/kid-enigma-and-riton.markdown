@@ -5,5 +5,6 @@ categories:
 - artist-and-label-press
 tags:
 - artist
+soundcloud: 'https://soundcloud.com/kidenigma '
 ---
 

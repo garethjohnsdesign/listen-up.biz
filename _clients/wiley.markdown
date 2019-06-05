@@ -6,9 +6,10 @@ tags:
 - artist
 position: 198
 image: "/uploads/wiley.jpg"
-is-client-featured: true
-is-home-featured: true
+is-home-featured: false
+is-artist-and-label-press-featured: false
 is-daytime-radio-featured: false
-is-artist-and-label-press-featured: true
+is-client-featured: true
+twitter: https://twitter.com/WileyUpdates
 ---
 
