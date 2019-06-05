@@ -45,7 +45,6 @@ apply-description: If this sounds like the role for you, please send your email 
   covering letter outlining why you’re suitable for the role to [recruitment@listen-up.biz](mailto:recruitment@listen-up.biz).
   Applications without a covering letter will not be considered.
 location: Los Angeles, North America
-is-featured: true
 layout: job
 ---
 
