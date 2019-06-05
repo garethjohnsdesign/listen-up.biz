@@ -1,7 +1,7 @@
 ---
-title: Press Assistant
+title: Press Manager
 position: 0
-location: Sunset Blvd, Hollywood
+location: Los Angeles, North America
 is-featured: true
 email: tom.smart@listen-up.biz
 job-description: |-
