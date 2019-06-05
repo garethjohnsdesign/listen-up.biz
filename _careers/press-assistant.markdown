@@ -5,7 +5,9 @@ location: Los Angeles, North America
 is-featured: true
 email: recruitment@listen-up.biz
 job-description: "Title — Press Manager \nSalary — Based on experience  \nHours —
-  9.00am – 5.00pm (Monday – Friday)  \nLocation — Sunset Blvd, Hollywood "
+  9.00am – 5.00pm (Monday – Friday)  \nLocation — Sunset Blvd, Hollywood \n\nThe Press
+  Manager is responsible for raising the awareness, profile and sales for clients
+  and/or campaigns via a broad range of print and online media press coverage."
 skills-description: |-
   * 1-2 years' experience within a similar environment
 
