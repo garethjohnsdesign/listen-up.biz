@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+{% assign psize = site.careers | size %}
+{% if psize == 0 %} 
+  
+<div class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y align-center">
+    <div class="small-12 medium-9 cell text-center">
+      <h3>{{page.intro-no-jobs}}</h3>
+    </div>
+  </div>
+</div>
+
+{% else %}
+
+<!-- Intro -->
+<div class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y align-center">
+    <div class="small-12 medium-9 cell text-center">
+      <h3>{{page.intro}}</h3>
+    </div>
+  </div>
+</div>
+<!-- End Intro -->
+
+<!-- People -->
+<div class="grid-container padding-vertical-2">
+  <div class="grid-x grid-padding-x grid-padding-y text-center medium-text-left">  
+    {% assign careers = site.careers | sort: 'position' %}
+    {% for role in careers %}  
+    <div class="small-12 medium-6 cell">
+    <h3>{{role.title}}</h3>
+    <h5 class="primary-color">{{role.location}}</h5>
+    {{role.content | markdownify}}
+    <a href="{{ role.url }}" class="plus">More</a>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+<!-- End People -->
+
+{% endif %}

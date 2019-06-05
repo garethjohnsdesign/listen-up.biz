@@ -11,6 +11,9 @@ layout: compress
 
 <body class="{{page.layout | slugify}}">
 
+<!-- Off Canvas Wrapper -->
+<div class="off-canvas-wrapper">
+
 <!-- Off Canvas Navigation -->
 <div class="off-canvas position-right" id="offCanvas" data-off-canvas data-transition="overlap" data-close-on-click="false" data-content-scroll="false">
 {% include offcanvas.html %}
@@ -18,6 +21,7 @@ layout: compress
 <!-- End Off Canvas Navigation --> 
 
 <div class="off-canvas-content" data-off-canvas-content>
+<nav>
 <!-- Navigation -->
 {% unless page.layout == "home" %}
 <!-- Testimonials -->
@@ -25,15 +29,21 @@ layout: compress
 <!-- End Testimonials -->
 {% endunless %}
 <!-- End Navigation -->
+</nav>
 
+<main>
 <!-- Content -->
 {{ content }}
 <!-- End Content -->
+</main>
 
 <!-- Footer -->  
 {% include footer.html %}
 <!-- End Footer -->
 </div>
+
+
+<!-- End Off Canvas Wrapper -->
 </body>
 
 </html>
