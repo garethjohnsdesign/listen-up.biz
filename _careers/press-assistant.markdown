@@ -32,7 +32,6 @@ skills-description: |-
   * Must be able to work well under pressure within a fast paced environment, dealing with Directors & colleagues both in the US and UK
   * Adaptable to different methods of working
   * A real team player - lending a hand to ensure deadlines are met
-focus-description: Test
 expectations-description: "We value and listen to our staff whilst maintaining a fun
   collabrative environment, encourage new ideas and offer career progression. Our
   staff events are legendary and you will be joining our well established team where
