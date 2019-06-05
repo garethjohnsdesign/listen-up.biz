@@ -5,21 +5,17 @@ location: Los Angeles, North America
 is-featured: true
 email: recruitment@listen-up.biz
 job-description: 
-skills-description: |-
-  • 1-2 years' experience within a similar environment
-  • A proven track record of working within a similar industry
-  • Up to date knowledge of Electronic music and trends
-  • Strong existing relationships with music journalists and contacts
-  • Can hit the ground running with the roster given
-  • A well-organized individual with the ability to prioritize workload and juggle a variety of different tasks
-  • Keen interest in rising through the ranks within the company
-  • Proven well written press releases
-  • Confidence in pitching for new business
-  • Exceptional Management skills
-  • Positive attitude and brings solutions to problems
-  • Must be able to work well under pressure within a fast paced environment, dealing with Directors & colleagues both in the US and UK
-  • Adaptable to different methods of working
-  • A real team player - lending a hand to ensure deadlines are met
+skills-description: "* • 1-2 years' experience within a similar environment\n• A proven
+  track record of working within a similar industry\n• Up to date knowledge of Electronic
+  music and trends\n• Strong existing relationships with music journalists and contacts\n•
+  Can hit the ground running with the roster given\n• A well-organized individual
+  with the ability to prioritize workload and juggle a variety of different tasks\n•
+  Keen interest in rising through the ranks within the company\n• Proven well written
+  press releases\n• Confidence in pitching for new business\n• Exceptional Management
+  skills\n• Positive attitude and brings solutions to problems\n• Must be able to
+  work well under pressure within a fast paced environment, dealing with Directors
+  & colleagues both in the US and UK\n• Adaptable to different methods of working\n•
+  A real team player - lending a hand to ensure deadlines are met* "
 focus-description: 
 competencies-description: 
 expectations-description: "Title — Press Manager \nSalary — Based on experience  \nHours
