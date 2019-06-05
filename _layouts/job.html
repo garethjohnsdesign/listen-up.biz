@@ -15,17 +15,20 @@ layout: default
 <!-- End Intro -->
 
 <!-- About Us -->
+{% if page.about-description %}
 <div class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y align-center">
     <div class="small-12 medium-9 cell">
       <h4>About Us</h4>
-      {{site.about-text | markdownify}}
+      {{page.about-description | markdownify}}
     </div>
   </div>
 </div>
+{% endif %}
 <!-- End About Us -->
 
 <!-- Job Description -->
+{% if page.job-description %}
 <div class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y align-center">
     <div class="small-12 medium-9 cell">
@@ -34,9 +37,11 @@ layout: default
     </div>
   </div>
 </div>
+{% endif %}
 <!-- End Job Description -->
 
 <!-- Skills -->
+{% if page.skills-description %}
 <div class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y align-center">
     <div class="small-12 medium-9 cell">
@@ -45,9 +50,11 @@ layout: default
     </div>
   </div>
 </div>
+{% endif %}
 <!-- End Skills -->
 
 <!-- Focus -->
+{% if page.focus-description %}
 <div class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y align-center">
     <div class="small-12 medium-9 cell">
@@ -56,9 +63,11 @@ layout: default
     </div>
   </div>
 </div>
+{% endif %}
 <!-- End Focus -->
 
 <!-- Competencies -->
+{% if page.competencies-description %}
 <div class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y align-center">
     <div class="small-12 medium-9 cell">
@@ -67,9 +76,11 @@ layout: default
     </div>
   </div>
 </div>
+{% endif %}
 <!-- End Competencies -->
 
 <!-- What to expect -->
+{% if page.expectations-description %}
 <div class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y align-center">
     <div class="small-12 medium-9 cell">
@@ -78,9 +89,11 @@ layout: default
     </div>
   </div>
 </div>
+{% endif %}
 <!-- End What to expect -->
 
 <!-- Apply -->
+{% if page.apply-description %}
 <div class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y align-center">
     <div class="small-12 medium-9 cell">
@@ -89,9 +102,10 @@ layout: default
     </div>
   </div>
 </div>
+{% endif %}
 <!-- End Apply -->
 
-<!-- Apply -->
+<!-- Pricacy -->
 <div class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y align-center">
     <div class="small-12 medium-9 cell">
@@ -99,4 +113,4 @@ layout: default
     </div>
   </div>
 </div>
-<!-- End Apply -->
+<!-- End Privacy -->
