@@ -60,11 +60,11 @@ defaults:
     email: recruitment@listen-up.biz
     about-description: 
     job-description: 
-    skills-description:
-    focus-description:
-    competencies-description:
-    expectations-description:
-    apply-description:
+    skills-description: 
+    focus-description: 
+    competencies-description: 
+    expectations-description: 
+    apply-description: 
     layout: job
 - scope:
     path: ''
