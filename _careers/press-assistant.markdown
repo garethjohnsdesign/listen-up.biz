@@ -1,8 +1,6 @@
 ---
 title: Press Manager
 position: 0
-location: Los Angeles, North America
-is-featured: true
 email: recruitment@listen-up.biz
 about-description: Established in 2009 Listen Up offer a tailored range of bespoke
   radio, club, digital marketing, online and print promotion campaigns globally through
@@ -34,8 +32,7 @@ skills-description: |-
   * Must be able to work well under pressure within a fast paced environment, dealing with Directors & colleagues both in the US and UK
   * Adaptable to different methods of working
   * A real team player - lending a hand to ensure deadlines are met
-focus-description: 
-competencies-description: 
+focus-description: Test
 expectations-description: "We value and listen to our staff whilst maintaining a fun
   collabrative environment, encourage new ideas and offer career progression. Our
   staff events are legendary and you will be joining our well established team where
@@ -48,6 +45,8 @@ expectations-description: "We value and listen to our staff whilst maintaining a
 apply-description: If this sounds like the role for you, please send your email and
   covering letter outlining why you’re suitable for the role to [recruitment@listen-up.biz](mailto:recruitment@listen-up.biz).
   Applications without a covering letter will not be considered.
+location: Los Angeles, North America
+is-featured: true
 layout: job
 ---
 
