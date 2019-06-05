@@ -10,31 +10,18 @@ job-description: "Title — Press Manager \nSalary — Based on experience  \n
   and/or campaigns via a broad range of print and online media press coverage."
 skills-description: |-
   * 1-2 years' experience within a similar environment
-
   * A proven track record of working within a similar industry
-
   * Up to date knowledge of Electronic music and trends
-
   * Strong existing relationships with music journalists and contacts
-
-  * Can hit the ground running with the roster given
-
+  * Can hit the ground running with the roster give
   * A well-organized individual with the ability to prioritize workload and juggle a variety of different tasks
-
   * Keen interest in rising through the ranks within the company
-
   * Proven well written press releases
-
   * Confidence in pitching for new business
-
   * Exceptional Management skills
-
   * Positive attitude and brings solutions to problems
-
   * Must be able to work well under pressure within a fast paced environment, dealing with Directors & colleagues both in the US and UK
-
   * Adaptable to different methods of working
-
   * A real team player - lending a hand to ensure deadlines are met
 focus-description: 
 competencies-description: 
