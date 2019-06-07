@@ -1,7 +1,7 @@
 ---
 title: Dujon Fairweather
 position: 9
-job-title: Senior Press Manager
+job-title: 'Account Director: Press'
 is-featured: true
 email: dujon.fairweather@listen-up.biz
 ---
