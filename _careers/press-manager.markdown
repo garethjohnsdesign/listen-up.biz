@@ -21,6 +21,15 @@ skills-description: |-
   * Must be able to work well under pressure within a fast paced environment, dealing with Directors & colleagues both in the US and UK
   * Adaptable to different methods of working
   * A real team player - lending a hand to ensure deadlines are met
+competencies-description: "* Effectively communicates throughout the business \n*
+  Assist with the initial vetting of new business requests \n* Oversees, checks and
+  edits artist press releases and ensures timely delivery to clients\n* Develops strong
+  relationships with clients and journalists\n* Ensures all reports, data and written
+  work are correct in detail and without error \n* Actively participates in continual
+  professional development\n* Makes good decisions in a timely manner that reflect
+  a full understanding of risks, costs and benefits to the business\n* Is consistently
+  positive even under pressure\n* Fully proficient level of competency of all mainstream
+  software packages that are relevant to role"
 expectations-description: "We value and listen to our staff whilst maintaining a fun
   collabrative environment, encourage new ideas and offer career progression. Our
   staff events are legendary and you will be joining our well established team where
