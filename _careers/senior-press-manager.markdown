@@ -47,6 +47,36 @@ focus-description: |-
   * Ensuring praise is given and successes shared when due
   * Keeping up to date with trends in the industry and sharing knowledge
   * Managing client expectations
+competencies-description: |-
+  * Acts with discretion, integrity, and professionalism at all times
+  * Demonstrates strong interpersonal skills across all levels of people
+  * Effectively communicates throughout the business
+  * Ensures all reports, data and written work are correct in detail and without
+  error
+  * Seen as a cooperative team player willing to resolve issues for the good of all
+  with authority and experience to share with the team and the company
+  * Actively participates in continual professional development
+  * Keeps up to date with contemporary trends and technology
+  * Makes good decisions in a timely manner
+  * Is extremely well respected within the company
+  * Has strong relationships with the staff they line manage
+  * Clearly and comfortably delegates both routine and important tasks/decisions
+  * Proactively takes on the challenge of unfamiliar tasks
+  * Has a collaborative approach to teamwork
+  * Is consistently positive even under pressure
+  * Self-starter with a hands-on approach
+  * Is widely trusted and seen as direct and honest
+  * Calm under pressure and bounces back from setbacks
+  * Positive outlook, seen as committed and enthusiastic
+  * Fully proficient level of competency of all mainstream software packages that
+  are relevant to the role
+  * Shows initiative and adopts a proactive approach
+  * Identifies issues and resolves promptly
+  * Manages and prioritises workload effectively
+  * Successfully handles multiple tasks and working to tight deadlines
+  * Develops and maintains strong relationship with colleagues, clients and external suppliers
+  * Uses team resources effectively and efficiently
+  * Demonstrates effective communication skills both written and verbal
 apply-description: If this sounds like the role for you, please send your email and
   covering letter outlining why you’re suitable for the role to recruitment@listen-up.biz.
   Applications without a covering letter will not be considered.
