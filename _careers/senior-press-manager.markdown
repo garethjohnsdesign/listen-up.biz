@@ -77,6 +77,30 @@ competencies-description: |-
   * Develops and maintains strong relationship with colleagues, clients and external suppliers
   * Uses team resources effectively and efficiently
   * Demonstrates effective communication skills both written and verbal
+
+  **Line Managing**
+
+  * Mentoring their staff under their remit and proposing any training needed
+  * Helping source and employ interns
+  * Authorising annual leave requests and ensuring an adequate handover is
+  created
+  * Managing sickness and highlighting any discrepancies
+  * Monitoring staff performance and carrying out necessary reviews alongside
+  Director
+  * Setting achievable goals / tasks and guiding junior staff
+  * Creating first week / month inductions for new staff and carrying out necessary
+  reviews
+  * Updating HR & Accounts with any staff salary & title amendments or working
+  patterns
+  * Interviewing possible new recruits
+  * Managing and helping to manage internship programme within their team
+  * Keeping written record of any reviews, probation, warnings and disciplinaries
+  * Is the first point of contact for their staff within their team and provides support
+  * Understanding Listen Ups values and goals and promoting this ethos with
+  energy, passion and positivity
+  * Has regular one to ones and catch ups
+  * Monitoring staff days in lieu and encouraging these to be taken regularly after
+  events
 apply-description: If this sounds like the role for you, please send your email and
   covering letter outlining why you’re suitable for the role to recruitment@listen-up.biz.
   Applications without a covering letter will not be considered.
