@@ -104,6 +104,7 @@ competencies-description: |-
 apply-description: If this sounds like the role for you, please send your email and
   covering letter outlining why you’re suitable for the role to recruitment@listen-up.biz.
   Applications without a covering letter will not be considered.
+location: Camden, London
 ---
 
 We are currently recruiting for a highly motivated Senior Press Manager with a passion for electronic music and industry relevant experience to join our rapidly growing team. A Senior Press Manager is responsible for the nurturing and well being of the junior members if the press team and are encouraged to nurture relationships with both company clients and the wider industry. 
