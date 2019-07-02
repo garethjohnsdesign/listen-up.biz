@@ -13,18 +13,18 @@ about-description: Established in 2009 Listen Up offer a tailored range of bespo
   Up are now recognised as one of the market leaders in the world of music promotion
   services. We have grown massively over the last 10 years with offices in both the
   UK and US, and 3 companies working under our Listen Up umbrella.
-job-description: "•\tSocial media: compiling and posting on the company’s social media
-  accounts; Facebook, Twitter and Instagram. These posts highlight key successes /
-  moments on Instagram and Facebook\n•\tAsset creation and managemnt: Creates assets
-  for the department; download / streaming links, PR, artwork links for each record.
-  \n•\tTracking: Tracks all of the departments record on Shazam UK chart and sub charts
-  (dance, future hits etc). The chart is sent out weekly. "
-skills-description: "•\tOrganisation: The key tasks require someone who is able to
-  manage assets, data and social media content for the team across a large number
-  of records and festivals.\n•\tInitiative: Whilst we provide a structure and platform
-  for the role. We also encourage individuals taking initiative in bringing new ideas
-  to the role and the team. We also hope to develop team members as the department
-  grows and provide them with support to progress at Listen Up. "
+job-description: "**•\tSocial media:** compiling and posting on the company’s social
+  media accounts; Facebook, Twitter and Instagram. These posts highlight key successes
+  / moments on Instagram and Facebook\n\n**•\tAsset creation and management:** Creates
+  assets for the department; download / streaming links, PR, artwork links for each
+  record. \n\n**•\tTracking:** Tracks all of the departments record on Shazam UK chart
+  and sub charts (dance, future hits etc). The chart is sent out weekly. "
+skills-description: "**•\tOrganisation: **The key tasks require someone who is able
+  to manage assets, data and social media content for the team across a large number
+  of records and festivals.\n\n**•\tInitiative:** Whilst we provide a structure and
+  platform for the role. We also encourage individuals taking initiative in bringing
+  new ideas to the role and the team. We also hope to develop team members as the
+  department grows and provide them with support to progress at Listen Up. "
 expectations-description: "We value and listen to our staff whilst maintaining a fun
   working environment, encourage new ideas and offer career progression. Our staff
   events are legendary, and you will be joining our well-established team where you
