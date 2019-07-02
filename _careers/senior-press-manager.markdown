@@ -1,6 +1,7 @@
 ---
 title: Senior Press Manager
 date: 2019-06-07 09:02:00 Z
+position: 1
 job-description: The Senior Press Manager should be involved in the future and the
   growth of the department by managing and overseeing client campaigns, being involved
   in crisis management, being part of new business pitching and nurturing the individuals
