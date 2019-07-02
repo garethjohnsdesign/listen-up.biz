@@ -19,7 +19,7 @@ job-description: "**•\tSocial media:** compiling and posting on the company’
   assets for the department; download / streaming links, PR, artwork links for each
   record. \n\n**•\tTracking:** Tracks all of the departments record on Shazam UK chart
   and sub charts (dance, future hits etc). The chart is sent out weekly. "
-skills-description: "**•\tOrganisation: **The key tasks require someone who is able
+skills-description: "**•\tOrganisation: ** The key tasks require someone who is able
   to manage assets, data and social media content for the team across a large number
   of records and festivals.\n\n**•\tInitiative:** Whilst we provide a structure and
   platform for the role. We also encourage individuals taking initiative in bringing
@@ -34,7 +34,7 @@ expectations-description: "We value and listen to our staff whilst maintaining a
   an eye out on our website for any future opportunities. \n\n*Listen Up is an equal
   opportunities employer and welcomes applications from all suitably qualified persons
   regardless of their race, sex, disability, religion/belief, sexual orientation or
-  age.\n\n*We will process your data in accordance to relevant Data Protection Laws. "
+  age."
 apply-description: If this sounds like the role for you, please send your email and
   covering letter outlining why you’re suitable for the role to [recruitment@listen-up.biz](mailto:recruitment@listen-up.biz).
   Applications without a covering letter will not be considered.
