@@ -1,7 +1,7 @@
 ---
 title: Alexandra Amela
 date: 2019-02-26 10:08:00 Z
-position: 28
+position: 27
 job-title: Press Manager, North America
 ---
 
