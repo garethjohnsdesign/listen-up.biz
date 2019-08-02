@@ -6,6 +6,6 @@ categories:
 tags:
 - artist
 image: "/uploads/Teddy.jpg"
-is-home-featured: true
+is-home-featured: false
 ---
 
