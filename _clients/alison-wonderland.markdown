@@ -8,7 +8,7 @@ tags:
 position: 223
 image: "/uploads/alison-wonderland.jpg"
 is-home-featured: false
-is-artist-and-label-press-featured: true
+is-artist-and-label-press-featured: false
 is-client-featured: true
 website: https://alisonwonderland.com/
 facebook: https://www.facebook.com/awonderdj
