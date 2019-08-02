@@ -8,6 +8,7 @@ tags:
 image: "/uploads/aya-nakamura.jpg"
 is-home-featured: true
 is-artist-and-label-press-featured: true
+is-client-featured: true
 twitter: https://twitter.com/AyaNakamuraa
 ---
 
