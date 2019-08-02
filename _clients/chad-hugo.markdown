@@ -7,7 +7,7 @@ tags:
 position: 21
 image: "/uploads/Chad-Hugo.jpeg"
 is-home-featured: false
-is-artist-and-label-press-featured: true
+is-artist-and-label-press-featured: false
 instagram: https://www.instagram.com/chadhugo
 ---
 
