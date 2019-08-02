@@ -8,7 +8,7 @@ position: 222
 image: "/uploads/Black-Coffee.jpeg"
 is-home-featured: true
 is-artist-and-label-press-featured: true
-is-client-featured: false
+is-client-featured: true
 website: http://www.blackcoffee.dj
 facebook: https://www.facebook.com/realblackcoffee
 twitter: https://twitter.com/RealBlackCoffee

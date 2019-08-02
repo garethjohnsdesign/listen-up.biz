@@ -7,7 +7,7 @@ tags:
 position: 50
 image: "/uploads/idris.jpg"
 is-home-featured: false
-is-client-featured: true
+is-client-featured: false
 twitter: https://twitter.com/idriselba
 ---
 

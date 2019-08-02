@@ -10,6 +10,7 @@ image: "/uploads/fisher.jpg"
 is-home-featured: true
 is-artist-and-label-press-featured: true
 is-daytime-radio-featured: true
+is-client-featured: true
 website: https://followthefish.tv/
 ---
 
