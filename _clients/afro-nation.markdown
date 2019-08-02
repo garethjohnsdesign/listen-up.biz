@@ -6,6 +6,7 @@ categories:
 tags:
 - festival
 image: "/uploads/afro-nation.jpg"
+is-home-featured: true
 is-events-press-featured: true
 website: https://afronationfestival.com/
 ---
