@@ -5,6 +5,8 @@ categories:
 - artist-and-label-press
 tags:
 - artist
+image: "/uploads/SB.jpeg"
+is-home-featured: true
 twitter: https://twitter.com/suicideboys
 ---
 
