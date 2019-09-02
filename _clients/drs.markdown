@@ -5,6 +5,6 @@ categories:
 - artist-and-label-press
 tags:
 - artist
-website: https://www.drs-official.com/
+facebook: https://www.facebook.com/Delrokski/
 ---
 
