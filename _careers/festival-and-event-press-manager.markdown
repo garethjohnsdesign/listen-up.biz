@@ -23,7 +23,7 @@ competencies-description: "●\tHave existing relationships with key journalists
 expectations-description: |
   You will be based in our offices within the vibrant heart of Camden, a few minutes’ walk from excellent transport links with the added delights of the world famous market.
 
-  We value and listen to our staff whilst maintaining a fun and collaborative environment,encourage new ideas and offer career progression. Our staff events are legendary and you will be joining our well established team where you will be given genuine care and support from your colleagues and Directors.
+  We value and listen to our staff whilst maintaining a fun and collaborative environment, encourage new ideas and offer career progression. Our staff events are legendary and you will be joining our well established team where you will be given genuine care and support from your colleagues and Directors.
 
   Listen Up is an equal opportunities employer and welcomes applications from all suitably qualified persons regardless of their race, sex, disability, religion/belief, sexual orientation or age.
 apply-description: |-
