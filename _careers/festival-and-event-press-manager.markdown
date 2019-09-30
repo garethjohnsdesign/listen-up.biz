@@ -11,15 +11,16 @@ job-description: 'The candidate will report to the Senior Account Director: Fest
   & Event Press, and will have a minimum of two years’ experience in a similar role,
   with thorough knowledge of print and online press campaigns, as well as experience
   with on-site at events PR management.'
-skills-description: "Applicant must be confident in:\n\n●\tDeveloping campaign strategies
-  and timelines \n●\tPress release and copy writing\n●\tManaging client expectations\n●\tPitching
-  and arranging competitions and features with national and regional press\n●\tCoordinating
-  and hosting media on site at festivals and as part of overseas press trips\n●\tCommunicating
-  concisely and professionally internally, with clients and with journalists \n"
-competencies-description: "●\tHave existing relationships with key journalists and
-  titles\n●\tUp to date with current international festival landscape as well as industry
-  trends generally\n●\tAvailable to attend a number of events as well as client &
-  journalist meetings throughout the year (sometimes over weekends and bank holidays)\n"
+skills-description: "Applicant must be confident in:\n\n* Developing campaign strategies
+  and timelines \n* Press release and copy writing\n* Managing client expectations\n*
+  Pitching and arranging competitions and features with national and regional press\n*
+  Coordinating and hosting media on site at festivals and as part of overseas press
+  trips\n* Communicating concisely and professionally internally, with clients and
+  with journalists \n"
+competencies-description: |
+  * Have existing relationships with key journalists and titles
+  * Up to date with current international festival landscape as well as industry trends generally
+  * Available to attend a number of events as well as client & journalist meetings throughout the year (sometimes over weekends and bank holidays)
 expectations-description: |
   You will be based in our offices within the vibrant heart of Camden, a few minutes’ walk from excellent transport links with the added delights of the world famous market.
 
