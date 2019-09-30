@@ -1,19 +1,16 @@
 ---
 title: Festival & Event Press Manager
 date: 2019-09-30 10:50:00 Z
-about-description: "Established in 2009 Listen Up offer a tailored range of bespoke
+about-description: 'Established in 2009 Listen Up offer a tailored range of bespoke
   radio, club, online and print promotion campaigns, both across the UK and worldwide.
   Specialising in electronic music and events, we place our clients directly in the
   spotlight with the experience and knowhow to oversee thoughtful, effective and engaging
   campaigns. Listen Up are now recognised as one of the market leaders in the world
-  of music promotion services. \n\nThis role would mean working closely with the Festival
-  & Events Press department who’s recent clients including the likes of Parklife,
-  South West Four, Annie Mac’s Lost & Found, Malta Tourist Board, Afro Nation, FLY
-  Open Air, O Beach Ibiza and Cafe Mambo."
-job-description: 'The candidate will report to the Senior Account Director: Festival
-  & Event Press, and will have a minimum of two years’ experience in a similar role,
-  with thorough knowledge of print and online press campaigns, as well as experience
-  with on-site at events PR management.'
+  of music promotion services. '
+job-description: |-
+  The candidate will report to the Senior Account Director: Festival & Event Press, and will have a minimum of two years’ experience in a similar role, with thorough knowledge of print and online press campaigns, as well as experience with on-site at events PR management.
+
+  This role would mean working closely with the Festival & Events Press department who’s recent clients including the likes of Parklife, South West Four, Annie Mac’s Lost & Found, Malta Tourist Board, Afro Nation, FLY Open Air, O Beach Ibiza and Cafe Mambo.
 skills-description: "Applicant must be confident in:\n\n●\tDeveloping campaign strategies
   and timelines \n●\tPress release and copy writing\n●\tManaging client expectations\n●\tPitching
   and arranging competitions and features with national and regional press\n●\tCoordinating
