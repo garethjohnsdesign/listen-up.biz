@@ -28,11 +28,11 @@ expectations-description: |
   You will be based in our offices within the vibrant heart of Camden, a few minutes’ walk from excellent transport links with the added delights of the world famous market.
 
   We value and listen to our staff whilst maintaining a fun and collaborative environment,encourage new ideas and offer career progression. Our staff events are legendary and you will be joining our well established team where you will be given genuine care and support from your colleagues and Directors.
-  Unfortunately due to the volume of applications we receive we may not be able to respond to all applications but thank you for your interest in working with us, please keep an eye out on our website for any future opportunities.
 
   Listen Up is an equal opportunities employer and welcomes applications from all suitably qualified persons regardless of their race, sex, disability, religion/belief, sexual orientation or age.
-apply-description: To apply please email a copy of your CV and cover letter of why
-  you are right for this role to recruitment@listen-up.biz. Please note applicants
-  without a cover letter will not be considered.
+apply-description: |-
+  To apply please email a copy of your CV and cover letter of why you are right for this role to recruitment@listen-up.biz. Please note applicants without a cover letter will not be considered.
+
+  Unfortunately due to the volume of applications we receive we may not be able to respond to all applications but thank you for your interest in working with us, please keep an eye out on our website for any future opportunities.
 ---
 
