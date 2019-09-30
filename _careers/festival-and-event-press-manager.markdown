@@ -10,11 +10,10 @@ about-description: "Established in 2009 Listen Up offer a tailored range of besp
   & Events Press department who’s recent clients including the likes of Parklife,
   South West Four, Annie Mac’s Lost & Found, Malta Tourist Board, Afro Nation, FLY
   Open Air, O Beach Ibiza and Cafe Mambo."
-job-description: "We  are currently recruiting for a Festival & Event Press Manager
-  to join our Events department in our UK office.\nThe candidate will report to the
-  Senior Account Director: Festival & Event Press, and will have a minimum of two
-  years’ experience in a similar role, with thorough knowledge of print and online
-  press campaigns, as well as experience with on-site at events PR management. \n"
+job-description: 'The candidate will report to the Senior Account Director: Festival
+  & Event Press, and will have a minimum of two years’ experience in a similar role,
+  with thorough knowledge of print and online press campaigns, as well as experience
+  with on-site at events PR management.'
 skills-description: "Applicant must be confident in:\n\n●\tDeveloping campaign strategies
   and timelines \n●\tPress release and copy writing\n●\tManaging client expectations\n●\tPitching
   and arranging competitions and features with national and regional press\n●\tCoordinating
@@ -36,3 +35,4 @@ apply-description: |-
   Unfortunately due to the volume of applications we receive we may not be able to respond to all applications but thank you for your interest in working with us, please keep an eye out on our website for any future opportunities.
 ---
 
+We are currently recruiting for a Festival & Event Press Manager to join our Events department in our UK office. 
