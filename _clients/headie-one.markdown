@@ -6,7 +6,7 @@ categories:
 tags:
 - artist
 image: "/uploads/HeadieOne.jpg"
-is-daytime-radio-featured: true
+is-daytime-radio-featured: false
 twitter: https://twitter.com/headieone
 ---
 
