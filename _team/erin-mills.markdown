@@ -1,6 +1,6 @@
 ---
 title: Erin Mills
-position: 4
+position: 3
 job-title: Director of Press
 is-featured: true
 email: erin.mills@listen-up.biz

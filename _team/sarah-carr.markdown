@@ -1,6 +1,6 @@
 ---
 title: Sarah Carr
-position: 34
+position: 33
 job-title: HR & Operations Manager
 is-featured: true
 email: sarah.carr@listen-up.biz
