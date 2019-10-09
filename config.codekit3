@@ -7,7 +7,7 @@
 		"uuidString": "550FEDE5-7AFF-4FD3-8DBE-A45DE2D02921"
 		}
 	],
-"creatorBuild": "29156",
+"creatorBuild": "31491",
 "files": {
 	"/.gitattributes": {
 		"cB": 0,
@@ -25,12 +25,20 @@
 		"oAP": "/.gitignore",
 		"oF": 0
 		},
-	"/_careers/press-manager.markdown": {
+	"/_careers/festival-and-event-press-manager.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_careers/press-manager.markdown",
+		"oAP": "/_careers/festival-and-event-press-manager.markdown",
+		"oF": 0
+		},
+	"/_clients/$uicideboy$.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_clients/$uicideboy$.markdown",
 		"oF": 0
 		},
 	"/_clients/3-beat.markdown": {
@@ -329,6 +337,14 @@
 		"oAP": "/_clients/balaton-sound.markdown",
 		"oF": 0
 		},
+	"/_clients/becky-hill.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_clients/becky-hill.markdown",
+		"oF": 0
+		},
 	"/_clients/bedouin.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -447,6 +463,14 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_clients/booka-shade.markdown",
+		"oF": 0
+		},
+	"/_clients/borgore.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_clients/borgore.markdown",
 		"oF": 0
 		},
 	"/_clients/brookes-brothers.markdown": {
@@ -753,6 +777,14 @@
 		"oAP": "/_clients/dimension.markdown",
 		"oF": 0
 		},
+	"/_clients/dirty-south-ec5eed.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_clients/dirty-south-ec5eed.markdown",
+		"oF": 0
+		},
 	"/_clients/dirty-south.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -897,6 +929,14 @@
 		"oAP": "/_clients/edx.markdown",
 		"oF": 0
 		},
+	"/_clients/elder-island.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_clients/elder-island.markdown",
+		"oF": 0
+		},
 	"/_clients/elderbook.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -999,6 +1039,14 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_clients/feed-me.markdown",
+		"oF": 0
+		},
+	"/_clients/festival-x.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_clients/festival-x.markdown",
 		"oF": 0
 		},
 	"/_clients/ffrrecords.markdown": {
@@ -1233,6 +1281,14 @@
 		"oAP": "/_clients/harry-romero.markdown",
 		"oF": 0
 		},
+	"/_clients/hayes.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_clients/hayes.markdown",
+		"oF": 0
+		},
 	"/_clients/hazers.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -1247,6 +1303,14 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_clients/headie-one.markdown",
+		"oF": 0
+		},
+	"/_clients/highcard.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_clients/highcard.markdown",
 		"oF": 0
 		},
 	"/_clients/highly-sedated.markdown": {
@@ -1489,6 +1553,14 @@
 		"oAP": "/_clients/just-us.markdown",
 		"oF": 0
 		},
+	"/_clients/justin-caruso.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_clients/justin-caruso.markdown",
+		"oF": 0
+		},
 	"/_clients/k-391-b334af.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -1561,6 +1633,14 @@
 		"oAP": "/_clients/kid-enigma-and-riton.markdown",
 		"oF": 0
 		},
+	"/_clients/kid-quill.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_clients/kid-quill.markdown",
+		"oF": 0
+		},
 	"/_clients/kimyan-law.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -1631,6 +1711,14 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_clients/kydus.markdown",
+		"oF": 0
+		},
+	"/_clients/la-goony-chonga.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_clients/la-goony-chonga.markdown",
 		"oF": 0
 		},
 	"/_clients/latmun.markdown": {
@@ -2249,6 +2337,14 @@
 		"oAP": "/_clients/option4.markdown",
 		"oF": 0
 		},
+	"/_clients/orjan-nilsen.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_clients/orjan-nilsen.markdown",
+		"oF": 0
+		},
 	"/_clients/oscar-number-worldpeace.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -2351,6 +2447,14 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_clients/phazing-records.markdown",
+		"oF": 0
+		},
+	"/_clients/pls-and-ty.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_clients/pls-and-ty.markdown",
 		"oF": 0
 		},
 	"/_clients/pm-am.markdown": {
@@ -2513,6 +2617,14 @@
 		"oAP": "/_clients/raz-simone.markdown",
 		"oF": 0
 		},
+	"/_clients/red-bull-records.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_clients/red-bull-records.markdown",
+		"oF": 0
+		},
 	"/_clients/redinho.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -2641,6 +2753,14 @@
 		"oAP": "/_clients/rythm-masters.markdown",
 		"oF": 0
 		},
+	"/_clients/sachai.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_clients/sachai.markdown",
+		"oF": 0
+		},
 	"/_clients/saintwknd.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -2721,6 +2841,14 @@
 		"oAP": "/_clients/seth-schwarz.markdown",
 		"oF": 0
 		},
+	"/_clients/seyi-shay.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_clients/seyi-shay.markdown",
+		"oF": 0
+		},
 	"/_clients/shadow-child.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -2751,6 +2879,14 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_clients/showtek.markdown",
+		"oF": 0
+		},
+	"/_clients/sidepiece.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_clients/sidepiece.markdown",
 		"oF": 0
 		},
 	"/_clients/siege.markdown": {
@@ -2969,6 +3105,14 @@
 		"oAP": "/_clients/tale-of-us.markdown",
 		"oF": 0
 		},
+	"/_clients/tchami.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_clients/tchami.markdown",
+		"oF": 0
+		},
 	"/_clients/tcts.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -3111,6 +3255,14 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_clients/this-and-that.markdown",
+		"oF": 0
+		},
+	"/_clients/three-six-zero-records.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_clients/three-six-zero-records.markdown",
 		"oF": 0
 		},
 	"/_clients/thutmose.markdown": {
@@ -3321,6 +3473,22 @@
 		"oAP": "/_clients/warp.markdown",
 		"oF": 0
 		},
+	"/_clients/wave-racer.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_clients/wave-racer.markdown",
+		"oF": 0
+		},
+	"/_clients/wenzday.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_clients/wenzday.markdown",
+		"oF": 0
+		},
 	"/_clients/wh0-plays-records.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -3351,6 +3519,14 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_clients/wilkinson.markdown",
+		"oF": 0
+		},
+	"/_clients/will-clarke.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_clients/will-clarke.markdown",
 		"oF": 0
 		},
 	"/_clients/willaris-k.markdown": {
@@ -3711,12 +3887,28 @@
 		"oAP": "/_team/alexandra-amela.markdown",
 		"oF": 0
 		},
+	"/_team/allyson-borunda.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_team/allyson-borunda.markdown",
+		"oF": 0
+		},
 	"/_team/aly-mchugh.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_team/aly-mchugh.markdown",
+		"oF": 0
+		},
+	"/_team/amber-higgins.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_team/amber-higgins.markdown",
 		"oF": 0
 		},
 	"/_team/carina-low.markdown": {
@@ -3807,28 +3999,12 @@
 		"oAP": "/_team/james-marsh.markdown",
 		"oF": 0
 		},
-	"/_team/james-paterson.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_team/james-paterson.markdown",
-		"oF": 0
-		},
 	"/_team/jayde-engledew.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_team/jayde-engledew.markdown",
-		"oF": 0
-		},
-	"/_team/joanna-gardner.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_team/joanna-gardner.markdown",
 		"oF": 0
 		},
 	"/_team/katerina-koumourou.markdown": {
@@ -3911,12 +4087,28 @@
 		"oAP": "/_team/marissa-cohnen.markdown",
 		"oF": 0
 		},
+	"/_team/matt-rimmington.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_team/matt-rimmington.markdown",
+		"oF": 0
+		},
 	"/_team/megan-dembkowski.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_team/megan-dembkowski.markdown",
+		"oF": 0
+		},
+	"/_team/michael-lawson.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_team/michael-lawson.markdown",
 		"oF": 0
 		},
 	"/_team/mikey-corrighan.markdown": {
@@ -4140,6 +4332,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/balaton-sound.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/BeckyHill.jpeg": {
+		"ft": 16384,
+		"iS": 100108,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/BeckyHill.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -5380,6 +5583,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/saved.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/SB.jpeg": {
+		"ft": 16384,
+		"iS": 63041,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/SB.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6711,6 +6925,78 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"/node_modules": {
+		"ft": 65536,
+		"oA": 2,
+		"oAP": "/build/node_modules",
+		"oF": 0
+		},
+	"/node_modules/../node_modules/aos/dist/aos.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/node_modules/../node_modules/aos/dist/min/aos-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/node_modules/../node_modules/foundation-sites/dist/js/foundation.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/node_modules/../node_modules/foundation-sites/dist/js/min/foundation-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/node_modules/../node_modules/jquery/dist/jquery.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/node_modules/../node_modules/jquery/dist/min/jquery-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/node_modules/../node_modules/lightgallery/dist/js/lightgallery-all.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/node_modules/../node_modules/lightgallery/dist/js/min/lightgallery-all-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/node_modules/../node_modules/motion-ui/dist/motion-ui.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/node_modules/../node_modules/motion-ui/dist/min/motion-ui-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/node_modules/../node_modules/what-input/dist/what-input.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/node_modules/../node_modules/what-input/dist/min/what-input-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"/package.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -6806,6 +7092,7 @@
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
+	"allowInjectionReloads": 1,
 	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
@@ -6817,6 +7104,7 @@
 	"babelConfigType": 0,
 	"babelCustomPluginsList": "",
 	"babelCustomPresetsList": "",
+	"babelExcludeString": "/\\/node_modules\\//, /\\/core-js\\//, /\\/bower_components\\//",
 	"babelInsertModuleIDs": 0,
 	"babelModuleID": "",
 	"babelNoComments": 0,
@@ -6956,6 +7244,9 @@
 		"modules-umd": {
 			"active": 0
 			},
+		"named-capturing-groups-regex": {
+			"active": 0
+			},
 		"new-target": {
 			"active": 0
 			},
@@ -6987,6 +7278,9 @@
 			"active": 0
 			},
 		"parameters": {
+			"active": 0
+			},
+		"partial-application": {
 			"active": 0
 			},
 		"pipeline-operator": {
@@ -7081,11 +7375,10 @@
 			}
 		},
 	"babelRetainLines": 0,
+	"babelUseBuiltInsType": 0,
 	"bowerAbbreviatedPath": "bower_components",
-	"bowerAutoCreateInfoFile": 1,
-	"bowerInstallDevDependencies": 0,
-	"bowerSaveDependencies": 1,
-	"bowerSaveDevDependencies": 0,
+	"bowerForceLatestOnConflict": 1,
+	"bowerTargetDependencyListType": 1,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 3,
 	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
@@ -8090,6 +8383,10 @@
 			"active": 0,
 			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
 			},
+		"prefer-named-capture-group": {
+			"active": 0,
+			"optionString": ""
+			},
 		"prefer-numeric-literals": {
 			"active": 0,
 			"optionString": ""
@@ -8843,6 +9140,11 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"npmAbbreviatedPath": "",
+	"npmCreatePackageLock": 1,
+	"npmInstallOptionalDependencies": 0,
+	"npmSaveExactVersion": 0,
+	"npmTargetDependencyListType": 1,
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, /storage/framework/sessions, node_modules, /_site",

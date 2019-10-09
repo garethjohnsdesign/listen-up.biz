@@ -41,8 +41,8 @@ $(function(){
             
             var losangeles = new mapboxgl.Map({
                 container: 'losangeles',
-                style: 'mapbox://styles/garethjohnsdesign/cjl4v4inx7ai82soh8s2xcrng',
-                center: [-118.337170, 34.098140],
+                style: 'mapbox://styles/garethjohnsdesign/ck1ja3pwy01di1cn08g5khe5a',
+                center: [-118.263695, 34.114348],
                 zoom: 10.36,
                 scrollZoom: false
             });
