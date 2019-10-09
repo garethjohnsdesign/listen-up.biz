@@ -1,6 +1,6 @@
 ---
 title: Liberty Spinks
-position: 7
+position: 6
 job-title: 'Account Director: Festival & Event Press'
 is-featured: true
 email: liberty.spinks@listen-up.biz

@@ -1,6 +1,6 @@
 ---
 title: Dujon Fairweather
-position: 8
+position: 7
 job-title: 'Account Director: Press'
 is-featured: true
 email: dujon.fairweather@listen-up.biz
