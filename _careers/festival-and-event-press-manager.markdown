@@ -16,10 +16,10 @@ about-description: "Established in 2009, Listen Up is a publicity company offeri
   of Parklife, The Warehouse Project, South West Four, Annie Mac’s AMP Lost & Found,
   Malta Tourism Authority, Afro Nation, FLY Open Air, ANTS, O Beach Ibiza and Cafe
   Mambo."
-job-description: 'The candidate will report to the Senior Account Director: Festival
-  & Event Press, and will have a minimum of two years’ experience in a similar role,
-  with thorough knowledge of print and online press campaigns, as well as experience
-  with on-site at events PR management.'
+job-description: |-
+  The candidate will report to the Senior Account Director: Festival & Event Press, and will have a minimum of two years’ experience in a similar role, with thorough knowledge of print and online press campaigns, as well as experience with on-site at events PR management.
+
+  **This job is not an event management role and is strictly based around PR work. **
 skills-description: "Applicant must be confident in:\n\n* Developing new business
   proposals, campaign strategies and timelines \n* Press release and copy writing\n*
   Strong experience in crisis management \n* Leading on campaigns, communicating clearly
@@ -28,12 +28,12 @@ skills-description: "Applicant must be confident in:\n\n* Developing new busines
   and hosting media on site at festivals and as part of overseas press trips\n* Communicating
   concisely and professionally internally, with clients and with journalists \n* Experience
   in account negotiation and new business pitching"
-competencies-description: "Personal specification: \n\n* Have 5 years of experience
-  in events publicity \n* Have line management experience\n* Have strong existing
-  relationships with key journalists and titles, with an extensive database\n* Up
-  to date with current international festival landscape as well as industry trends
-  generally\n* Available to attend a number of events as well as client & journalist
-  meetings throughout the year (including over weekends and bank holidays)\n"
+competencies-description: "* Have 5 years of experience in events publicity \n* Have
+  line management experience\n* Have strong existing relationships with key journalists
+  and titles, with an extensive database\n* Up to date with current international
+  festival landscape as well as industry trends generally\n* Available to attend a
+  number of events as well as client & journalist meetings throughout the year (including
+  over weekends and bank holidays)\n"
 expectations-description: |
   You will be based in our offices within the vibrant heart of Camden, a few minutes’ walk from excellent transport links with the added delights of the world famous market.
 
@@ -47,5 +47,3 @@ apply-description: |-
 ---
 
 We are currently recruiting for a Head of Festival & Event Press to manage the Festival & Events department in our UK office. The candidate will report to the directors, manage a team of approximately 4, and will have a minimum of 5 years’ experience in an events publicity position. They should have experience in leading an on-site press team, line managing, crisis management and an expert knowledge of print and online press campaigns.
-
-This job is NOT an event management role and is strictly based around PR work.
