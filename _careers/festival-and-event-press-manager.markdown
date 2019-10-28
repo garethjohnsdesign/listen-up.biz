@@ -28,12 +28,12 @@ skills-description: "Applicant must be confident in:\n\n* Developing new busines
   and hosting media on site at festivals and as part of overseas press trips\n* Communicating
   concisely and professionally internally, with clients and with journalists \n* Experience
   in account negotiation and new business pitching"
-competencies-description: "Personal specification: \n\n* Have 5 years of experience
-  in events publicity \n* Have line management experience\n* Have strong existing
-  relationships with key journalists and titles, with an extensive database\n* Up
-  to date with current international festival landscape as well as industry trends
-  generally\n* Available to attend a number of events as well as client & journalist
-  meetings throughout the year (including over weekends and bank holidays)\n"
+competencies-description: "* Have 5 years of experience in events publicity \n* Have
+  line management experience\n* Have strong existing relationships with key journalists
+  and titles, with an extensive database\n* Up to date with current international
+  festival landscape as well as industry trends generally\n* Available to attend a
+  number of events as well as client & journalist meetings throughout the year (including
+  over weekends and bank holidays)\n"
 expectations-description: |
   You will be based in our offices within the vibrant heart of Camden, a few minutes’ walk from excellent transport links with the added delights of the world famous market.
 
