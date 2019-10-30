@@ -6,7 +6,7 @@ categories:
 - streaming-promotion
 tags:
 - artist
-image: "/uploads/dj-snake-e26305.jpg"
+image: "/uploads/DJ%20Snake.jpg"
 is-home-featured: false
 is-artist-and-label-press-featured: false
 is-daytime-radio-featured: false
