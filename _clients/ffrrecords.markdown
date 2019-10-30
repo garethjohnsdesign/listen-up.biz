@@ -7,7 +7,7 @@ categories:
 tags:
 - label
 position: 267
-image: "/uploads/FFRR-d45ee7.jpg"
+image: "/uploads/FFRR-10a186.jpg"
 is-streaming-promotion-featured: true
 website: http://ffrrecords.com
 ---
