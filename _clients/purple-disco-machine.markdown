@@ -3,6 +3,7 @@ title: Purple Disco Machine
 categories:
 - specialist-radio-and-club
 - daytime-radio
+- streaming-promotion
 tags:
 - artist
 position: 120
