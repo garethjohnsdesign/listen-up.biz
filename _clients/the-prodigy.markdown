@@ -5,7 +5,7 @@ categories:
 - streaming-promotion
 tags:
 - artist
-image: "/uploads/the-prodigy.jpg"
+image: "/uploads/The%20Prodigy.jpg"
 is-streaming-promotion-featured: true
 website: http://theprodigy.com/
 ---
