@@ -6,7 +6,7 @@ categories:
 tags:
 - artist
 image: "/uploads/mercer.jpg"
-is-streaming-promotion-featured: true
+is-streaming-promotion-featured: false
 twitter: https://twitter.com/Mercer_Music
 ---
 
