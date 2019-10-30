@@ -5,7 +5,7 @@ categories:
 - streaming-promotion
 tags:
 - artist
-image: "/uploads/chase-and-status.jpg"
+image: "/uploads/Chase%20&%20Status.jpg"
 is-streaming-promotion-featured: true
 website: https://chaseandstatus.co.uk/
 ---
