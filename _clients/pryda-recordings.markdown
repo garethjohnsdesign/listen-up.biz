@@ -6,6 +6,7 @@ categories:
 tags:
 - label
 image: "/uploads/pryda-692e16.jpg"
+is-streaming-promotion-featured: true
 website: https://www.ericprydz.com/pryda
 ---
 
