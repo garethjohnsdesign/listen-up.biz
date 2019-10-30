@@ -2,6 +2,7 @@
 title: Kölsch
 categories:
 - specialist-radio-and-club
+- streaming-promotion
 tags:
 - artist
 position: 282
