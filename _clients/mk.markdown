@@ -3,6 +3,7 @@ title: MK
 categories:
 - artist-and-label-press
 - daytime-radio
+- streaming-promotion
 tags:
 - artist
 position: 284
