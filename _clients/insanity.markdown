@@ -6,7 +6,7 @@ categories:
 tags:
 - label
 position: 64
-image: "/uploads/insanity-19c8d7.jpg"
+image: "/uploads/Insanity%20Records.jpg"
 is-streaming-promotion-featured: true
 website: https://www.insanityrecords.com/
 ---
