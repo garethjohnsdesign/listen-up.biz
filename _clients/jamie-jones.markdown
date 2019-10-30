@@ -2,6 +2,7 @@
 title: Jamie Jones
 categories:
 - artist-and-label-press
+- streaming-promotion
 tags:
 - artist
 position: 200
