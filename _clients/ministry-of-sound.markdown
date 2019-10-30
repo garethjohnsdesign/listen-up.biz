@@ -6,7 +6,7 @@ categories:
 tags:
 - label
 position: 71
-image: "/uploads/ministry-of-sound.jpg"
+image: "/uploads/Ministry%20of%20Sound.jpg"
 is-streaming-promotion-featured: true
 website: https://www.ministryofsound.com/
 ---
