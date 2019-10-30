@@ -6,7 +6,7 @@ categories:
 tags:
 - label
 position: 155
-image: "/uploads/polydor.jpg"
+image: "/uploads/Polydor%20Records.jpg"
 is-streaming-promotion-featured: true
 website: https://www.polydor.co.uk/
 ---
