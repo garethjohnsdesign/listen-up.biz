@@ -7,7 +7,7 @@ categories:
 tags:
 - label
 position: 308
-image: "/uploads/virgin.jpg"
+image: "/uploads/Virgin%20EMI.jpg"
 is-home-featured: true
 is-artist-and-label-press-featured: true
 is-client-featured: false
