@@ -6,7 +6,7 @@ about-description: Established in 2009, Listen Up offer a tailored range of besp
   LA and London offices. In 2014 after recognising a gap in the market we moved our
   services stateside and opened an additional arm of the business in LA. Specialising
   in electronic music and events, we place our clients directly in the spotlight with
-  the experience and knowhow to oversee thoughtful, ef-fective and engaging campaigns.
+  the experience and knowhow to oversee thoughtful, effective and engaging campaigns.
   With a client roster boasting the likes of MK, Snakehips, Jonas Blue, Gorgon City,
   Black Coffee, Theophilus London, Snakehips, Marshmello, and Samm Henshaw, Listen
   Up are now recognised as one of the market leaders in the world of music promotion
@@ -16,11 +16,11 @@ job-description: |-
   * Ensuring you have all assets for a campaign (MP3s, Press Shots, Artwork, Biog-raphies etc) to create press packs on Egnyte.
   * Setting up private streams and MP3 links for press managers to pitch with.
   * Reaching out to tour promoters to discuss press opportunities around dates.
-  * Facilitate artist interviews with journalist and when appropriate directly conducts in-terviews with artists on behalf of journalists.
+  * Facilitate artist interviews with journalist and when appropriate directly conducts interviews with artists on behalf of journalists.
   * Transcribing interviews and drafting interview questions.
   * Writing press releases.
   * Keeping the Listen Up socials (FB, Twitter and Instagram) updated with any clients news/features that have gone live that day/week.
-  * Keeping the gig guide and release schedule tabs on the Listen Up Google doc updat-ed.
+  * Keeping the gig guide and release schedule tabs on the Listen Up Google doc updated.
   * Keeping the International Festival Doc updated as new press lists come through.
   * Collecting papers each week.
   * Taking notes during press meets and sending to press team afterwards.
@@ -33,7 +33,7 @@ job-description: |-
   * Create reports for press managers and coordinators.
   * Setting up Press Releases for Press Managers in Mailchimp.
   * Attends artists’ events to enhance relationship in addition to raising the profile of yourself and Listen Up.
-  * On-going listening to and reviewing of music.
+  * Ongoing listening to and reviewing of music.
   * Ensures all online copy is correct and organises for amends when necessary.
   * Keeps fully up to date on artist tour schedules.
   * Attends artists’ events to enhance relationship in addition to raising the profile of yourself and Listen Up.
@@ -41,8 +41,8 @@ job-description: |-
 focus-description: |
   * Effectively communicating throughout the business
   * Auditing for news posts and features.
-  * Facilitate artist interviews with journalist and when appropriate directly conducts in-terviews with artists on behalf of journalists.
-  * Ensuring you have all assets for a campaign (MP3s, Press Shots, Artwork, Biog-raphies etc) to create press packs on Egnyte.
+  * Facilitate artist interviews with journalist and when appropriate directly conducts interviews with artists on behalf of journalists.
+  * Ensuring you have all assets for a campaign (MP3s, Press Shots, Artwork, Biographies etc) to create press packs on Egnyte.
   * Keeping the Listen Up socials (FB, Twitter and Instagram) updated with any clients news/features that have gone live that day/week.
 competencies-description: "* Competent and creative copywriter.\n* Acts with discretion,
   integrity and professionalism at all times.\n* Demonstrates strong interpersonal
@@ -65,7 +65,7 @@ expectations-description: 'You will be based in our offices within the vibrant h
   of Camden, a few minutes’ walk from excellent transport links with the added delights
   of the world famous market.  We value and listen to our staff whilst maintaining
   a fun collaborative environment, encourage new ideas and offer career progression.
-  Our staff events are legendary and you will be join-ing our well established team
+  Our staff events are legendary and you will be joining our well established team
   where you will be given genuine care and support from your colleagues and Directors. '
 apply-description: "If you are interested in working with us, please ensure you meet
   our essential requirements and apply with a copy of your CV and a cover letter to
