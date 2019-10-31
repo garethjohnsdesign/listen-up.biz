@@ -13,7 +13,7 @@ about-description: Established in 2009, Listen Up offer a tailored range of besp
   services. We have grown massively over the last 10 years with offices in both the
   UK and US.
 job-description: |-
-  * Ensuring you have all assets for a campaign (MP3s, Press Shots, Artwork, Biog-raphies etc) to create press packs on Egnyte.
+  * Ensuring you have all assets for a campaign (MP3s, Press Shots, Artwork, Biographies etc) to create press packs on Egnyte.
   * Setting up private streams and MP3 links for press managers to pitch with.
   * Reaching out to tour promoters to discuss press opportunities around dates.
   * Facilitate artist interviews with journalist and when appropriate directly conducts interviews with artists on behalf of journalists.
