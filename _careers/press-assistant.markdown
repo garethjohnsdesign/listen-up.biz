@@ -75,4 +75,4 @@ apply-description: "If you are interested in working with us, please ensure you 
   letter.    "
 ---
 
-We are currently recruiting for a motivated Press Assistant with a passion for electronic, pop and urban music and industry relevant experience to join our rapidly growing team. The Press Assistant is responsible for supporting the Press Managers with the organisation and coordination of artists’ campaigns.
+We are currently recruiting for a motivated Press Assistant with a passion for electronic, pop and urban music and industry relevant experience to join our rapidly growing team in London. The Press Assistant is responsible for supporting the Press Managers with the organisation and coordination of artists’ campaigns.
