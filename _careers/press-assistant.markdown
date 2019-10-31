@@ -69,8 +69,11 @@ expectations-description: 'You will be based in our offices within the vibrant h
   where you will be given genuine care and support from your colleagues and Directors. '
 apply-description: "If you are interested in working with us, please ensure you meet
   our essential requirements and apply with a copy of your CV and a cover letter to
-  recruitment@listen-up.biz. \n\nPlease note that applications without a cover letter
-  will not be considered.  "
+  recruitment@listen-up.biz. Please note that applications without a cover letter
+  will not be considered.  \n\nUnfortunately due to the volume of applications we
+  receive we may not be able to respond to all applications but thank you for your
+  interest in working with us, please keep an eye out on our website for any future
+  opportunities."
 ---
 
 We are currently recruiting for a motivated Press Assistant with a passion for electronic, pop and urban music and industry relevant experience to join our rapidly growing team in London. The Press Assistant is responsible for supporting the Press Managers with the organisation and coordination of artists’ campaigns.
