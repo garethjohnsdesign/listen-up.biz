@@ -1,7 +1,7 @@
 ---
 title: Lora-Jean Collier
 date: 2017-03-17 14:49:00 Z
-position: 16
+position: 17
 job-title: Press Manager
 is-featured: true
 ---
