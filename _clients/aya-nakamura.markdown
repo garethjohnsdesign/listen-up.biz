@@ -6,8 +6,8 @@ categories:
 tags:
 - artist
 image: "/uploads/aya-nakamura.jpg"
-is-home-featured: true
-is-artist-and-label-press-featured: true
+is-home-featured: false
+is-artist-and-label-press-featured: false
 is-client-featured: true
 twitter: https://twitter.com/AyaNakamuraa
 ---
