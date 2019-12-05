@@ -1,5 +1,5 @@
 ---
-title: Grfynn
+title: Gryffin
 categories:
 - artist-and-label-press
 tags:
