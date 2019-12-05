@@ -1,5 +1,5 @@
 ---
-title: Alicia Harley
+title: Alicai Harley
 categories:
 - artist-and-label-press
 tags:
