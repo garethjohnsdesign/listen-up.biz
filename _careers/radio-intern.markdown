@@ -22,7 +22,7 @@ job-description: "Some of your key tasks will include: \n\n* **Social media:** c
 skills-description: "The essential skills you will bring: \n\n* **Organisation:**
   The key tasks require someone who is able to manage assets, data and social media
   content for the team across a large number of records and festivals.\n* **Initiative:**
-  Whilst we provide a structure and platform for the role. We also encourage individuals
+  Whilst we provide a structure and platform for the role, we also encourage individuals
   taking initiative in bringing new ideas to the role and the team. We also hope to
   develop team members as the department grows and provide them with support to progress
   at Listen Up. "
