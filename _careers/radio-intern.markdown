@@ -67,4 +67,4 @@ apply-description: |-
   Unfortunately due to the volume of applications we receive we may not be able to respond to all applications but thank you for your interest in working with us, please keep an eye out on our website for any future opportunities.
 ---
 
-We are currently recruiting for an energetic and enthusiastic Radio Intern to assist our well-established team across national radio campaigns. The paid internship will start in January 2020 on a 6 month contract with scope to potentially extend and develop further.
+We are currently recruiting for an energetic and enthusiastic Radio Intern to assist our well-established team across national radio campaigns. The paid internship will start in January 2020 on an initial 6 month contract.
