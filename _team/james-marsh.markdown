@@ -1,7 +1,7 @@
 ---
 title: James Marsh
 position: 9
-job-title: Senior Radio & Club Promotions Manager
+job-title: Head of Specialist Radio & Club Promotions
 is-featured: true
 email: james.marsh@listen-up.biz
 ---
