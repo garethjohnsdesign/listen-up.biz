@@ -16,7 +16,7 @@ job-description: "Some of your key tasks will include: \n\n* **Social media:** c
   and posting on the company’s social media accounts; Facebook, Twitter and Instagram.
   These posts highlight key successes / moments on Instagram and Facebook\n* **Asset
   creation and management:** Creates assets for the department; download / streaming
-  links, PR, artwork links for each record. \n* **Tracking: ** Tracks all of the departments
+  links, PR, artwork links for each record. \n* **Tracking:** Tracks all of the departments
   record on Shazam UK chart and sub charts (dance, future hits etc). The chart is
   sent out weekly. \n"
 skills-description: "The essential skills you will bring: \n\n* **Organisation:**
