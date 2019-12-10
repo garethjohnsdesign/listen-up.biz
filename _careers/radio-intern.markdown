@@ -16,7 +16,7 @@ job-description: "Some of your key tasks will include: \n\n* **Social media:** c
   and posting on the company’s social media accounts; Facebook, Twitter and Instagram.
   These posts highlight key successes / moments on Instagram and Facebook\n* **Asset
   creation and management:** Creates assets for the department; download / streaming
-  links, PR, artwork links for each record. \n* **Tracking: **Tracks all of the departments
+  links, PR, artwork links for each record. \n* **Tracking: ** Tracks all of the departments
   record on Shazam UK chart and sub charts (dance, future hits etc). The chart is
   sent out weekly. \n"
 skills-description: "The essential skills you will bring: \n\n* **Organisation:**
@@ -67,4 +67,4 @@ apply-description: |-
   Unfortunately due to the volume of applications we receive we may not be able to respond to all applications but thank you for your interest in working with us, please keep an eye out on our website for any future opportunities.
 ---
 
-We are currently recruiting for an energetic and enthusiastic Radio Intern to assist our well-established team across national radio campaigns. The paid internship will start in January on a 6 month contract with scope to potentially extend and develop further.
+We are currently recruiting for an energetic and enthusiastic Radio Intern to assist our well-established team across national radio campaigns. The paid internship will start in January 2020 on a 6 month contract with scope to potentially extend and develop further.
