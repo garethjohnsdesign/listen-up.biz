@@ -45,22 +45,27 @@ focus-description: "* Creates assets for the department; download / streaming li
   \n* Ensures Radiomonitor is frequently updated with all new and relevant material.\n*
   On-going listening to and reviewing music.\n* Ensures consistent communication of
   Listen Up’s brand image both internally and in the industry."
-competencies-description: "* Acts with discretion, integrity and professionalism at
-  all times\n* Demonstrates effective communication skills both written and verbal\n*
-  Communicates openly, honestly and respectfully with everyone\n* Has a helpful and
-  can do attitude\n* Ensures all reports, data and written work are correct in detail
-  and without error \n* Ambitious for growth and new challenges and actively participates
-  in continual professional development\n* Keeps up to date with contemporary trends
-  and technology\n* Shows an interest to expand knowledge and understanding of what
-  we do as a business \n* Proactively takes on the challenge of unfamiliar tasks\n*
-  Team player who is seen to go out of their way to help/support others\n* Is consistently
-  positive even under pressure\n* Self starter with a hands on approach\n* Is widely
-  trusted and seen as direct and honest\n* Calm under pressure and bounces back from
-  set backs\n* Positive outlook, seen as committed and enthusiastic\n* Fully proficient
-  level of competency of all mainstream software packages that are relevant to role\n*
-  Shows initiative and adopts a proactive approach\n* Manages and prioritises workload
-  effectively \n* Successfully handles multiple tasks\n* Develops and maintains strong
-  relationship with colleagues, clients and external suppliers"
+competencies-description: |-
+  * Acts with discretion, integrity and professionalism at all times.
+  * Demonstrates effective communication skills both written and verbal.
+  * Communicates openly, honestly and respectfully with everyone.
+  * Has a helpful and can do attitude.
+  * Ensures all reports, data and written work are correct in detail and without error .
+  * Ambitious for growth and new challenges and actively participates in continual professional development.
+  * Keeps up to date with contemporary trends and technology.
+  * Shows an interest to expand knowledge and understanding of what we do as a business.
+  * Proactively takes on the challenge of unfamiliar tasks.
+  * Team player who is seen to go out of their way to help/support others.
+  * Is consistently positive even under pressure.
+  * Self starter with a hands on approach.
+  * Is widely trusted and seen as direct and honest.
+  * Calm under pressure and bounces back from set backs.
+  * Positive outlook, seen as committed and enthusiastic.
+  * Fully proficient level of competency of all mainstream software packages that are relevant to role.
+  * Shows initiative and adopts a proactive approach.
+  * Manages and prioritises workload effectively.
+  * Successfully handles multiple tasks.
+  * Develops and maintains strong relationship with colleagues, clients and external suppliers.
 apply-description: |-
   If you are interested in working with us, please apply by emailing a cover letter outlining how you reach our essential requirements along with a copy of your CV to recruitment@listen-up.biz. Please note applications without a cover letter will not be considered.
 
