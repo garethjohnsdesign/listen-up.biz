@@ -62,9 +62,9 @@ competencies-description: "* Acts with discretion, integrity and professionalism
   effectively \n* Successfully handles multiple tasks\n* Develops and maintains strong
   relationship with colleagues, clients and external suppliers"
 apply-description: |-
-  If you are interested in working with us, please apply by emailing a cover letter outlining how you reach our essential requirements along with a copy of your CV to recruitment@listen-up.biz.
+  If you are interested in working with us, please apply by emailing a cover letter outlining how you reach our essential requirements along with a copy of your CV to recruitment@listen-up.biz. Please note applications without a cover letter will not be considered.
 
-  Please note applications without a cover letter will not be considered.
+  Unfortunately due to the volume of applications we receive we may not be able to respond to all applications but thank you for your interest in working with us, please keep an eye out on our website for any future opportunities.
 ---
 
 We are currently recruiting for an energetic and enthusiastic Radio Intern to assist our well-established team across national radio campaigns. The paid internship will start in January on a 6 month contract with scope to potentially extend and develop further.
