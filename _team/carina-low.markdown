@@ -1,6 +1,6 @@
 ---
 title: Carina Low
-position: 5
+position: 6
 job-title: 'Senior Account Director: Festival & Event Press'
 is-featured: true
 email: carina.low@listen-up.biz

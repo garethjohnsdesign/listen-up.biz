@@ -1,6 +1,6 @@
 ---
 title: Dujon Fairweather
-position: 7
+position: 4
 job-title: Head of Press
 is-featured: true
 email: dujon.fairweather@listen-up.biz
