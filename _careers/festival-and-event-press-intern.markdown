@@ -29,12 +29,10 @@ expectations-description: |-
   We value and listen to our staff whilst maintaining a fun and collaborative environment, encourage new ideas and offer career progression. Our staff events are legendary and you will be joining our well established team where you will be given genuine care and support from your colleagues and Directors.
 
   Listen Up is an equal opportunities employer and welcomes applications from all suitably qualified persons regardless of their race, sex, disability, religion/belief, sexual orientation or age.
-apply-description: "If you would like to apply for this role, please send a copy of
-  your CV and cover letter to recruitment@listen-up.biz. \n\n**Please note that applications
-  without a cover letter will not be considered.**\n\nUnfortunately due to the volume
-  of applications we receive we may not be able to respond to all applications but
-  thank you for your interest in working with us, please keep an eye out on our website
-  for any future opportunities."
+apply-description: |-
+  If you would like to apply for this role, please send a copy of your CV and cover letter to recruitment@listen-up.biz. **Applications without a cover letter will not be considered.**
+
+  Unfortunately due to the volume of applications we receive we may not be able to respond to all applications but thank you for your interest in working with us, please keep an eye out on our website for any future opportunities.
 ---
 
 We are currently recruiting for an enthusiastic Festival & Event Press Intern to assist our well-established Events team. The paid internship will start in January 2020 on an initial 3 month full-time contract with scope to extend.
