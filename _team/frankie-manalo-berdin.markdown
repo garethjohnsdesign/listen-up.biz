@@ -1,7 +1,7 @@
 ---
 title: Frankie Manalo
 date: 2017-05-30 14:51:00 Z
-position: 19
+position: 18
 job-title: Press Manager
 ---
 
