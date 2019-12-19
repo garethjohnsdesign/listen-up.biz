@@ -1,7 +1,7 @@
 ---
 title: Marissa Cohnen
 date: 2018-09-19 11:05:00 Z
-position: 24
+position: 18
 job-title: Press Manager, North America
 ---
 
