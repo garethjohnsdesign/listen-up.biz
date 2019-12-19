@@ -1,6 +1,6 @@
 ---
 title: Tom Smart
-position: 18
+position: 20
 job-title: Streaming Promotions Manager
 is-featured: true
 email: tom.smart@listen-up.biz
