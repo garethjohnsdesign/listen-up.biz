@@ -1,7 +1,7 @@
 ---
 title: Kerry Harrison
 date: 2019-02-14 11:22:00 Z
-position: 24
+position: 19
 job-title: Press Manager, North America
 ---
 
