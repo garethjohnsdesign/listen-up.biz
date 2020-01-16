@@ -1,7 +1,7 @@
 ---
 title: Saydi Beard
 date: 2018-01-17 14:33:00 Z
-position: 25
+position: 23
 job-title: Festival & Event Press Manager
 ---
 
