@@ -5,4 +5,4 @@ position: 23
 job-title: Festival & Event Press Manager
 ---
 
-With a background in Events PR in Ibiza, as well as a few years spent travelling, Saydi moved to Listen Up to begin her career London. Since starting as an intern in January 2017, Saydi has since progressed to the role of Events Press Coordinator and has helped the Events Team across a number of clients such as; We Are FSTVL, NASS, Suncébeat & Shockout. 
+With a background in Events PR in Ibiza, as well as a few years spent travelling, Saydi moved to Listen Up to begin her career London. Since starting as an intern in January 2017, Saydi has since progressed to the role of Festival & Event Press Manager, and has helped the Events Team across a number of clients such as; We Are FSTVL, NASS, Suncébeat & Shockout. 
