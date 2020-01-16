@@ -1,7 +1,7 @@
 ---
 title: Matt Rimmington
 date: 2019-07-04 13:43:00 Z
-position: 29
+position: 27
 job-title: Streaming Promotions Assistant
 ---
 

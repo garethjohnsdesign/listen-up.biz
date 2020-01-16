@@ -1,6 +1,6 @@
 ---
 title: Katerina Koumourou
-position: 8
+position: 7
 job-title: Senior Press Manager
 is-featured: true
 email: katerina.koumourou@listen-up.biz
