@@ -1,7 +1,7 @@
 ---
 title: Amber Higgins
 date: 2019-10-09 09:42:00 Z
-position: 36
+position: 34
 job-title: Accounts Assistant
 ---
 
