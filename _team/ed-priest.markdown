@@ -1,6 +1,7 @@
 ---
 title: Ed Priest
 date: 2020-01-23 11:29:00 Z
+position: 15
 job-title: Press Manager
 ---
 

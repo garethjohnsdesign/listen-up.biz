@@ -1,7 +1,7 @@
 ---
 title: Louise Stone
 date: 2018-04-03 14:02:00 Z
-position: 8
+position: 7
 job-title: Senior Press Manager
 is-featured: true
 email: louise.stone@listen-up.biz
