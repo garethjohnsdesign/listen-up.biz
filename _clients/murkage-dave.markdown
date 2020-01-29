@@ -6,7 +6,7 @@ categories:
 tags:
 - artist
 image: "/uploads/murkagedave.jpg"
-is-daytime-radio-featured: true
+is-daytime-radio-featured: false
 website: http://www.murkage.net/
 ---
 

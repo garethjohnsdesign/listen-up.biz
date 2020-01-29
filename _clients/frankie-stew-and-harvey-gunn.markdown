@@ -5,6 +5,8 @@ categories:
 - daytime-radio
 tags:
 - artist
+image: "/uploads/frankieandharvey.jpeg"
+is-daytime-radio-featured: true
 instagram: https://www.instagram.com/fsandhg
 ---
 
