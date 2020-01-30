@@ -1,6 +1,7 @@
 ---
 title: Jordan Scudder
 date: 2020-01-30 11:29:00 Z
+position: 26
 job-title: National Radio Promotions Assistant
 ---
 
