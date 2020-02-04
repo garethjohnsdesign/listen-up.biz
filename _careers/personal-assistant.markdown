@@ -21,7 +21,8 @@ skills-description: "* 2+ years experience working within a high demand business
   all conferences \n* Team player and provides support to the team even if not within
   their remit\n* Adaptable to different working styles\n* Highly organized and works
   well under pressure \n* Understanding different pressures and adapting to meet those
-  needs "
+  needs \n\n**Desirable criteria:**\n* International working \n* Worked within the
+  industry\n* Interest in music "
 focus-description: "* Coordinates detailed travel arrangements and itineraries for
   all business and personal trips ensuring all permit/visa requirements are obtained
   ahead of travel\n* Research and manage personal policies such as insurances and
@@ -31,8 +32,6 @@ focus-description: "* Coordinates detailed travel arrangements and itineraries f
   point of contact for any Partner calls\n* Meet and greet clients \n* Scanning any
   filing any documentation referring to the Partner and passing to the relevant person/team\n*
   General office admin"
-competencies-description: "* International working \n* Worked within the industry\n*
-  Interest in music "
 expectations-description: "We value and listen to our staff whilst maintaining a fun
   collaborative environment, encourage new ideas and offer career progression. Our
   staff events are legendary, and you will be joining our well established team where
