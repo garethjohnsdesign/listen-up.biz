@@ -31,8 +31,12 @@ focus-description: "* Coordinates detailed travel arrangements and itineraries f
   point of contact for any Partner calls\n* Meet and greet clients \n* Scanning any
   filing any documentation referring to the Partner and passing to the relevant person/team\n*
   General office admin"
-expectations-description: "* International working \n* Worked within the industry\n*
-  Interest in music \n"
+competencies-description: "* International working \n* Worked within the industry\n*
+  Interest in music "
+expectations-description: "We value and listen to our staff whilst maintaining a fun
+  collaborative environment, encourage new ideas and offer career progression. Our
+  staff events are legendary, and you will be joining our well established team where
+  you will be given genuine care and support from your colleagues and Directors. \n"
 apply-description: "If you are looking for a new and exciting challenge, then we could
   be what you are looking for. Please email your cover letter and CV to recruitment@listen-up.biz.\n\nUnfortunately,
   due to the volume of applications we receive we may not be able to respond to all
