@@ -29,4 +29,4 @@ apply-description: "If you are looking for a new and exciting challenge, then we
   eye out on our website for any future opportunities. "
 ---
 
-We are currently recruiting for an extremely well organised and experienced Personal Assistant to work for the company Partner, James Mack. We are looking for an individual with 2+ years experience of working within a similar environment and who has a mixed skill set when it comes to tasks such as travel, calendar diarising and multi time zones. 
+We are currently recruiting for an extremely well organised and experienced Personal Assistant to work for the company Partner, James Mack, in our Los Angeles office. We are looking for an individual with 2+ years experience of working within a similar environment and who has a mixed skill set when it comes to tasks such as travel, calendar diarising and multi time zones. 
