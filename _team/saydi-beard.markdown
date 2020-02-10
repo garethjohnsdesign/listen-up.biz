@@ -1,8 +1,0 @@
----
-title: Saydi Beard
-date: 2018-01-17 14:33:00 Z
-position: 23
-job-title: Festival & Event Press Manager
----
-
-With a background in Events PR in Ibiza, as well as a few years spent travelling, Saydi moved to Listen Up to begin her career in London. Since starting as an intern in January 2017, Saydi has since progressed to the role of Festival & Events Press Manager and has helped the Events Team across a number of clients such as; SW4 Festival, AMP Lost & Festival & ANTS Ibiza.
