@@ -62,7 +62,7 @@ defaults:
     competencies-description: 
     expectations-description: 
     apply-description: 
-    layout: job 
+    layout: job
 url: https://www.listen-up.biz
 video: https://storage.googleapis.com/listen-up/video-rev2.mp4
 video-image: "/uploads/poster.jpg"
