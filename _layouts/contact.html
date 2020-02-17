@@ -48,6 +48,8 @@ layout: default
 
 <script>
 window.addEventListener('load', function() {
+
+{% for location in page.locations %}
     var london = new mapboxgl.Map({
         container: 'london',
         style: 'mapbox://styles/garethjohnsdesign/ck6qijlqv3kw91iofqnvoieyz',
@@ -63,6 +65,7 @@ window.addEventListener('load', function() {
         zoom: 10.36,
         scrollZoom: false
     });
+ {% endfor %}
 
     var geojson = {
       type: 'FeatureCollection',
