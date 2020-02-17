@@ -47,7 +47,8 @@ layout: default
 <!-- End Enquiries -->
 
 <script>
-var london = new mapboxgl.Map({
+window.addEventListener('load', function() {
+    var london = new mapboxgl.Map({
         container: 'london',
         style: 'mapbox://styles/garethjohnsdesign/ck6qijlqv3kw91iofqnvoieyz',
         center: [-0.138580, 51.541603],
@@ -66,6 +67,7 @@ var london = new mapboxgl.Map({
     var geojson = {
       type: 'FeatureCollection',
       features: [{
+        map: london,
         type: 'Feature',
         geometry: {
           type: 'Point',
@@ -77,6 +79,7 @@ var london = new mapboxgl.Map({
         }
       },
       {
+        map: losangeles,
         type: 'Feature',
         geometry: {
           type: 'Point',
@@ -99,7 +102,7 @@ var london = new mapboxgl.Map({
       // make a marker for each feature and add to the map
       new mapboxgl.Marker(el)
         .setLngLat(marker.geometry.coordinates)
-        .addTo(london);
+        .addTo(marker.map);
     });
 
     var londonNav = new mapboxgl.NavigationControl();
@@ -107,4 +110,5 @@ var london = new mapboxgl.Map({
     
     var losangelesNav = new mapboxgl.NavigationControl();
     losangeles.addControl(losangelesNav, 'top-left');
+});
 </script>
