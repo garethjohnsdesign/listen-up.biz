@@ -1,7 +1,6 @@
 ---
 title: Contact
 position: 3
-intro: Please find details to get in touch with the relevant team.
 enquiries:
 - title: New Business
   text: |-

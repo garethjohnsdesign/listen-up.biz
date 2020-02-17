@@ -45,6 +45,45 @@ $(function(){
         scrollZoom: false
     });
 
+    var geojson = {
+      type: 'FeatureCollection',
+      features: [{
+        type: 'Feature',
+        geometry: {
+          type: 'Point',
+          coordinates: [-0.138580, 51.541603]
+        },
+        properties: {
+          title: 'Mapbox',
+          description: 'Washington, D.C.'
+        }
+      },
+      {
+        type: 'Feature',
+        geometry: {
+          type: 'Point',
+          coordinates: [-0.138580, 51.541603]
+        },
+        properties: {
+          title: 'Mapbox',
+          description: 'San Francisco, California'
+        }
+      }]
+    };
+
+    // add markers to map
+    geojson.features.forEach(function(marker) {
+    
+      // create a HTML element for each feature
+      var el = document.createElement('div');
+      el.className = 'marker';
+    
+      // make a marker for each feature and add to the map
+      new mapboxgl.Marker(el)
+        .setLngLat(marker.geometry.coordinates)
+        .addTo(london);
+    });
+
     var londonNav = new mapboxgl.NavigationControl();
     london.addControl(londonNav, 'top-left');
     
