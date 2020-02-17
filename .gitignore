@@ -20,6 +20,9 @@ Gemfile.lock
 /yarn-error.log
 /npm-debug.log
 _site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
 
 # MISC FILES
 .cache
