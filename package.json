@@ -17,6 +17,7 @@
     "foundation-sites": "^6.5.1",
     "jquery": ">=3.0.0",
     "lightgallery": "^1.6.12",
+    "mapbox-gl": "^1.5.1",
     "motion-ui": "~2.0.0",
     "what-input": "^5.1.2"
   },
