@@ -14,9 +14,6 @@ collections:
   services:
     title: Services
     output: true
-  team:
-    title: Team
-    output: false
   uploads:
     title: Uploads
     output: false
@@ -65,15 +62,7 @@ defaults:
     competencies-description: 
     expectations-description: 
     apply-description: 
-    layout: job
-- scope:
-    path: ''
-    type: team
-  values:
-    image: 
-    job-title: 
-    is-featured: 
-    email: 
+    layout: job 
 url: https://www.listen-up.biz
 video: https://storage.googleapis.com/listen-up/video-rev2.mp4
 video-image: "/uploads/poster.jpg"
