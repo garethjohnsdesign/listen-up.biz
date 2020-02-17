@@ -25,12 +25,6 @@
 		"oAP": "/.gitignore",
 		"oF": 0
 		},
-	"/.jekyll-cache/Jekyll/Cache": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "/build/.jekyll-cache/Jekyll/Cache",
-		"oF": 0
-		},
 	"/.ruby-version": {
 		"cB": 0,
 		"ft": 8192,
@@ -5993,17 +5987,6 @@
 		"sC": 0,
 		"tS": 0
 		},
-	"/assets/js/map.js": {
-		"bF": 4,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/assets/js/min/map-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
 	"/assets/js/min/app-min.js": {
 		"bF": 0,
 		"ft": 64,
@@ -6011,28 +5994,6 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "/assets/js/min/min/app-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"/assets/js/min/links-min.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/assets/js/min/min/links-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"/assets/js/min/map-min.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/assets/js/min/min/map-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
