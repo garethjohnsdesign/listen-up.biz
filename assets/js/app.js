@@ -38,7 +38,7 @@ $(function(){
     });
     
     var losangeles = new mapboxgl.Map({
-        container: 'losangeles',
+        container: 'los-angeles',
         style: 'mapbox://styles/garethjohnsdesign/ck6qijlqv3kw91iofqnvoieyz',
         center: [-118.263695, 34.114348],
         zoom: 10.36,
@@ -62,7 +62,7 @@ $(function(){
         type: 'Feature',
         geometry: {
           type: 'Point',
-          coordinates: [-0.138580, 51.541603]
+          coordinates: [-118.263695, 34.114348]
         },
         properties: {
           title: 'Mapbox',

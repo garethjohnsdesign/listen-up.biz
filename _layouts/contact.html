@@ -2,51 +2,29 @@
 layout: default
 ---
 
-<!-- London Map -->
-<div class="grid-container padding-vertical-2">
+<!-- New Contacts -->
+<div class="grid-container padding-vertical-3">
+
+{% for location in page.locations %}
   <div class="grid-x grid-padding-x grid-padding-y">
+
     <div class="small-12 medium-7 cell">
-      <div id="london" style="width: 100%; height: 20rem" class="margin-bottom-1"></div>      
+      <div id="{{ location.title | slugify }}" style="width: 100%; height: 20rem" class="margin-bottom-1"></div>  
     </div>
     
     <div class="small-12 medium-4 cell">
-        <h3>London</h3>
-        <p>Unit 7, Ground Floor<br>
-        21 Bonny Street<br>
-        London<br>
-        NW1 9PE<br>
-        United Kingdom</p>
-      
-        <div><a href="https://goo.gl/maps/VQfTBakak3B2" class="underline">Directions</a></div>
-        <div><a href="tel:02035886200" class="underline">+44 (0)20 3588 6200</a></div>
-
-    </div>
-  </div>
-</div>
-<!-- End London Map -->
-
-<!-- Los Angeles Map -->
-<div class="grid-container g">
-<div class="grid-x grid-padding-x grid-padding-y">
-  <div class="small-12 medium-7 cell">
-    <div id="losangeles" style="width: 100%; height: 20rem" class="margin-bottom-1"></div>  
-  </div>
+        <div class="cell contact__enquiry">
+          <h3>{{ location.title }}</h4>
+          {{ location.address-text | markdownify }}
+          <div><a href="{{ location.directions }}" class="underline">Directions</a></div>
+          <div><a href="tel:{{ location.phone }}" class="underline">{{ location.phone }}</a></div>
+        </div>
+    </div> 
   
-  <div class="small-12 medium-4 cell">
-    <div class="contact__location__address">
-      <h3>Los Angeles</h3>
-      <p>2972 Glendale Blvd<br>
-        Los Angeles<br>
-        CA 90039<br>
-        United States of America</p>
-    </div>
-    
-    <div><a href="https://goo.gl/maps/3c3W3KEiEgscdbRa8" class="underline">Directions</a></div>
-
   </div>
+{% endfor %}
 </div>
-</div>
-<!-- End Los Angeles Map -->
+<!-- End New Contacts -->
 
 <!-- Enquiries -->
 <div class="grid-container padding-vertical-3">
@@ -67,3 +45,66 @@ layout: default
   </div>
 </div>
 <!-- End Enquiries -->
+
+<script>
+var london = new mapboxgl.Map({
+        container: 'london',
+        style: 'mapbox://styles/garethjohnsdesign/ck6qijlqv3kw91iofqnvoieyz',
+        center: [-0.138580, 51.541603],
+        zoom: 13.88,
+        scrollZoom: false
+    });
+    
+    var losangeles = new mapboxgl.Map({
+        container: 'los-angeles',
+        style: 'mapbox://styles/garethjohnsdesign/ck6qijlqv3kw91iofqnvoieyz',
+        center: [-118.263695, 34.114348],
+        zoom: 10.36,
+        scrollZoom: false
+    });
+
+    var geojson = {
+      type: 'FeatureCollection',
+      features: [{
+        type: 'Feature',
+        geometry: {
+          type: 'Point',
+          coordinates: [-0.138580, 51.541603]
+        },
+        properties: {
+          title: 'Mapbox',
+          description: 'Washington, D.C.'
+        }
+      },
+      {
+        type: 'Feature',
+        geometry: {
+          type: 'Point',
+          coordinates: [-118.263695, 34.114348]
+        },
+        properties: {
+          title: 'Mapbox',
+          description: 'San Francisco, California'
+        }
+      }]
+    };
+
+    // add markers to map
+    geojson.features.forEach(function(marker) {
+    
+      // create a HTML element for each feature
+      var el = document.createElement('div');
+      el.className = 'marker';
+    
+      // make a marker for each feature and add to the map
+      new mapboxgl.Marker(el)
+        .setLngLat(marker.geometry.coordinates)
+        .addTo(london);
+    });
+
+    var londonNav = new mapboxgl.NavigationControl();
+    london.addControl(londonNav, 'top-left');
+    
+    var losangelesNav = new mapboxgl.NavigationControl();
+    losangeles.addControl(losangelesNav, 'top-left');
+</script>
