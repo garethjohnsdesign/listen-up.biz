@@ -3,21 +3,14 @@ title: Contact
 position: 3
 locations:
 - title: London
-  address-text: |-
-    Unit 7, Ground Floor  
-    21 Bonny Street  
-    London  
-    NW1 9PE  
-    United Kingdom
+  address-text: "Unit 7, Ground Floor  \n21 Bonny Street  \nLondon  \nNW1 9PE  \nUnited
+    Kingdom"
   directions: https://goo.gl/maps/VQfTBakak3B2
   location: "-0.138580, 51.541603"
   phone: "+44 (0)20 3588 6200"
 - title: Los Angeles
-  address-text: |-
-    2972 Glendale Blvd  
-    Los Angeles  
-    CA 90039  
-    United States of America
+  address-text: "2972 Glendale Blvd  \nLos Angeles  \nCA 90039  \nUnited States of
+    America"
   directions: https://goo.gl/maps/3c3W3KEiEgscdbRa8
   location: "-118.263695, 34.114348"
   phone: 
