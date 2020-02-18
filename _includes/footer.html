@@ -22,26 +22,21 @@
     <div class="small-12 medium-shrink cell align-self-bottom">
       
         <div class="grid-x grid-padding-x grid-padding-y">
-  
+
+        {% assign subpage = site.pages | where: 'title', 'Contact' %}
         
-        <div class="small-12 medium-shrink cell">
-          <ul class="vertical menu text-center medium-text-left">
-            <li class="menu-text h5">London</a></li>
-            <li class="menu-text">Unit 7, Ground Floor</li>
-            <li class="menu-text">21 Bonny Street</li>
-            <li class="menu-text">London NW1 9PE</li>
-            <li><a href="tel:02035886200">+44 (0)20 3588 6200</a></li>
-          </ul>
-        </div>
+        {% for item in subpage %}
+          {% for location in item.locations %}
+                <div class="small-12 medium-shrink cell">
+                  <ul class="vertical menu text-center medium-text-left">
+                    <li class="menu-text h5">{{ location.title }}</a></li>
+                    <li class="menu-text">{{ location.address-text | markdownify }}</li>
+                    <li><a href="tel:{{ location.phone }}">{{ location.phone }}</a></li>
+                  </ul>
+                </div>
+          {% endfor %}
         
-         <div class="small-12 medium-shrink cell">
-          <ul class="vertical menu text-center medium-text-left">
-            <li class="menu-text h5">Los Angeles</a></li>
-            <li class="menu-text">2972 Glendale Blvd</li>
-            <li class="menu-text">Los Angeles</li>
-            <li class="menu-text">CA 90039</li>
-          </ul>
-        </div>
+        {% endfor %}
         
         </div>
         
