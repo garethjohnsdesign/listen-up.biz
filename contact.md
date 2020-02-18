@@ -9,10 +9,12 @@ locations:
   location: "-0.138580, 51.541603"
   phone: "+44 (0)20 3588 6200"
 - title: Los Angeles
-  address-text: "2972 Glendale Blvd  \nLos Angeles  \nCA 90039  \nUnited States of
-    America"
-  directions: https://goo.gl/maps/3c3W3KEiEgscdbRa8
-  location: "-118.263695, 34.114348"
+  address-text: |-
+    1370 N St Andrew’s Place
+    Los Angeles
+    CA 90028
+  directions: https://goo.gl/maps/Ds9CdKTCyKeww9147
+  location: "-118.310557, 34.096700"
   phone: 
 enquiries:
 - title: New Business
