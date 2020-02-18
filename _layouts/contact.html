@@ -2,54 +2,31 @@
 layout: default
 ---
 
-<!-- London Map -->
-<div class="grid-container padding-vertical-2">
-  <div class="grid-x grid-padding-x grid-padding-y">
-    <div class="small-12 medium-7 cell">
-      <div id="london" style="width: 100%; height: 20rem" class="margin-bottom-1"></div>      
-    </div>
-    
-    <div class="small-12 medium-4 cell">
-        <h3>London</h3>
-        <p>Unit 7, Ground Floor<br>
-        21 Bonny Street<br>
-        London<br>
-        NW1 9PE<br>
-        United Kingdom</p>
-      
-        <div><a href="https://goo.gl/maps/VQfTBakak3B2" class="underline">Directions</a></div>
-        <div><a href="tel:02035886200" class="underline">+44 (0)20 3588 6200</a></div>
-
-    </div>
-  </div>
-</div>
-<!-- End London Map -->
-
-<!-- Los Angeles Map -->
-<div class="grid-container g">
-<div class="grid-x grid-padding-x grid-padding-y">
-  <div class="small-12 medium-7 cell">
-    <div id="losangeles" style="width: 100%; height: 20rem" class="margin-bottom-1"></div>  
-  </div>
+<!-- New Contacts -->
+<div class="grid-container">
+  {% for location in page.locations %}
+    <div class="grid-x grid-padding-x grid-padding-y">
   
-  <div class="small-12 medium-4 cell">
-    <div class="contact__location__address">
-      <h3>Los Angeles</h3>
-      <p>2972 Glendale Blvd<br>
-        Los Angeles<br>
-        CA 90039<br>
-        United States of America</p>
-    </div>
+      <div class="small-12 medium-7 cell">
+        <div id="{{ location.title | slugify: "pretty" | remove: "-" }}" style="width: 100%; height: 20rem" class="margin-bottom-1"></div>  
+      </div>
+      
+      <div class="small-12 medium-4 cell">
+          <div class="cell contact__enquiry">
+            <h3>{{ location.title }}</h4>
+            {{ location.address-text | markdownify }}
+            <div><a href="{{ location.directions }}" class="underline">Directions</a></div>
+            <div><a href="tel:{{ location.phone }}" class="underline">{{ location.phone }}</a></div>
+          </div>
+      </div> 
     
-    <div><a href="https://goo.gl/maps/3c3W3KEiEgscdbRa8" class="underline">Directions</a></div>
-
-  </div>
+    </div>
+  {% endfor %}
 </div>
-</div>
-<!-- End Los Angeles Map -->
+<!-- End New Contacts -->
 
 <!-- Enquiries -->
-<div class="grid-container padding-vertical-3">
+<div class="grid-container padding-vertical-2">
   <div class="grid-x grid-padding-x grid-padding-y">
     
     <div class="small-12 medium-12 cell">
@@ -68,54 +45,49 @@ layout: default
 </div>
 <!-- End Enquiries -->
 
+
 <script>
-mapboxgl.accessToken = 'pk.eyJ1IjoiZ2FyZXRoam9obnNkZXNpZ24iLCJhIjoibWRoWDZWUSJ9.n1A58EO10IDrB5yIAKqAPA';
+{% for location in page.locations %}
+window.addEventListener('load', function() {
+    var {{ location.title | slugify: "pretty" | remove: "-" }} = new mapboxgl.Map({
+        container: '{{ location.title | slugify: "pretty" | remove: "-" }}',
+        style: 'mapbox://styles/garethjohnsdesign/ck6qijlqv3kw91iofqnvoieyz',
+        center: [{{ location.location }}],
+        zoom: 13.88,
+        scrollZoom: false
+    });
 
-var map = new mapboxgl.Map({
-container: 'losangeles', // container id
-style: 'mapbox://styles/garethjohnsdesign/cjwujg6hf0myx1cqyw4mfpv3h', //hosted style id
-center: [-0.004, 51.482],
-zoom: 14,
-scrollZoom: false,
-pitch: 60, // pitch in degrees
-bearing: -60, // bearing in degrees
+    var geojson = {
+      type: 'FeatureCollection',
+      features: [{
+        map: {{ location.title | slugify: "pretty" | remove: "-" }},
+        type: 'Feature',
+        geometry: {
+          type: 'Point',
+          coordinates: [{{ location.location }}]
+        },
+        properties: {
+          title: 'Mapbox',
+          description: 'Washington, D.C.'
+        }
+      }]
+    };
+
+    // add markers to map
+    geojson.features.forEach(function(marker) {
+    
+      // create a HTML element for each feature
+      var el = document.createElement('div');
+      el.className = 'marker';
+    
+      // make a marker for each feature and add to the map
+      new mapboxgl.Marker(el)
+        .setLngLat(marker.geometry.coordinates)
+        .addTo(marker.map);
+    });
+
+    var {{ location.title | slugify: "pretty" | remove: "-" }}Nav = new mapboxgl.NavigationControl();
+    {{ location.title | slugify: "pretty" | remove: "-" }}.addControl({{ location.title | slugify: "pretty" | remove: "-" }}Nav, 'top-left');
 });
-
-map.addControl(new mapboxgl.NavigationControl());
-
-map.on("load", function () {
-    /* Image: An image is loaded and added to the map. */
-    map.loadImage("https://i.imgur.com/MK4NUzI.png", function(error, image) {
-    if (error) throw error;
-    map.addImage("custom-marker", image);
-    /* Style layer: A style layer ties together the source and image and specifies how they are displayed on the map. */
-    map.addLayer({
-    id: "markers",
-    type: "symbol",
-    /* Source: A data source specifies the geographic coordinate where the image marker gets placed. */
-    source: {
-    type: "geojson",
-    data: {
-    type: 'FeatureCollection',
-    features: [
-    {
-    type: 'Feature',
-    properties: {},
-    geometry: {
-    type: "Point",
-    coordinates: [-0.004, 51.482]
-    }
-    }
-    ]
-    }
-    },
-    layout: {
-      'icon-image': 'location',
-      'icon-offset': [0, -40],
-      'icon-allow-overlap': true,
-    }
-    });
-    });
-    });
-
+{% endfor %}
 </script>

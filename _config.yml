@@ -64,7 +64,7 @@ defaults:
     apply-description: 
     layout: job
 url: https://www.listen-up.biz
-video: https://storage.googleapis.com/listen-up/video-rev2.mp4
+video: https://player.vimeo.com/external/391968510.hd.mp4?s=f92c5067f20c0e3c49a21a26d0459f2eaea66c39&profile_id=174
 video-image: "/uploads/poster.jpg"
 description: Listen Up provides a bespoke 360 promotional service offering radio,
   club, streaming promotion and press campaigns globally
