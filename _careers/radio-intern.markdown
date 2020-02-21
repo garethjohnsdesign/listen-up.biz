@@ -1,8 +1,17 @@
 ---
 title: Radio Intern
 date: 2020-02-21 15:00:00 Z
-about-description: 'We are currently recruiting for an energetic and enthusiastic
-  Intern to assist our well-established Specialist Radio and Club Promotions team. '
+about-description: Established in 2009 Listen Up offer a tailored range of bespoke
+  radio, club, streaming, online and print promotion campaigns globally through our
+  LA and London offices. In 2014 after recognising a gap in the market we moved our
+  services state side and opened an additional arm of the business in LA. Specialising
+  in electronic music and events, we place our clients directly in the spotlight with
+  the experience and knowhow to oversee thoughtful, effective and engaging campaigns.
+  With a client roster boasting the likes of Kolsch, Tiga, Icarus, Jamie Jones, Guy
+  Gerber, Purple Disco Machine, Claude Von Stroke and beyond, Listen Up are now recognised
+  as one of the market leaders in the world of music promotion services. We have grown
+  massively over the last 10 years with offices in both the UK and US, and 3 companies
+  working under our Listen Up umbrella.
 job-description: |-
   Some of your key tasks will include:
 
@@ -31,4 +40,4 @@ apply-description: "If you are interested in working with us, please apply by em
   opportunities. "
 ---
 
-Established in 2009 Listen Up offer a tailored range of bespoke radio, club, streaming, online and print promotion campaigns globally through our LA and London offices. In 2014 after recognising a gap in the market we moved our services state side and opened an additional arm of the business in LA. Specialising in electronic music and events, we place our clients directly in the spotlight with the experience and knowhow to oversee thoughtful, effective and engaging campaigns. With a client roster boasting the likes of Kolsch, Tiga, Icarus, Jamie Jones, Guy Gerber, Purple Disco Machine, Claude Von Stroke and beyond, Listen Up are now recognised as one of the market leaders in the world of music promotion services. We have grown massively over the last 10 years with offices in both the UK and US, and 3 companies working under our Listen Up umbrella.
+We are currently recruiting for an energetic and enthusiastic Intern to assist our well-established Specialist Radio and Club Promotions team. 
