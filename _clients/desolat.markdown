@@ -2,6 +2,7 @@
 title: Desolat
 categories:
 - streaming-promotion
+- specialist-radio-and-club
 tags:
 - label
 position: 11

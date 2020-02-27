@@ -3,6 +3,7 @@ title: Ministry of Sound
 categories:
 - daytime-radio
 - streaming-promotion
+- specialist-radio-and-club
 tags:
 - label
 position: 71
