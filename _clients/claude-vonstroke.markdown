@@ -5,8 +5,8 @@ categories:
 - specialist-radio-and-club
 tags:
 - artist
-image: "/uploads/claude.jpg"
-is-specialist-radio-and-club-featured: true
+image: "/uploads/claude-377324.jpg"
+is-specialist-radio-and-club-featured: false
 facebook: https://www.facebook.com/Claude.VonStroke/
 ---
 
