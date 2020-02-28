@@ -6,6 +6,8 @@ categories:
 - specialist-radio-and-club
 tags:
 - artist
+image: "/uploads/skream.jpg"
+is-specialist-radio-and-club-featured: true
 facebook: https://www.facebook.com/skream/
 ---
 
