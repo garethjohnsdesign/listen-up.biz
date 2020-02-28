@@ -7,9 +7,9 @@ tags:
 - artist
 position: 209
 image: "/uploads/elifur.jpg"
-is-client-featured: false
 is-home-featured: false
-is-specialist-radio-and-club-featured: true
+is-specialist-radio-and-club-featured: false
+is-client-featured: false
 facebook: https://www.facebook.com/eliandfur
 ---
 
