@@ -7,7 +7,7 @@ categories:
 tags:
 - artist
 image: "/uploads/moscoman.jpg"
-is-specialist-radio-and-club-featured: false
+is-specialist-radio-and-club-featured: true
 facebook: https://www.facebook.com/moscoman/
 ---
 
