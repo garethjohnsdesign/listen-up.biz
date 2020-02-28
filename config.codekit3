@@ -47,12 +47,12 @@
 		"oAP": "/_careers/accounts-assistant.markdown",
 		"oF": 0
 		},
-	"/_careers/personal-assistant.markdown": {
+	"/_careers/radio-intern.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_careers/personal-assistant.markdown",
+		"oAP": "/_careers/radio-intern.markdown",
 		"oF": 0
 		},
 	"/_clients/$uicideboy$.markdown": {
@@ -255,6 +255,14 @@
 		"oAP": "/_clients/apres.markdown",
 		"oF": 0
 		},
+	"/_clients/area-10.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_clients/area-10.markdown",
+		"oF": 0
+		},
 	"/_clients/arno-cost-and-norman-doray.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -405,6 +413,14 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_clients/billy-kenny.markdown",
+		"oF": 0
+		},
+	"/_clients/black-book.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_clients/black-book.markdown",
 		"oF": 0
 		},
 	"/_clients/black-butter.markdown": {
@@ -607,14 +623,6 @@
 		"oAP": "/_clients/chuck-roberts.markdown",
 		"oF": 0
 		},
-	"/_clients/cirez-d.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_clients/cirez-d.markdown",
-		"oF": 0
-		},
 	"/_clients/claptone.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -645,14 +653,6 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_clients/couros.markdown",
-		"oF": 0
-		},
-	"/_clients/cozzy-d.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_clients/cozzy-d.markdown",
 		"oF": 0
 		},
 	"/_clients/cult-dot-ure.markdown": {
@@ -781,6 +781,14 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_clients/disciples.markdown",
+		"oF": 0
+		},
+	"/_clients/disco-halal.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_clients/disco-halal.markdown",
 		"oF": 0
 		},
 	"/_clients/diversion.markdown": {
@@ -967,6 +975,14 @@
 		"oAP": "/_clients/etta-bond.markdown",
 		"oF": 0
 		},
+	"/_clients/exploited.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_clients/exploited.markdown",
+		"oF": 0
+		},
 	"/_clients/fat-nick.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -1053,6 +1069,14 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_clients/fly-open-air-festival.markdown",
+		"oF": 0
+		},
+	"/_clients/food-music.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_clients/food-music.markdown",
 		"oF": 0
 		},
 	"/_clients/fox-stevenson.markdown": {
@@ -1263,12 +1287,12 @@
 		"oAP": "/_clients/hospitality-on-the-beach.markdown",
 		"oF": 0
 		},
-	"/_clients/hysteria.markdown": {
+	"/_clients/hot-since-82.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_clients/hysteria.markdown",
+		"oAP": "/_clients/hot-since-82.markdown",
 		"oF": 0
 		},
 	"/_clients/i-o.markdown": {
@@ -1333,6 +1357,14 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_clients/insanity.markdown",
+		"oF": 0
+		},
+	"/_clients/insomniac.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_clients/insomniac.markdown",
 		"oF": 0
 		},
 	"/_clients/ipso.markdown": {
@@ -1573,6 +1605,14 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_clients/klingande.markdown",
+		"oF": 0
+		},
+	"/_clients/knee-deep-in-sound.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_clients/knee-deep-in-sound.markdown",
 		"oF": 0
 		},
 	"/_clients/knife-party.markdown": {
@@ -1903,6 +1943,14 @@
 		"oAP": "/_clients/meduza.markdown",
 		"oF": 0
 		},
+	"/_clients/mella-dee.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_clients/mella-dee.markdown",
+		"oF": 0
+		},
 	"/_clients/mercer.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -1933,14 +1981,6 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_clients/michael-calfan.markdown",
-		"oF": 0
-		},
-	"/_clients/midnight-rituals.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_clients/midnight-rituals.markdown",
 		"oF": 0
 		},
 	"/_clients/miguel-campbell.markdown": {
@@ -2135,14 +2175,6 @@
 		"oAP": "/_clients/nvdes.markdown",
 		"oF": 0
 		},
-	"/_clients/nyx.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_clients/nyx.markdown",
-		"oF": 0
-		},
 	"/_clients/ocean-beach-ibiza.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -2181,14 +2213,6 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_clients/ookay.markdown",
-		"oF": 0
-		},
-	"/_clients/openers.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_clients/openers.markdown",
 		"oF": 0
 		},
 	"/_clients/option4.markdown": {
@@ -2495,6 +2519,14 @@
 		"oAP": "/_clients/relentless.markdown",
 		"oF": 0
 		},
+	"/_clients/renaissance.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_clients/renaissance.markdown",
+		"oF": 0
+		},
 	"/_clients/rene-lavice.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -2535,14 +2567,6 @@
 		"oAP": "/_clients/riva-starr.markdown",
 		"oF": 0
 		},
-	"/_clients/robert-dietz.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_clients/robert-dietz.markdown",
-		"oF": 0
-		},
 	"/_clients/robin-schulz.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -2581,14 +2605,6 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_clients/rumours.markdown",
-		"oF": 0
-		},
-	"/_clients/rythm-masters.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_clients/rythm-masters.markdown",
 		"oF": 0
 		},
 	"/_clients/sachai.markdown": {
@@ -2733,14 +2749,6 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_clients/sidepiece.markdown",
-		"oF": 0
-		},
-	"/_clients/siege.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_clients/siege.markdown",
 		"oF": 0
 		},
 	"/_clients/sigala.markdown": {
@@ -2901,14 +2909,6 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_clients/strawberries-and-cream-festival.markdown",
-		"oF": 0
-		},
-	"/_clients/strictly-rhythm.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_clients/strictly-rhythm.markdown",
 		"oF": 0
 		},
 	"/_clients/sub-focus.markdown": {
@@ -3183,14 +3183,6 @@
 		"oAP": "/_clients/tough-love.markdown",
 		"oF": 0
 		},
-	"/_clients/truth-be-told.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_clients/truth-be-told.markdown",
-		"oF": 0
-		},
 	"/_clients/tube-and-berger.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -3207,6 +3199,14 @@
 		"oAP": "/_clients/twilliams.markdown",
 		"oF": 0
 		},
+	"/_clients/ukf.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_clients/ukf.markdown",
+		"oF": 0
+		},
 	"/_clients/ultra-music.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -3221,14 +3221,6 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_clients/ultra-records.markdown",
-		"oF": 0
-		},
-	"/_clients/underground-audio.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_clients/underground-audio.markdown",
 		"oF": 0
 		},
 	"/_clients/universal.markdown": {
@@ -4032,6 +4024,28 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/circoloco.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/claude-377324.jpg": {
+		"ft": 16384,
+		"iS": 115052,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/claude-377324.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/claude.jpg": {
+		"ft": 16384,
+		"iS": 115052,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/claude.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -4931,6 +4945,28 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/mood.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/moscoman-rev.jpg": {
+		"ft": 16384,
+		"iS": 97061,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/moscoman-rev.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/moscoman.jpg": {
+		"ft": 16384,
+		"iS": 97061,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/moscoman.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6681,17 +6717,6 @@
 		"mi": 1,
 		"oA": 1,
 		"oAP": "/node_modules/jquery/dist/min/jquery-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"/node_modules/mapbox-gl/dist/mapbox-gl.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "/node_modules/mapbox-gl/dist/min/mapbox-gl-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
