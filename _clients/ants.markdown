@@ -5,5 +5,7 @@ categories:
 tags:
 - venue
 position: 190
+image: "/uploads/Ants.jpg"
+is-events-press-featured: true
 ---
 
