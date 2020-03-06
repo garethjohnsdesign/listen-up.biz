@@ -7,7 +7,7 @@ tags:
 position: 4
 image: "/uploads/O%20BEACH%20IBIZA%20Gradient.png"
 is-home-featured: false
-is-events-press-featured: true
+is-events-press-featured: false
 is-client-featured: true
 website: https://www.obeachibiza.com/
 ---
