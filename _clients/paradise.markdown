@@ -6,10 +6,10 @@ tags:
 - venue
 position: 256
 image: "/uploads/paradise.jpg"
-is-client-featured: true
 is-home-featured: false
-is-events-press-featured: true
-is-digital-featured: false
+is-events-press-featured: false
+is-client-featured: true
 facebook: https://www.facebook.com/ParadiseInParadise/
+is-digital-featured: false
 ---
 
