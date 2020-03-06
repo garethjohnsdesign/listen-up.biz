@@ -6,6 +6,7 @@ categories:
 tags:
 - venue
 image: "/uploads/SohoGarden.jpg"
+is-events-press-featured: true
 website: https://sohogardendxb.com/
 ---
 
