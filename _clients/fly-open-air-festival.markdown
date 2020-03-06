@@ -6,7 +6,7 @@ categories:
 tags:
 - festival
 image: "/uploads/FLY%20Open%20Air%20HH.jpg"
-is-events-press-featured: true
+is-events-press-featured: false
 facebook: https://www.facebook.com/FLYOPENAIRFESTIVAL/
 ---
 
