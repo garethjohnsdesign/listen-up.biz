@@ -6,6 +6,7 @@ categories:
 tags:
 - festival
 image: "/uploads/Snowboxx.jpg"
+is-events-press-featured: true
 website: https://www.snowboxx.com/
 ---
 
