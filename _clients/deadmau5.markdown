@@ -6,9 +6,9 @@ tags:
 - artist
 position: 201
 image: "/uploads/deadmau5.jpg"
-is-client-featured: true
-is-home-featured: true
+is-home-featured: false
 is-artist-and-label-press-featured: true
+is-client-featured: true
 website: http://live.deadmau5.com
 facebook: https://www.facebook.com/deadmau5
 twitter: https://twitter.com/deadmau5
