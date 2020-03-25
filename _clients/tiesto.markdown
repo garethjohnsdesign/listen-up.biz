@@ -6,7 +6,7 @@ categories:
 tags:
 - artist
 image: "/uploads/tiesto-d730f7.jpg"
-is-home-featured: false
+is-home-featured: true
 is-artist-and-label-press-featured: false
 is-daytime-radio-featured: false
 is-client-featured: false
