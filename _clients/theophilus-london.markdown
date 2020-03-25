@@ -7,7 +7,7 @@ categories:
 tags:
 - artist
 image: "/uploads/Theophilus-London.jpeg"
-is-home-featured: true
+is-home-featured: false
 is-artist-and-label-press-featured: true
 is-daytime-radio-featured: false
 is-client-featured: true
