@@ -5,6 +5,8 @@ categories:
 - artist-and-label-press
 tags:
 - artist
+image: "/uploads/akon.jpeg"
+is-home-featured: true
 website: https://www.akon.com/
 ---
 
