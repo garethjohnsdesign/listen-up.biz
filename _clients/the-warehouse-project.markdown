@@ -6,7 +6,7 @@ categories:
 tags:
 - venue
 image: "/uploads/WarehouseProject.jpg"
-is-home-featured: true
+is-home-featured: false
 is-daytime-radio-featured: false
 website: https://www.thewarehouseproject.com/
 ---
