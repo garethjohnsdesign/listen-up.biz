@@ -8,9 +8,9 @@ tags:
 - artist
 image: "/uploads/Theophilus-London.jpeg"
 is-home-featured: false
-is-artist-and-label-press-featured: true
+is-artist-and-label-press-featured: false
 is-daytime-radio-featured: false
-is-client-featured: true
+is-client-featured: false
 twitter: https://twitter.com/theophilusl
 spotify: https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE?autoplay=true&v=A
 ---
