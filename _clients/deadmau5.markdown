@@ -7,8 +7,8 @@ tags:
 position: 201
 image: "/uploads/deadmau5.jpg"
 is-home-featured: false
-is-artist-and-label-press-featured: true
-is-client-featured: true
+is-artist-and-label-press-featured: false
+is-client-featured: false
 website: http://live.deadmau5.com
 facebook: https://www.facebook.com/deadmau5
 twitter: https://twitter.com/deadmau5
