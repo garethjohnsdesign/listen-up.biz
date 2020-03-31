@@ -7,6 +7,8 @@ tags:
 - artist
 image: "/uploads/akon.jpeg"
 is-home-featured: true
+is-artist-and-label-press-featured: true
+is-client-featured: true
 website: https://www.akon.com/
 ---
 
