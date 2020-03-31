@@ -8,6 +8,7 @@ tags:
 image: "/uploads/BeckyHill.jpeg"
 is-home-featured: true
 is-daytime-radio-featured: true
+is-client-featured: true
 website: https://www.beckyhillofficial.com/
 ---
 
