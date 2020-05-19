@@ -1,7 +1,7 @@
 ---
 title: Press Manager LA
 date: 2020-05-19 08:02:00 Z
-about-description: "\nA BIT ABOUT US: \nEstablished in 2009 Listen Up offer a tailored
+about-description: "\nA BIT ABOUT US: \n\nEstablished in 2009 Listen Up offer a tailored
   range of bespoke radio, club, streaming, online and print promotion campaigns globally
   through our LA and London offices. In 2014 after recognizing a gap in the market
   we moved our services state side and opened an additional arm of the business in
@@ -17,7 +17,7 @@ job-description: "WHERE YOU STEP IN: \nWe are currently recruiting for an experi
   working within a similar environment with a keen interest in electronic music. If
   you are looking for a hands on role that gives you the opportunity to be involved
   in all aspects of music PR, we could be what you are looking for.\n"
-skills-description: "ESSENTIAL CRITERIA:\n• 1-2 years' experience within a similar
+skills-description: "ESSENTIAL CRITERIA:\n\n• 1-2 years' experience within a similar
   environment \n\n• A proven track record of working within a similar industry\n\n•
   Up to date knowledge of Electronic music and trends\n\n• Strong existing relationships
   with music journalists and contacts\n\n• Can hit the ground running with the roster
@@ -29,16 +29,17 @@ skills-description: "ESSENTIAL CRITERIA:\n• 1-2 years' experience within a sim
   a fast paced environment, dealing with Directors & colleagues both in the US and
   UK\n\n• Adaptable to different methods of working\n\n• A real team player - lending
   a hand to ensure deadlines are met"
-focus-description: "KEY FOCUS AREAS OF THE ROLE:\n• Develop campaign strategies for
-  client releases\n• Develop strong media relationships with journalists in the industry
-  \n• Effectively manage relationships with key print and online journalists\n• Build
-  relationships with clients \n• Attend regular planning meets with record labels
-  \n• Attend regular both new and existing client meets\n• Complete post campaign
-  analysis and results review including key findings and recommendations for future
-  change \n• Develop strong relationships and rapport with artists and management
-  teams"
+focus-description: "KEY FOCUS AREAS OF THE ROLE:\n\n• Develop campaign strategies
+  for client releases\n\n• Develop strong media relationships with journalists in
+  the industry \n\n• Effectively manage relationships with key print and online journalists\n\n•
+  Build relationships with clients \n\n• Attend regular planning meets with record
+  labels\n \n• Attend regular both new and existing client meets\n\n• Complete post
+  campaign analysis and results review including key findings and recommendations
+  for future change \n\n• Develop strong relationships and rapport with artists and
+  management teams"
 expectations-description: |-
   WHAT TO EXPECT FROM US:
+
   We have an open and honest culture within our business, value and listen to our staff whilst maintaining a fun working environment, encourage new ideas and offer career progression. Our staff events are legendary and you will be joining our well established team where you will be given genuine care and support from your colleagues and Directors.
   Benefits - we offer 15 days PTO, free parking and health contribution after 90 days' continuous service.
 apply-description: |-
