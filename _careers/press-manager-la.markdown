@@ -18,17 +18,17 @@ job-description: "WHERE YOU STEP IN: \nWe are currently recruiting for an experi
   you are looking for a hands on role that gives you the opportunity to be involved
   in all aspects of music PR, we could be what you are looking for.\n"
 skills-description: "ESSENTIAL CRITERIA:\n• 1-2 years' experience within a similar
-  environment \n• A proven track record of working within a similar industry\n• Up
-  to date knowledge of Electronic music and trends\n• Strong existing relationships
-  with music journalists and contacts\n• Can hit the ground running with the roster
-  given\n• A well-organized individual with the ability to prioritize workload and
-  juggle a variety of different tasks\n• Keen interest in rising through the ranks
-  within the company\n• Proven well written press releases\n• Confidence in pitching
-  for new business \n• Exceptional Management skills\n• Positive attitude and brings
-  solutions to problems\n• Must be able to work well under pressure within a fast
-  paced environment, dealing with Directors & colleagues both in the US and UK\n•
-  Adaptable to different methods of working\n• A real team player - lending a hand
-  to ensure deadlines are met"
+  environment \n\n• A proven track record of working within a similar industry\n\n•
+  Up to date knowledge of Electronic music and trends\n\n• Strong existing relationships
+  with music journalists and contacts\n\n• Can hit the ground running with the roster
+  given\n\n• A well-organized individual with the ability to prioritize workload and
+  juggle a variety of different tasks\n\n• Keen interest in rising through the ranks
+  within the company\n\n• Proven well written press releases\n\n• Confidence in pitching
+  for new business \n\n• Exceptional Management skills\n\n• Positive attitude and
+  brings solutions to problems\n\n• Must be able to work well under pressure within
+  a fast paced environment, dealing with Directors & colleagues both in the US and
+  UK\n\n• Adaptable to different methods of working\n\n• A real team player - lending
+  a hand to ensure deadlines are met"
 focus-description: "KEY FOCUS AREAS OF THE ROLE:\n• Develop campaign strategies for
   client releases\n• Develop strong media relationships with journalists in the industry
   \n• Effectively manage relationships with key print and online journalists\n• Build
