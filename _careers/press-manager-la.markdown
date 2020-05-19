@@ -54,4 +54,6 @@ We are looking for an experienced Press Manager to join our amazing team in Los 
 
 Hours: 9.00am - 5.00pm (Monday - Friday)
 
+PTO: 15 days plus public holidays 
+
 Start date: Immediate start date 
