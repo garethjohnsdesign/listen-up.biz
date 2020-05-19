@@ -12,7 +12,7 @@ about-description: "\nA BIT ABOUT US: \n\nEstablished in 2009 Listen Up offer a 
   market leaders in the world of music promotion services. We have grown massively
   over the last 10 years with offices in both the UK and US, and 3 companies working
   under our Listen Up umbrella."
-job-description: "WHERE YOU STEP IN: \nWe are currently recruiting for an experienced,
+job-description: "WHERE YOU STEP IN:\n \nWe are currently recruiting for an experienced,
   well organized individual to join the Press team. You must have 1-2 years' experience
   working within a similar environment with a keen interest in electronic music. If
   you are looking for a hands on role that gives you the opportunity to be involved
