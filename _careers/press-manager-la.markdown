@@ -49,8 +49,8 @@ apply-description: |-
   Listen Up is an equal opportunities employer and welcomes applications from all suitably qualified persons regardless of their race, sex, disability, religion/belief, sexual orientation or age.
 ---
 
-Title: Press Manager (US) 
-Annual Leave: 15 days PTO 
+We are looking for an experienced Press Manager to join our amazing team in Los Angeles.
+
 Hours: 9.00am - 5.00pm (Monday - Friday)
-Location: Los Angeles, California
+
 Start date: Immediate start date 
