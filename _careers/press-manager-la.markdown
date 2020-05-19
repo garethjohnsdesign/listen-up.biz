@@ -13,11 +13,10 @@ about-description: "\nA BIT ABOUT US: \nEstablished in 2009 Listen Up offer a ta
   over the last 10 years with offices in both the UK and US, and 3 companies working
   under our Listen Up umbrella."
 job-description: "WHERE YOU STEP IN: \nWe are currently recruiting for an experienced,
-  well organized individual to join the Press team. You will be based in our fantastic
-  Sunset Blvd offices with the added bonus of free parking! You must have 1-2 years'
-  experience working within a similar environment with a keen interest in electronic
-  music. If you are looking for a hands on role that gives you the opportunity to
-  be involved in all aspects of music PR, we could be what you are looking for.\n"
+  well organized individual to join the Press team. You must have 1-2 years' experience
+  working within a similar environment with a keen interest in electronic music. If
+  you are looking for a hands on role that gives you the opportunity to be involved
+  in all aspects of music PR, we could be what you are looking for.\n"
 skills-description: "ESSENTIAL CRITERIA:\n• 1-2 years' experience within a similar
   environment \n• A proven track record of working within a similar industry\n• Up
   to date knowledge of Electronic music and trends\n• Strong existing relationships
@@ -38,12 +37,15 @@ focus-description: "KEY FOCUS AREAS OF THE ROLE:\n• Develop campaign strategie
   analysis and results review including key findings and recommendations for future
   change \n• Develop strong relationships and rapport with artists and management
   teams"
-competencies-description: |-
+expectations-description: |-
   WHAT TO EXPECT FROM US:
   We have an open and honest culture within our business, value and listen to our staff whilst maintaining a fun working environment, encourage new ideas and offer career progression. Our staff events are legendary and you will be joining our well established team where you will be given genuine care and support from your colleagues and Directors.
   Benefits - we offer 15 days PTO, free parking and health contribution after 90 days' continuous service.
 apply-description: |-
+  Please email a copy of you resume and cover letter to recruitment@listen-up biz.
+
   Unfortunately due to the volume of applications we receive we may not be able to respond to all applications but thank you for your interest in working with us, please keep an eye out on our website for any future opportunities.
+
   Listen Up is an equal opportunities employer and welcomes applications from all suitably qualified persons regardless of their race, sex, disability, religion/belief, sexual orientation or age.
 ---
 
