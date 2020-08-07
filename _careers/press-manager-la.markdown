@@ -1,6 +1,7 @@
 ---
 title: Press Manager LA
 date: 2020-05-19 08:02:00 Z
+published: false
 about-description: "\nA BIT ABOUT US: \n\nEstablished in 2009 Listen Up offer a tailored
   range of bespoke radio, club, streaming, online and print promotion campaigns globally
   through our LA and London offices. In 2014 after recognizing a gap in the market
