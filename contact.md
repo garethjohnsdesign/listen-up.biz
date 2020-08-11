@@ -19,7 +19,7 @@ enquiries:
     We always enjoy meeting new people and building new relationships. At the outset of any project, we always find that open conversation and a collaborative approach is just as important as being creative. If you would like to know more about working with Listen Up or wish to find out more about our approach, please contact us.
 
     For new music submissions please include a streamable link to forthcoming music and the services you’re interested in so we can put you in touch with the correct team.
-  contact: newmusic[at]listen-up.biz
+  contact: newmusic@listen-up.biz
 layout: contact
 ---
 
