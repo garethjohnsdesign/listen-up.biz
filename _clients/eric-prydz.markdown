@@ -1,7 +1,6 @@
 ---
 title: Eric Prydz
 categories:
-- artist-and-label-press
 - specialist-radio-and-club
 tags:
 - artist

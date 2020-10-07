@@ -1,7 +1,5 @@
 ---
 title: Nero
-categories:
-- artist-and-label-press
 tags:
 - artist
 position: 253
