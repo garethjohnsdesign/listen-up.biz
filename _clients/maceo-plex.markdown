@@ -1,7 +1,6 @@
 ---
 title: Maceo Plex
 categories:
-- artist-and-label-press
 - streaming-promotion
 tags:
 - artist
