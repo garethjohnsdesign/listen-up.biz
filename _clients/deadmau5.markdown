@@ -1,7 +1,5 @@
 ---
 title: Deadmau5
-categories:
-- artist-and-label-press
 tags:
 - artist
 position: 201

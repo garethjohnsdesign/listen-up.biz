@@ -1,7 +1,5 @@
 ---
 title: Kokiri
-categories:
-- artist-and-label-press
 tags:
 - artist
 position: 281

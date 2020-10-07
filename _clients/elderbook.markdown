@@ -1,7 +1,5 @@
 ---
 title: Elderbrook
-categories:
-- artist-and-label-press
 tags:
 - artist
 position: 265
