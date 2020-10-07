@@ -1,7 +1,6 @@
 ---
 title: NAATIONS
 categories:
-- artist-and-label-press
 - streaming-promotion
 tags:
 - artist
