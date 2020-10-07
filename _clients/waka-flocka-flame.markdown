@@ -1,7 +1,5 @@
 ---
 title: Waka Flocka Flame
-tags:
-- artist
 position: 83
 image: "/uploads/waka-flocka-flame.jpg"
 is-home-featured: false
