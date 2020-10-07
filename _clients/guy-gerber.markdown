@@ -1,7 +1,6 @@
 ---
 title: Guy Gerber
 categories:
-- artist-and-label-press
 - specialist-radio-and-club
 tags:
 - artist
