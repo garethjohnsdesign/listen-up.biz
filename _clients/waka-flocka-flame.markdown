@@ -1,7 +1,5 @@
 ---
 title: Waka Flocka Flame
-categories:
-- artist-and-label-press
 tags:
 - artist
 position: 83
