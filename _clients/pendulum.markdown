@@ -1,7 +1,5 @@
 ---
 title: Pendulum
-tags:
-- artist
 position: 88
 image: "/uploads/pendulum.jpg"
 is-home-featured: false
