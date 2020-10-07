@@ -1,7 +1,5 @@
 ---
 title: Axwell Λ Ingrosso
-tags:
-- artist
 position: 217
 website: https://axwellingrosso.com
 facebook: https://www.facebook.com/axwellingrosso/
