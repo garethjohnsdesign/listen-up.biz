@@ -1,7 +1,5 @@
 ---
 title: Nothing Else Matters
-categories:
-- artist-and-label-press
 tags:
 - label
 position: 250
