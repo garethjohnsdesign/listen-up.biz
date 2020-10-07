@@ -1,7 +1,5 @@
 ---
 title: Jacob Plant
-categories:
-- artist-and-label-press
 tags:
 - artist
 position: 85

@@ -1,12 +1,10 @@
 ---
 title: Marvin Humes
-categories:
-- artist-and-label-press
 tags:
 - artist
 position: 289
 image: "/uploads/marvin.jpg"
-is-digital-featured: true
 facebook: https://www.facebook.com/MarvinHumes/
+is-digital-featured: true
 ---
 

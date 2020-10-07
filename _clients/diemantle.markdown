@@ -1,7 +1,5 @@
 ---
 title: Diemantle
-categories:
-- artist-and-label-press
 tags:
 - artist
 position: 203
