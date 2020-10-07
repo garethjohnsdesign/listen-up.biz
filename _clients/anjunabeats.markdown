@@ -1,7 +1,5 @@
 ---
 title: Anjunabeats
-categories:
-- artist-and-label-press
 tags:
 - label
 position: 215

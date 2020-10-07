@@ -1,7 +1,6 @@
 ---
 title: Size Records
 categories:
-- artist-and-label-press
 - specialist-radio-and-club
 - streaming-promotion
 tags:

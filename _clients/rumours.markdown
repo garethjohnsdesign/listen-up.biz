@@ -1,7 +1,6 @@
 ---
 title: Rumors
 categories:
-- artist-and-label-press
 - specialist-radio-and-club
 tags:
 - label

@@ -1,7 +1,5 @@
 ---
 title: DJDS
-categories:
-- artist-and-label-press
 tags:
 - artist
 position: 34

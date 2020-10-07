@@ -1,7 +1,5 @@
 ---
 title: Black Sun Empire
-categories:
-- artist-and-label-press
 tags:
 - artist
 position: 226
