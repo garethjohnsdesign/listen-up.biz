@@ -2,8 +2,6 @@
 title: Maceo Plex
 categories:
 - streaming-promotion
-tags:
-- artist
 position: 139
 image: "/uploads/maceo-plex.jpg"
 is-artist-and-label-press-featured: false

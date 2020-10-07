@@ -2,8 +2,6 @@
 title: Guy Gerber
 categories:
 - specialist-radio-and-club
-tags:
-- artist
 position: 271
 image: "/uploads/gerber.jpg"
 is-home-featured: false

@@ -3,8 +3,6 @@ title: DJ Snake
 date: 2018-08-28 12:42:00 Z
 categories:
 - streaming-promotion
-tags:
-- artist
 image: "/uploads/DJ%20Snake.jpg"
 is-home-featured: false
 is-artist-and-label-press-featured: false
