@@ -2,8 +2,6 @@
 title: Alison Wonderland
 categories:
 - daytime-radio
-tags:
-- artist
 position: 223
 image: "/uploads/alison-wonderland.jpg"
 is-home-featured: false
