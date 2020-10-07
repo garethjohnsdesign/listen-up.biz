@@ -1,7 +1,5 @@
 ---
 title: Riva Starr
-categories:
-- artist-and-label-press
 tags:
 - artist
 position: 103
