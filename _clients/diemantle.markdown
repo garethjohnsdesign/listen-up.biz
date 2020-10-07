@@ -1,7 +1,5 @@
 ---
 title: Diemantle
-tags:
-- artist
 position: 203
 facebook: https://www.facebook.com/DieMantle/
 twitter: https://twitter.com/DieMantle

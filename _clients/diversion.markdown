@@ -1,7 +1,5 @@
 ---
 title: Diversion
-tags:
-- artist
 position: 235
 website: http://www.diversionla.com
 facebook: https://www.facebook.com/DiversionLA/
