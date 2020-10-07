@@ -1,7 +1,5 @@
 ---
 title: Axwell Λ Ingrosso
-categories:
-- artist-and-label-press
 tags:
 - artist
 position: 217
