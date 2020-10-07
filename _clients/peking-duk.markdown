@@ -1,7 +1,5 @@
 ---
 title: Peking Duk
-categories:
-- artist-and-label-press
 tags:
 - artist
 position: 128
