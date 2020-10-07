@@ -1,7 +1,5 @@
 ---
 title: Tennyson
-categories:
-- artist-and-label-press
 tags:
 - artist
 position: 91
