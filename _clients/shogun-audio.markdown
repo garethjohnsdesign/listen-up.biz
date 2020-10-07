@@ -1,7 +1,5 @@
 ---
 title: Shogun Audio
-categories:
-- artist-and-label-press
 tags:
 - label
 position: 291
