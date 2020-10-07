@@ -1,7 +1,5 @@
 ---
 title: Deadmau5
-tags:
-- artist
 position: 201
 image: "/uploads/deadmau5.jpg"
 is-home-featured: false
