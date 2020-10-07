@@ -1,7 +1,5 @@
 ---
 title: Get Twisted
-categories:
-- artist-and-label-press
 tags:
 - label
 position: 191
