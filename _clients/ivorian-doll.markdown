@@ -6,6 +6,7 @@ categories:
 tags:
 - artist
 image: "/uploads/wV0oaI39v8.jpg"
+is-home-featured: true
 facebook: https://www.facebook.com/ivoriandollmusic/
 ---
 
