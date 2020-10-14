@@ -6,6 +6,7 @@ categories:
 tags:
 - artist
 image: "/uploads/Unknown-1.jpeg"
+is-home-featured: true
 facebook: https://www.facebook.com/starleymusicofficial/
 ---
 
