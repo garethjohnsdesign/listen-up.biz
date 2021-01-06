@@ -3,6 +3,7 @@ title: Doja Cat
 date: 2019-02-21 09:48:00 Z
 categories:
 - artist-and-label-press
+- daytime-radio
 tags:
 - artist
 image: "/uploads/doja-cat.jpg"
