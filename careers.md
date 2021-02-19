@@ -39,6 +39,9 @@ The essential skills you will bring: -
 
 What to expect from us:-
 We value and listen to our staff whilst maintaining a fun working environment, encourage new ideas and offer career progression. Our staff events are legendary, and you will be joining our well established team where you will be given genuine care and support from your colleagues and Directors.
+
 Please note that due to the volume of applications we receive we may not be able to respond to all applications but thank you for your interest in working with us, please keep an eye out on our website for any future opportunities.
+
 Listen Up is an equal opportunities employer and welcomes applications from all suitably qualified persons regardless of their race, sex, disability, religion/belief, sexual orientation or age.
+
 If you are interested in working with us, please apply by emailing a cover letter outlining how you reach our essential requirements along with a copy of your CV to recruitment@listen-up.biz.
