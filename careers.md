@@ -5,8 +5,8 @@ intro: We’re continuously growing and winning new clients. If you're a confide
   pro-active individual with a passion for music and promotion, then we want to hear
   from you.
 intro-no-jobs: 
-Field name: "Radio Promotions Assistant\n\nSalary: Competitive\n\nAnnual Leave: 20
-  days per year + 8 bank holidays\n\nHours: 10.00am – 6.00pm (Monday – Friday)\n\nLocation:
+Radio Promotions Assistant: "Radio Promotions Assistant\n\nSalary: Competitive\n\nAnnual
+  Leave: 20 days per year + 8 bank holidays\n\nHours: 10.00am – 6.00pm (Monday – Friday)\n\nLocation:
   Camden, London, NW1\n\nA bit about us: -\nEstablished in 2009 Listen Up offer a
   tailored range of bespoke radio, club, streaming, print & online press campaigns
   globally through our LA and London offices. In 2014 after recognising a gap in the
