@@ -7,7 +7,7 @@
       "uuidString" : "550FEDE5-7AFF-4FD3-8DBE-A45DE2D02921"
     }
   ],
-  "creatorBuild" : "34018",
+  "creatorBuild" : "34081",
   "files" : {
     "\/_careers\/press-manager-la.markdown" : {
       "cB" : 0,
@@ -4009,6 +4009,14 @@
       "oAP" : "\/_layouts\/default.html",
       "oF" : 0
     },
+    "\/_layouts\/email.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/_layouts\/email.html",
+      "oF" : 0
+    },
     "\/_layouts\/home.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -4124,7 +4132,7 @@
     "\/_site" : {
       "ft" : 65536,
       "oA" : 1,
-      "oAP" : "\/build\/_site",
+      "oAP" : "\/_site",
       "oF" : 0
     },
     "\/_uploads\/abode.jpg" : {
@@ -6871,7 +6879,7 @@
     "\/.jekyll-cache\/Jekyll\/Cache" : {
       "ft" : 65536,
       "oA" : 1,
-      "oAP" : "\/build\/.jekyll-cache\/Jekyll\/Cache",
+      "oAP" : "\/.jekyll-cache\/Jekyll\/Cache",
       "oF" : 0
     },
     "\/.nova\/Artwork" : {
@@ -7777,6 +7785,71 @@
       "pg" : 0,
       "sct" : 1
     },
+    "\/assets\/signature\/facebook.png" : {
+      "ft" : 32768,
+      "iS" : 1001,
+      "oA" : 0,
+      "oAP" : "\/assets\/signature\/facebook.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/signature\/instagram.png" : {
+      "ft" : 32768,
+      "iS" : 4334,
+      "oA" : 0,
+      "oAP" : "\/assets\/signature\/instagram.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/signature\/link.png" : {
+      "ft" : 32768,
+      "iS" : 3227,
+      "oA" : 0,
+      "oAP" : "\/assets\/signature\/link.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/signature\/logo.png" : {
+      "ft" : 32768,
+      "iS" : 7428,
+      "oA" : 0,
+      "oAP" : "\/assets\/signature\/logo.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/signature\/twitter.png" : {
+      "ft" : 32768,
+      "iS" : 2951,
+      "oA" : 0,
+      "oAP" : "\/assets\/signature\/twitter.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/careers.md" : {
       "cB" : 0,
       "cS" : 0,
@@ -7834,6 +7907,25 @@
       "rFN" : 0,
       "uCM" : 0
     },
+    "\/email-signature.md" : {
+      "cB" : 0,
+      "cS" : 0,
+      "eF" : 1,
+      "eL" : 1,
+      "ema" : 1,
+      "eSQ" : 1,
+      "ft" : 4096,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/email-signature.html",
+      "oF" : 0,
+      "oFM" : 0,
+      "oS" : 0,
+      "pHT" : 0,
+      "pME" : 1,
+      "rFN" : 0,
+      "uCM" : 0
+    },
     "\/Gemfile" : {
       "cB" : 0,
       "ft" : 8192,
@@ -7880,7 +7972,7 @@
     "\/node_modules" : {
       "ft" : 65536,
       "oA" : 2,
-      "oAP" : "\/build\/node_modules",
+      "oAP" : "\/node_modules",
       "oF" : 0
     },
     "\/node_modules\/aos\/dist\/aos.js" : {
@@ -10033,21 +10125,21 @@
 
       ],
       "contentEntries" : [
-        "!(node_modules)\/**\/*.html",
-        "!(node_modules)\/**\/*.htm",
-        "!(node_modules)\/**\/*.shtml",
-        "!(node_modules)\/**\/*.xhtml",
-        "!(node_modules)\/**\/*.php",
-        "!(node_modules)\/**\/*.js",
-        "!(node_modules)\/**\/*.ts",
-        "!(node_modules)\/**\/*.coffee",
-        "!(node_modules)\/**\/*.erb",
-        "!(node_modules)\/**\/*.pug",
-        "!(node_modules)\/**\/*.jade",
-        "!(node_modules)\/**\/*.slim",
-        "!(node_modules)\/**\/*.haml",
-        "!(node_modules)\/**\/*.md",
-        "!(node_modules)\/**\/*.kit"
+        "**\/*.html",
+        "**\/*.htm",
+        "**\/*.shtml",
+        "**\/*.xhtml",
+        "**\/*.php",
+        "**\/*.js",
+        "**\/*.ts",
+        "**\/*.coffee",
+        "**\/*.erb",
+        "**\/*.pug",
+        "**\/*.jade",
+        "**\/*.slim",
+        "**\/*.haml",
+        "**\/*.md",
+        "**\/*.kit"
       ],
       "removeFontFace" : 0,
       "removeKeyframes" : 0,
