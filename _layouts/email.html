@@ -31,8 +31,13 @@ layout: default
       </label>
       </div>
       <div class="input-field">
-        <label>Phone Number (staff need to put the area code and remove the 0 so people can easily click the number to dial)
-          <input id="phone-number" type="text" placeholder="+4477 0090 0631">
+        <label>UK Mobile Number (staff need to put the area code and remove the 0 so people can easily click the number to dial)
+          <input id="uk-mobile-number" type="text" placeholder="+4477 0090 0631">
+        </label>
+      </div>
+      <div class="input-field">
+        <label>US Mobile Number (staff need to put the area code and remove the 0 so people can easily click the number to dial)
+          <input id="us-mobile-number" type="text" placeholder="+1 20 2555 0184">
         </label>
       </div>
       <div class="input-field">
@@ -56,7 +61,8 @@ layout: default
     const inputs = document.getElementsByTagName('input');
     const name = document.getElementById('name');
     const jobTitle = document.getElementById('job-title');
-    const phoneNumber = document.getElementById('phone-number');
+    const ukmobileNumber = document.getElementById('uk-mobile-number');
+    const usmobileNumber = document.getElementById('us-mobile-number');
     const showDisclaimer = document.getElementById('show-disclaimer');
 
     for (let i = 0; i < inputs.length; i++) {
@@ -88,12 +94,9 @@ const code = `
      </table>
  </td>
 </tr>
-<!---->
 <tr>
     <td style="padding: 0px 1px 6px 0px; font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14px; white-space: nowrap;">
         <p style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14px; color: rgb(227,32,23); white-space: nowrap; margin: 1px;">${name.value} <span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14px; white-space: nowrap; color: rgb(128,128,128); margin: 1px;">${jobTitle.value}</span></p>
-        <!---->
-        <p style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14px; white-space: nowrap; color: rgb(0,0,0); margin: 1px;">Listen Up Music Promotion</p>
     </td>
 </tr>
 <tr>
@@ -106,26 +109,28 @@ const code = `
                         <tr>
                          <!---->
                          <td style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14px; white-space: nowrap; color: rgb(0,0,1) !important; padding: 6px 1px 0px 0px;">
-                             <p style="margin: 1px;"><a href="https://www.listen-up.biz" target="_blank" style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14px; white-space: nowrap; color: rgb(0,0,0); text-decoration: none !important;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14px; white-space: nowrap; color: rgb(227,32,23); text-decoration: none !important;">UK Office</span></a></p>
+                             <p style="margin: 1px;"><a href="https://www.listen-up.biz" target="_blank" style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14px; white-space: nowrap; color: rgb(0,0,0); text-decoration: none !important;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14px; white-space: nowrap; color: rgb(227,32,23); text-decoration: none !important;">UK Office</span></a>
+                             
+                             ${ukmobileNumber.value ? `
+                             <a href="tel:${ukmobileNumber.value}" target="_blank" style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14px; white-space: nowrap; color: rgb(0,0,0); text-decoration: none !important;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14px; white-space: nowrap; color: rgb(0,0,0); text-decoration: none !important;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14px; white-space: nowrap; color: rgb(128,128,128); text-decoration: none !important;"> M</span> ${ukmobileNumber.value}</span>
+                              </a>
+                              ` : ''}
+                             
+                             </p>
                          </td>
-                        </tr>
-                        <tr>
-                            <!---->
-                            <td style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14px; white-space: nowrap; color: rgb(0,0,1) !important; padding: 0px 1px 0px 0px;">
-                                <p style="margin: 1px;"><a href="tel:+4402035886200" target="_blank" style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14px; white-space: nowrap; color: rgb(0,0,0); text-decoration: none !important;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14px; white-space: nowrap; color: rgb(0,0,0); text-decoration: none !important;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14px; white-space: nowrap; color: rgb(128,128,128); text-decoration: none !important;">O</span> +44 (0)20 3588 6200</span></a><a href="tel:${phoneNumber.value}" target="_blank" style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14px; white-space: nowrap; color: rgb(0,0,0); text-decoration: none !important;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14px; white-space: nowrap; color: rgb(0,0,0); text-decoration: none !important;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14px; white-space: nowrap; color: rgb(128,128,128); text-decoration: none !important;"> M</span> ${phoneNumber.value}</span></a></p>
-                            </td>
                         </tr>
                         <tr>
                          <!---->
-                         <td style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14px; white-space: nowrap; color: rgb(0,0,1) !important; padding: 6px 1px 0px 0px;">
-                             <p style="margin: 1px;"><a href="https://www.listen-up.biz" target="_blank" style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14px; white-space: nowrap; color: rgb(0,0,0); text-decoration: none !important;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14px; white-space: nowrap; color: rgb(227,32,23); text-decoration: none !important;">US Office</span></a></p>
+                         <td style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14px; white-space: nowrap; color: rgb(0,0,1) !important; padding: 0px 1px 0px 0px;">
+                             <p style="margin: 1px;"><a href="https://www.listen-up.biz" target="_blank" style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14px; white-space: nowrap; color: rgb(0,0,0); text-decoration: none !important;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14px; white-space: nowrap; color: rgb(227,32,23); text-decoration: none !important;">US Office</span></a>
+
+                             ${usmobileNumber.value ? `
+                             <a href="tel:${usmobileNumber.value}" target="_blank" style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14px; white-space: nowrap; color: rgb(0,0,0); text-decoration: none !important;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14px; white-space: nowrap; color: rgb(0,0,0); text-decoration: none !important;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14px; white-space: nowrap; color: rgb(128,128,128); text-decoration: none !important;"> M</span> ${usmobileNumber.value}</span>
+                             </a>
+                             ` : ''}
+
+                             </p>
                          </td>
-                        </tr>
-                        <tr>
-                            <!---->
-                            <td style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14px; white-space: nowrap; color: rgb(0,0,1) !important; padding: 0px 1px 0px 0px;">
-                                <p style="margin: 1px;"><a href="tel:+13237856313 " target="_blank" style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14px; white-space: nowrap; color: rgb(0,0,0); text-decoration: none !important;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14px; white-space: nowrap; color: rgb(0,0,0); text-decoration: none !important;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14px; white-space: nowrap; color: rgb(128,128,128); text-decoration: none !important;">O</span> +1 (323) 785 6313</span></a></p>
-                            </td>
                         </tr>
                         <tr>
                          <td style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14px; white-space: nowrap; color: rgb(227,32,22) !important; padding: 13px 3px 0px 0px;">

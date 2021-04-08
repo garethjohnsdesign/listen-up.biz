@@ -7,7 +7,7 @@
       "uuidString" : "550FEDE5-7AFF-4FD3-8DBE-A45DE2D02921"
     }
   ],
-  "creatorBuild" : "34081",
+  "creatorBuild" : "34127",
   "files" : {
     "\/_careers\/press-manager-la.markdown" : {
       "cB" : 0,
@@ -6876,12 +6876,6 @@
       "oAP" : "\/.gitignore",
       "oF" : 0
     },
-    "\/.jekyll-cache\/Jekyll\/Cache" : {
-      "ft" : 65536,
-      "oA" : 1,
-      "oAP" : "\/.jekyll-cache\/Jekyll\/Cache",
-      "oF" : 0
-    },
     "\/.nova\/Artwork" : {
       "cB" : 0,
       "ft" : 8192,
@@ -10146,6 +10140,9 @@
       "removeVariables" : 0,
       "safelistEntries" : [
 
+      ],
+      "skippedEntries" : [
+        "node_modules\/**"
       ]
     },
     "rollupContext" : "",
@@ -10180,6 +10177,7 @@
     "tsNoImplicitThis" : 0,
     "tsNoImplicitUseStrict" : 0,
     "tsNoLib" : 0,
+    "tsNoPropertyAccessFromIndexSignature" : 0,
     "tsNoResolve" : 0,
     "tsNoStrictGenericChecks" : 0,
     "tsNoUncheckedIndexAccess" : 0,
