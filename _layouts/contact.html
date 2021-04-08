@@ -47,6 +47,7 @@ layout: default
 
 
 <script>
+mapboxgl.accessToken = 'pk.eyJ1IjoiZ2FyZXRoam9obnNkZXNpZ24iLCJhIjoiY2s2cWl1a3pzMTByajNucDk3OTlzbGNsbyJ9.rPrZ8SXk_i_WVzvfDYdWcQ';
 {% for location in page.locations %}
 window.addEventListener('load', function() {
     var {{ location.title | slugify: "pretty" | remove: "-" }} = new mapboxgl.Map({
