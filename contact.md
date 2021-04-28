@@ -9,10 +9,9 @@ locations:
   location: "-0.138580, 51.541603"
   phone: "+44 (0)20 3588 6200"
 - title: Los Angeles
-  address-text: "2748 Palos Verdes Dr E,\nRancho Palos Verdes \nLos Angeles  \nCA
-    90275  \nUnited States "
+  address-text: 
   directions: 
-  location: 33.7296948806949, -118.33726587350479
+  location: 
   phone: 
 enquiries:
 - title: New Business
