@@ -57,7 +57,11 @@ apply-description: "WHAT TO EXPECT FROM US:\nWe have an open and honest culture 
 We are currently recruiting for a passionate and driven Junior Press Manager to join our established Press Team in Los Angeles.
 
 Title: Junior Press Manager (US) 
+
 Annual Leave: 15 days PTO 
+
 Hours: 9.00am - 5.00pm (Monday - Friday)
+
 Location: Currently remote working with regular team meets in Downtown or WeHo
+
 Start date: Immediate start date 
