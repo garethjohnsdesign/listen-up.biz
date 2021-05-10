@@ -42,11 +42,11 @@ skills-description: |-
   • Must be able to work well under pressure within a fast paced environment, dealing with Directors & colleagues both in the US and UK
 
   • Adaptable to different methods of working
-focus-description: "KEY FOCUS AREAS OF THE ROLE:\n\n• Develop campaign strategies
-  for client releases with help from senior staff\n\n• Develop strong relationships
-  with print and online journalists\n\n• Deliver successful press campaigns for client
-  releases\n\n• Build relationships with clients \n\n• Attend both new and existing
-  client meets with senior member of staff"
+focus-description: "• Develop campaign strategies for client releases with help from
+  senior staff\n\n• Develop strong relationships with print and online journalists\n\n•
+  Deliver successful press campaigns for client releases\n\n• Build relationships
+  with clients \n\n• Attend both new and existing client meets with senior member
+  of staff"
 apply-description: "WHAT TO EXPECT FROM US:\n\nWe have an open and honest culture
   within our business, value and listen to our staff whilst maintaining a fun working
   environment, encourage new ideas and offer career progression. Our staff events
