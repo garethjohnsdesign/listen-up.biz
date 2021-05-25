@@ -7,7 +7,7 @@ tags:
 - artist
 position: 200
 image: "/uploads/jamie-jones.jpg"
-is-home-featured: true
+is-home-featured: false
 is-artist-and-label-press-featured: true
 is-client-featured: true
 facebook: https://www.facebook.com/jamiejonesmusic/

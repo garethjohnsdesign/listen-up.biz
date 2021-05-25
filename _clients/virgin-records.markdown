@@ -8,7 +8,7 @@ tags:
 - label
 position: 308
 image: "/uploads/Virgin%20EMI.jpg"
-is-home-featured: true
+is-home-featured: false
 is-artist-and-label-press-featured: true
 is-streaming-promotion-featured: true
 is-client-featured: false

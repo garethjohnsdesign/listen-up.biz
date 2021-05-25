@@ -7,7 +7,7 @@ tags:
 - artist
 position: 222
 image: "/uploads/Black-Coffee.jpeg"
-is-home-featured: true
+is-home-featured: false
 is-artist-and-label-press-featured: true
 is-client-featured: true
 website: http://www.blackcoffee.dj

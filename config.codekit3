@@ -1225,6 +1225,14 @@
       "oAP" : "\/_clients\/future-sound-of-them.markdown",
       "oF" : 0
     },
+    "\/_clients\/gallant.markdown" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/_clients\/gallant.markdown",
+      "oF" : 0
+    },
     "\/_clients\/gashi.markdown" : {
       "cB" : 0,
       "ft" : 8192,
@@ -6882,6 +6890,12 @@
       "hM" : 0,
       "oA" : 2,
       "oAP" : "\/.gitignore",
+      "oF" : 0
+    },
+    "\/.jekyll-cache\/Jekyll\/Cache" : {
+      "ft" : 65536,
+      "oA" : 1,
+      "oAP" : "\/.jekyll-cache\/Jekyll\/Cache",
       "oF" : 0
     },
     "\/.nova\/Artwork" : {

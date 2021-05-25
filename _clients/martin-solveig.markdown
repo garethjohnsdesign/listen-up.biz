@@ -7,7 +7,7 @@ tags:
 - artist
 position: 239
 image: "/uploads/Martin%20Solveig.jpg"
-is-home-featured: true
+is-home-featured: false
 is-artist-and-label-press-featured: false
 is-daytime-radio-featured: false
 is-streaming-promotion-featured: true

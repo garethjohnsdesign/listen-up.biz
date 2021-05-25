@@ -6,7 +6,7 @@ categories:
 tags:
 - artist
 image: "/uploads/SamTompkins.jpg"
-is-home-featured: true
+is-home-featured: false
 is-artist-and-label-press-featured: true
 is-client-featured: true
 twitter: https://twitter.com/SamTompkinsUK

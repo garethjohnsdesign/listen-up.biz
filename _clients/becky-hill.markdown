@@ -6,7 +6,7 @@ categories:
 tags:
 - artist
 image: "/uploads/BeckyHill.jpeg"
-is-home-featured: true
+is-home-featured: false
 is-daytime-radio-featured: true
 is-client-featured: true
 website: https://www.beckyhillofficial.com/
