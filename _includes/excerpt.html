@@ -1,6 +1,8 @@
 <div class="excerpt">
     {% if client.website %}
     <a href="{{ client.website }}" target="_blank">
+    {% elsif client.instagram %}
+    <a href="{{ client.instagram }}" target="_blank">
     {% elsif client.facebook %}
     <a href="{{ client.facebook }}" target="_blank">
     {% else %}
