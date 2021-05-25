@@ -8,7 +8,7 @@ tags:
 - artist
 position: 284
 image: "/uploads/mk.jpg"
-is-home-featured: false
+is-home-featured: true
 is-artist-and-label-press-featured: false
 is-daytime-radio-featured: true
 is-client-featured: true
