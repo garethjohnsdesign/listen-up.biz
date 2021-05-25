@@ -7,7 +7,7 @@ categories:
 tags:
 - artist
 image: "/uploads/doja-cat.jpg"
-is-home-featured: false
+is-home-featured: true
 is-artist-and-label-press-featured: true
 is-daytime-radio-featured: true
 is-client-featured: true
