@@ -2,6 +2,15 @@
 title: Listen Up
 position: 0
 image: "/assets/img/og-image.png"
+clients:
+- Black Coffee
+- Burna
+- MK
+- Becky Hill
+- Doja Cat
+- Princess Nokia
+- Jamie Jones
+- The Martinez Brothers
 layout: home
 ---
 
