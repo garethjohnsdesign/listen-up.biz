@@ -9,6 +9,22 @@
   ],
   "creatorBuild" : "34127",
   "files" : {
+    "\/_careers\/junior-press-manager-la.markdown" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/_careers\/junior-press-manager-la.markdown",
+      "oF" : 0
+    },
+    "\/_careers\/press-intern.markdown" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/_careers\/press-intern.markdown",
+      "oF" : 0
+    },
     "\/_careers\/press-manager-la.markdown" : {
       "cB" : 0,
       "ft" : 8192,
@@ -6866,12 +6882,6 @@
       "hM" : 0,
       "oA" : 2,
       "oAP" : "\/.gitignore",
-      "oF" : 0
-    },
-    "\/.jekyll-cache\/Jekyll\/Cache" : {
-      "ft" : 65536,
-      "oA" : 1,
-      "oAP" : "\/.jekyll-cache\/Jekyll\/Cache",
       "oF" : 0
     },
     "\/.nova\/Artwork" : {

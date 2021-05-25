@@ -35,159 +35,8 @@ layout: default
 </div>
 <!-- End Intro -->
 
-<div class="grid-container margin-bottom-2">
-<div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-2 large-up-3">
-  {% assign front-clients = site.clients | sort: 'position' | where: "is-home-featured", "true" | sample: 27 %}
-  
-<!-- One -->
-  <div class="cell"> 
-    <div class="orbit" data-orbit data-options="animInFromLeft:fade-in; animInFromRight:fade-in; animOutToLeft:fade-out; animOutToRight:fade-out;" data-timer-delay="6000">
-      <div class="orbit-wrapper">
-        <ul class="orbit-container">
-          {% for client in front-clients limit:3 %}
-          <li class="orbit-slide">
-            {% include excerpt.html %}
-          </li>
-          {% endfor %}
-        </ul>
-      </div>
-    </div>
-  </div>
-<!-- End One -->
-
-<!-- Two -->
-  <div class="cell"> 
-    <div class="orbit" data-orbit data-options="animInFromLeft:fade-in; animInFromRight:fade-in; animOutToLeft:fade-out; animOutToRight:fade-out;" data-timer-delay="21000">
-      <div class="orbit-wrapper">
-        <ul class="orbit-container">
-          {% for client in front-clients limit:3 offset:3 %}
-          <li class="orbit-slide">
-            {% include excerpt.html %}
-          </li>
-          {% endfor %}
-        </ul>
-      </div>
-    </div>
-  </div>
-<!-- End Two -->
-
-<!-- Three -->
-  <div class="cell"> 
-    <div class="orbit" data-orbit data-options="animInFromLeft:fade-in; animInFromRight:fade-in; animOutToLeft:fade-out; animOutToRight:fade-out;" data-timer-delay="15000">
-      <div class="orbit-wrapper">
-        <ul class="orbit-container">
-          {% for client in front-clients limit:3 offset:6 %}
-          <li class="orbit-slide">
-            {% include excerpt.html %}
-          </li>
-          {% endfor %}
-        </ul>
-      </div>
-    </div>
-  </div>
-<!-- End Three -->
-
-<!-- Four -->
-  <div class="cell"> 
-    <div class="orbit" data-orbit data-options="animInFromLeft:fade-in; animInFromRight:fade-in; animOutToLeft:fade-out; animOutToRight:fade-out;" data-timer-delay="9000">
-      <div class="orbit-wrapper">
-        <ul class="orbit-container">
-          {% for client in front-clients limit:3 offset:9 %}
-          <li class="orbit-slide">
-            {% include excerpt.html %}
-          </li>
-          {% endfor %}
-        </ul>
-      </div>
-    </div>
-  </div>
-<!-- End Four -->
-
-<!-- Five -->
-  <div class="cell"> 
-    <div class="orbit" data-orbit data-options="animInFromLeft:fade-in; animInFromRight:fade-in; animOutToLeft:fade-out; animOutToRight:fade-out;" data-timer-delay="3000">
-      <div class="orbit-wrapper">
-        <ul class="orbit-container">
-          {% for client in front-clients limit:3 offset:12 %}
-          <li class="orbit-slide">
-            {% include excerpt.html %}
-          </li>
-          {% endfor %}
-        </ul>
-      </div>
-    </div>
-  </div>
-<!-- End Five -->
-
-<!-- Six -->
-  <div class="cell"> 
-    <div class="orbit" data-orbit data-options="animInFromLeft:fade-in; animInFromRight:fade-in; animOutToLeft:fade-out; animOutToRight:fade-out;" data-timer-delay="24000">
-      <div class="orbit-wrapper">
-        <ul class="orbit-container">
-          {% for client in front-clients limit:3 offset:15 %}
-          <li class="orbit-slide">
-            {% include excerpt.html %}
-          </li>
-          {% endfor %}
-        </ul>
-      </div>
-    </div>
-  </div>
-<!-- End Six -->
-
-<!-- Seven -->
-  <div class="cell"> 
-    <div class="orbit" data-orbit data-options="animInFromLeft:fade-in; animInFromRight:fade-in; animOutToLeft:fade-out; animOutToRight:fade-out;" data-timer-delay="7000">
-      <div class="orbit-wrapper">
-        <ul class="orbit-container">
-          {% for client in front-clients limit:3 offset:18 %}
-          <li class="orbit-slide">
-            {% include excerpt.html %}
-          </li>
-          {% endfor %}
-        </ul>
-      </div>
-    </div>
-  </div>
-<!-- End Seven -->
-
-<!-- Eight -->
-  <div class="cell"> 
-    <div class="orbit" data-orbit data-options="animInFromLeft:fade-in; animInFromRight:fade-in; animOutToLeft:fade-out; animOutToRight:fade-out;" data-timer-delay="18000">
-      <div class="orbit-wrapper">
-        <ul class="orbit-container">
-          {% for client in front-clients limit:3 offset:21 %}
-          <li class="orbit-slide">
-            {% include excerpt.html %}
-          </li>
-          {% endfor %}
-        </ul>
-      </div>
-    </div>
-  </div>
-<!-- End Eight -->
-
-<!-- Nine -->
-  <div class="cell"> 
-    <div class="orbit" data-orbit data-options="animInFromLeft:fade-in; animInFromRight:fade-in; animOutToLeft:fade-out; animOutToRight:fade-out;" data-timer-delay="12000">
-      <div class="orbit-wrapper">
-        <ul class="orbit-container">
-          {% for client in front-clients limit:3 offset:24 %}
-          <li class="orbit-slide">
-            {% include excerpt.html %}
-          </li>
-          {% endfor %}
-        </ul>
-      </div>
-    </div>
-  </div>
-<!-- End Nine -->
-  
-</div>
-</div>
-
 <!-- Front Clients -->
-<!--
+
 <div class="grid-x padding-bottom-3 small-up-1 medium-up-2 large-up-3 xxlarge-up-4">
   {% assign front-clients = site.clients | sort: 'position' | where: "is-home-featured", "true" | sample:24 %}
   {% for client in front-clients %}
@@ -196,7 +45,7 @@ layout: default
     </div>
   {% endfor %}
 </div>
--->
+
 <!-- End Front Clients -->
 
 <!-- Services -->
