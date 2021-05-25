@@ -6,7 +6,7 @@ categories:
 tags:
 - artist
 image: "/uploads/maya-jane-coles.jpg"
-is-home-featured: true
+is-home-featured: false
 is-daytime-radio-featured: true
 website: http://mayajanecoles.com/
 ---
