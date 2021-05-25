@@ -11,7 +11,7 @@ locations:
 - title: Los Angeles
   address-text: 
   directions: 
-  location: 
+  location: "-118.33726587350479, 33.7296948806949"
   phone: 
 enquiries:
 - title: New Business

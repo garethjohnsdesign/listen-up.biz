@@ -15,7 +15,7 @@ layout: default
           <div class="cell contact__enquiry">
             <h3>{{ location.title }}</h4>
             {{ location.address-text | markdownify }}
-            <div><a href="{{ location.directions }}" class="underline">Directions</a></div>
+            {% if location.directions %}<div><a href="{{ location.directions }}" class="underline">Directions</a></div>{% endif %}
             <div><a href="tel:{{ location.phone }}" class="underline">{{ location.phone }}</a></div>
           </div>
       </div> 
