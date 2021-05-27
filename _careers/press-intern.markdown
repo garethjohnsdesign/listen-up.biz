@@ -33,3 +33,10 @@ apply-description: To apply, please email recruitment@listen-up.biz
 
 We are currently recruiting for a passionate and driven Press Intern to join our established Press Team in London. 
 
+Annual Leave: 20 days (pro rata)
+
+Location: Camden, London / Remote working 
+
+Hours: 10.30am - 6.00pm (Monday - Friday)
+
+Start date: Immediate start date 
