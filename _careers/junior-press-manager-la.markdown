@@ -68,7 +68,7 @@ We are currently recruiting for a passionate and driven Junior Press Manager to 
 
 Title: Junior Press Manager (US) 
 
-Annual Leave: 15 days PTO 
+PTO: 15 days plus public holidays
 
 Hours: 9.00am - 5.00pm (Monday - Friday)
 
