@@ -1,5 +1,5 @@
 ---
-title: Press Manager LA
+title: Press Manager, LA
 date: 2020-05-19 08:02:00 Z
 about-description: "\nA BIT ABOUT US: \n\nEstablished in 2009 Listen Up offer a tailored
   range of bespoke radio, club, streaming, online and print promotion campaigns globally
