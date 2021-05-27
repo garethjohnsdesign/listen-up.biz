@@ -54,8 +54,12 @@ apply-description: |-
 
 We are looking for an experienced Press Manager to join our amazing team in Hollywood, Los Angeles.
 
+Title: Press Manager (US)
+
+PTO: 15 days plus public holidays
+
 Hours: 9.00am - 5.00pm (Monday - Friday)
 
-PTO: 15 days plus public holidays 
+Location: Currently remote working with regular team meets in Downtown or WeHo
 
-Start date: Immediate start date 
+Start date: Immediate start date
