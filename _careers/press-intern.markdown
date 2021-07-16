@@ -1,6 +1,7 @@
 ---
 title: Press Intern, London
 date: 2021-05-21 14:53:00 Z
+published: false
 about-description: Established in 2009 Listen Up offer a tailored range of bespoke
   radio, club, streaming, online and print promotion campaigns globally through our
   LA and London offices. In 2014 after recognising a gap in the market we moved our
