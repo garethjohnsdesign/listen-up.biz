@@ -12,7 +12,11 @@ about-description: Established in 2009 Listen Up offer a tailored range of bespo
   as one of the market leaders in the world of music promotion ser-vices. We have
   grown massively over the last 10 years with offices in both the UK and US, and 3
   companies working under our Listen Up umbrella.
-job-description: "\n\n"
+job-description: We are currently recruiting for a Press Assistant in our London offices.
+  You must have 1 year experience working within a similar environment with a keen
+  interest in music, media and changing trends. If you are looking for a hands on
+  role that gives you the opportunity to be involved in all aspects of music PR, we
+  could be what you are looking for.
 skills-description: |-
   •Minimum 1 year’s experience in a similar role
 
