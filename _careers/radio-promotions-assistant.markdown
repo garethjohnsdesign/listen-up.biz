@@ -1,5 +1,5 @@
 ---
-title: Radio Promotions Assistant
+title: Radio Promotions Assistant, London
 date: 2021-02-26 08:02:00 Z
 email: recruitment@listen-up biz
 about-description: Established in 2009 Listen Up offer a tailored range of bespoke
