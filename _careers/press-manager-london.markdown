@@ -1,7 +1,6 @@
 ---
 title: Press Manager, London
 date: 2021-07-29 16:20:00 Z
-published: false
 about-description: Established in 2009 Listen Up offer a tailored range of bespoke
   radio, club, stream-ing, online and print promotion campaigns globally through our
   LA and London offices. In 2014 after recognising a gap in the market we moved our
