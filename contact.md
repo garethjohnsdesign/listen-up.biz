@@ -9,9 +9,9 @@ locations:
   location: "-0.138580, 51.541603"
   phone: "+44 (0)20 3588 6200"
 - title: Los Angeles
-  address-text: 
+  address-text: "1370 N St Andrews Pl, \nLos Angeles, CA 90028"
   directions: 
-  location: "-118.33726587350479, 33.7296948806949"
+  location: 34.096661730632384, -118.31071781670857
   phone: 
 enquiries:
 - title: New Business
