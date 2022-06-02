@@ -18,74 +18,75 @@ collections:
     title: Uploads
     output: true
 defaults:
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
-- scope:
-    path: ''
-    type: clients
-  values:
-    image: 
-    is-home-featured: 
-    is-artist-and-label-press-featured: 
-    is-events-press-featured: 
-    is-daytime-radio-featured: 
-    is-specialist-radio-and-club-featured: 
-    is-streaming-promotion-featured: 
-    is-client-featured: 
-    website: 
-    facebook: 
-    twitter: 
-    instagram: 
-    spotify: 
-    soundcloud: 
-    youtube: 
-    apple: 
-- scope:
-    path: ''
-    type: services
-  values:
-    service: 
-    subtitle: 
-    excerpt: 
-- scope:
-    path: ''
-    type: careers
-  values:
-    email: recruitment@listen-up.biz
-    about-description: 
-    job-description: 
-    skills-description: 
-    focus-description: 
-    competencies-description: 
-    expectations-description: 
-    apply-description: 
-    layout: job
-url: https://www.listen-up.biz
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: clients
+    values:
+      image:
+      is-home-featured:
+      is-artist-and-label-press-featured:
+      is-events-press-featured:
+      is-daytime-radio-featured:
+      is-specialist-radio-and-club-featured:
+      is-streaming-promotion-featured:
+      is-client-featured:
+      website:
+      facebook:
+      twitter:
+      instagram:
+      spotify:
+      soundcloud:
+      youtube:
+      apple:
+  - scope:
+      path: ""
+      type: services
+    values:
+      service:
+      subtitle:
+      excerpt:
+  - scope:
+      path: ""
+      type: careers
+    values:
+      email: recruitment@listen-up.biz
+      about-description:
+      job-description:
+      skills-description:
+      focus-description:
+      competencies-description:
+      expectations-description:
+      apply-description:
+      layout: job
+url: https://listen-up.netlify.app
 video: https://player.vimeo.com/external/391968510.hd.mp4?s=f92c5067f20c0e3c49a21a26d0459f2eaea66c39&profile_id=174
 video-image: "/uploads/poster.jpg"
-description: Listen Up provides a bespoke 360 promotional service offering radio,
+description:
+  Listen Up provides a bespoke 360 promotional service offering radio,
   club, streaming promotion and press campaigns globally
 permalink: pretty
 exclude:
-- bower.json
-- Gemfile.lock
-- package.json
-- config.codekit3
-- README*
-- LICENSE*
-- CHANGELOG*
-- node_modules
-- ".gitignore"
-- bower_components
-- assets/scss
+  - bower.json
+  - Gemfile.lock
+  - package.json
+  - config.codekit3
+  - README*
+  - LICENSE*
+  - CHANGELOG*
+  - node_modules
+  - ".gitignore"
+  - bower_components
+  - assets/scss
 plugins:
-- jekyll-seo-tag
-- jekyll-sitemap
-- jekyll-feed
-- jekyll/imgix
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll/imgix
 markdown: kramdown
 kramdown:
   input: GFM
@@ -106,8 +107,8 @@ social:
   linkedin: https://www.linkedin.com/company/listen-up-music-pr
 compress_html:
   comments:
-  - "<!-- "
-  - " -->"
+    - "<!-- "
+    - " -->"
   blanklines: true
   profile: false
 imgix:
